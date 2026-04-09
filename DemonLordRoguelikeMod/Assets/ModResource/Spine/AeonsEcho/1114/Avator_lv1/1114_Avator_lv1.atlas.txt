@@ -1,0 +1,413 @@
+1114_Avator_lv1.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.7
+Arm(R)_Tap
+bounds:596,913,327,265
+offsets:5,315,448,580
+rotate:90
+Arm(R)_TapB
+bounds:1857,1305,132,179
+Arm(R)_TapD
+bounds:324,22,214,267
+Belt(L)
+bounds:978,1351,221,321
+Belt(R)Top
+bounds:573,732,62,168
+offsets:0,6,62,174
+BeltTop
+bounds:290,902,304,338
+Body Up
+bounds:319,1242,524,416
+Breasts (L)
+bounds:1586,1758,288,355
+offsets:0,3,288,372
+rotate:90
+Breasts HL (L)
+bounds:1991,1294,45,85
+Breasts HL (R)
+bounds:1658,1262,21,46
+Breasts Sweat(L)
+bounds:850,375,34,80
+offsets:93,0,127,178
+rotate:90
+Breasts Sweat(R)
+bounds:842,263,48,67
+rotate:90
+Breasts Sweat2(L)
+bounds:857,838,33,73
+offsets:18,0,51,118
+Breasts Sweat2(R)
+bounds:754,487,35,151
+offsets:0,0,43,158
+Breasts(R)
+bounds:324,291,210,347
+Buckle(L)
+bounds:1023,824,249,242
+offsets:0,0,249,247
+Buckle(R)
+bounds:1023,1068,281,231
+offsets:13,0,294,231
+rotate:90
+Bun
+bounds:1399,1473,227,185
+offsets:0,1,227,186
+rotate:90
+BunHairA
+bounds:1487,1058,193,188
+BunHairB
+bounds:1924,689,127,69
+offsets:1,0,129,70
+rotate:90
+Calf(L)
+bounds:162,182,160,437
+Calf(R)
+bounds:2,95,158,524
+Clothe B Lower
+bounds:637,720,80,135
+offsets:3,0,83,135
+rotate:90
+DwBody
+bounds:319,1660,578,386
+offsets:0,0,580,386
+DwBody_Light
+bounds:1943,1791,21,31
+offsets:0,0,22,31
+rotate:90
+DwBody_Sweat
+bounds:896,212,49,49
+offsets:20,0,69,70
+Ear(L)
+bounds:758,112,47,95
+rotate:90
+Eye Hl(L)
+bounds:2033,789,13,28
+Eye Lip Down(L)
+bounds:1976,1498,67,72
+Eye Lip Down(R)
+bounds:835,161,36,38
+offsets:0,1,36,39
+rotate:90
+Eye Lip Up(L)
+bounds:1991,1129,76,50
+offsets:0,4,78,62
+rotate:90
+Eye Lip Up(R)
+bounds:917,321,35,52
+offsets:0,2,36,54
+Eye White (L)
+bounds:1201,1379,56,53
+rotate:90
+Eye White (R)
+bounds:875,161,36,36
+Eye lashB (R)
+bounds:855,118,39,41
+EyeBrow(L)
+bounds:978,1292,57,38
+rotate:90
+EyeBrow(R)
+bounds:845,1243,15,41
+offsets:0,0,15,42
+EyeHL
+bounds:596,902,9,22
+rotate:90
+EyeLashA(L)
+bounds:892,859,59,54
+EyeLashA(R)
+bounds:1991,1109,20,18
+EyeLashb(R)
+bounds:1976,1643,70,69
+Face
+bounds:1237,1702,347,344
+FaceRedB_1
+bounds:835,199,59,62
+FaceRedB_2
+bounds:573,710,22,20
+Goggles
+bounds:1483,845,202,211
+offsets:0,2,202,213
+Goggles Belt
+bounds:2,3,179,90
+Hair FrontA
+bounds:1687,820,123,136
+offsets:0,0,125,136
+rotate:90
+Hair FrontB
+bounds:1844,1109,145,194
+Hair FrontC
+bounds:1682,1120,160,188
+Hair FrontC2
+bounds:1825,818,151,94
+HairDecoA
+bounds:747,2,87,108
+offsets:1,1,89,111
+HairDecoB
+bounds:846,518,62,120
+offsets:0,1,63,123
+HairSide(L)
+bounds:863,981,158,303
+HairSide(R)
+bounds:1859,1486,115,270
+offsets:0,0,116,270
+HairSideB(RL)
+bounds:183,28,139,152
+Hand Arm (R)
+bounds:845,1286,131,372
+Hand Arm(L)
+bounds:899,1674,336,372
+Hand FingerA (L)
+bounds:1976,1714,98,70
+rotate:90
+Hand FingerA(R)
+bounds:1892,628,59,95
+offsets:3,0,62,95
+rotate:90
+Hand FingerB (L)
+bounds:637,802,120,109
+offsets:0,0,121,109
+Hand FingerB (R)2
+bounds:1995,697,36,120
+Hand FingerB (R)3
+bounds:1991,1207,53,85
+Hand FingerB (R)4
+bounds:1256,1092,109,229
+rotate:90
+Hand FingerB(R)
+bounds:774,687,88,113
+offsets:4,0,92,113
+Hand FingerC (L)
+bounds:1892,581,81,45
+offsets:0,1,81,46
+Hand ForeArm (R)
+bounds:1256,1203,210,232
+offsets:0,0,211,232
+Hand ForeArm (R)2
+bounds:1274,877,207,213
+offsets:0,0,207,214
+Hand ForeArm(L)
+bounds:290,640,281,260
+Hand Palm(R)
+bounds:1658,1310,200,197
+offsets:0,0,200,242
+rotate:90
+Hand Sweat (L)
+bounds:1991,1381,39,115
+offsets:26,0,65,189
+Hand Thumb(R)
+bounds:791,500,53,138
+Hand beltA(L)
+bounds:1976,1572,69,70
+rotate:90
+Hand beltB(L)
+bounds:892,816,67,41
+Hand palm (L)
+bounds:1835,914,190,193
+Hotdog
+bounds:540,112,258,216
+rotate:90
+Hotdog2
+bounds:1468,1248,223,188
+rotate:90
+Hotdog3
+bounds:1640,685,151,133
+Iris(L)
+bounds:1586,1473,36,37
+Iris(R)
+bounds:263,2,23,24
+offsets:0,1,23,25
+Knee(L)
+bounds:1479,686,157,159
+rotate:90
+Knee(R)
+bounds:1274,700,175,203
+rotate:90
+Layer 50
+bounds:899,1660,12,21
+offsets:10,51,22,76
+rotate:90
+Layer 51 copy
+bounds:536,372,216,266
+offsets:0,2,216,268
+Layer 68
+bounds:913,171,39,33
+rotate:90
+Layer FaceRedA_1
+bounds:1793,603,97,97
+offsets:4,2,101,99
+Layer FaceRedA_2
+bounds:961,813,53,54
+rotate:90
+Leg HL (R)
+bounds:1943,1814,69,232
+offsets:0,2,69,234
+Leg Sweat (R)
+bounds:573,640,58,113
+rotate:90
+Leg Sweat (R)2
+bounds:1237,1678,22,95
+rotate:90
+Leg Sweat (R)3
+bounds:863,915,64,154
+offsets:0,3,64,157
+rotate:90
+Leg Sweat (R)4
+bounds:540,36,74,205
+offsets:3,0,77,218
+rotate:90
+Leg Sweat (R)5
+bounds:183,6,20,78
+rotate:90
+Leg(L)
+bounds:2,1261,315,785
+offsets:10,0,325,785
+Leg(R)
+bounds:2,621,286,638
+Mouth
+bounds:953,868,63,45
+Mouth2_TapA
+bounds:688,640,76,78
+offsets:2,2,81,80
+Mouth_TapA
+bounds:758,268,106,82
+offsets:3,3,134,102
+rotate:90
+Mouth_TapB
+bounds:842,313,73,60
+offsets:0,3,73,63
+Neck
+bounds:1687,945,173,146
+rotate:90
+Nose
+bounds:896,120,35,39
+Saliva
+bounds:2014,2011,35,32
+rotate:90
+finger(R)_TapB_1
+bounds:1399,1442,29,53
+rotate:90
+finger(R)_TapB_2
+bounds:1978,819,93,56
+offsets:0,0,93,57
+rotate:90
+finger(R)_TapB_3
+bounds:836,10,100,59
+rotate:90
+finger(R)_TapB_4
+bounds:850,411,105,57
+rotate:90
+finger(R)_TapB_5
+bounds:766,640,104,45
+offsets:0,1,105,46
+gem C
+bounds:1640,820,23,45
+rotate:90
+gloves(R)2
+bounds:1793,702,129,114
+offsets:1,0,130,115
+gloves_back(L)
+bounds:759,802,96,109
+gloves_back(L) copy
+bounds:754,376,109,94
+offsets:0,1,109,95
+rotate:90
+gloves_back(R)2
+bounds:758,161,105,75
+offsets:0,2,105,81
+rotate:90
+scarf
+bounds:1586,1512,244,271
+rotate:90
+scarf back
+bounds:1201,1437,196,235
+
+1114_Avator_lv1_2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.7
+props/Apple_Star
+bounds:895,521,58,76
+offsets:5,2,66,81
+props/Arm(L)Sha
+bounds:772,779,229,243
+offsets:21,10,265,300
+props/Arm(R)Sha_Tap
+bounds:2,12,80,239
+offsets:1,1,81,240
+rotate:90
+props/Belt(L)Sha
+bounds:202,113,128,101
+offsets:9,5,137,106
+props/Breasts (L)Sha
+bounds:2,293,199,298
+offsets:4,5,212,313
+props/Breasts(R)Sha
+bounds:203,482,109,321
+rotate:90
+props/Clothe B Lower  Sha
+bounds:526,480,111,229
+offsets:4,5,115,235
+rotate:90
+props/Effect_sweat(L)
+bounds:332,110,92,114
+rotate:90
+props/Gem A
+bounds:815,426,50,81
+props/Goggles_effect_Add
+bounds:340,204,132,96
+offsets:0,16,132,112
+rotate:90
+props/Hair FrontA Sha
+bounds:772,509,121,88
+offsets:2,0,123,99
+props/Hair FrontA Sha2
+bounds:637,328,176,150
+props/Hair FrontB Sha
+bounds:243,10,43,101
+offsets:0,2,44,113
+props/HairSide(L)Sha
+bounds:203,338,142,235
+offsets:11,0,153,303
+rotate:90
+props/Hand ForeArm (R)2_Sha
+bounds:2,94,198,197
+offsets:0,3,198,200
+props/NeckSha_Tap
+bounds:985,755,37,22
+offsets:2,5,45,36
+props/Palm(L)Sha
+bounds:440,344,134,195
+offsets:0,2,136,197
+rotate:90
+props/Surprise_tap
+bounds:203,216,120,135
+offsets:4,3,129,141
+rotate:90
+props/WP F(R)
+bounds:2,593,768,429
+props/effect_Add
+bounds:772,599,178,211
+rotate:90
+props/gem B
+bounds:955,553,44,67
+offsets:0,0,46,67
+rotate:90
+
+1114_Avator_lv1_3.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.6
+WP/WP(L)_Intro
+bounds:2,2,753,977
+
+1114_Avator_lv1_4.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.6
+WP/WP(L)
+bounds:2,2,392,824
+WP/WP(R)
+bounds:396,262,373,564

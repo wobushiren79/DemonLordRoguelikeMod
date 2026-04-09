@@ -1,0 +1,586 @@
+2001_Avator_s02.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Arm Down R
+bounds:757,1219,149,151
+rotate:90
+Arm Up L
+bounds:1143,746,218,350
+offsets:0,1,232,351
+rotate:90
+ArmDown L
+bounds:86,63,118,177
+offsets:0,0,119,177
+rotate:270
+ArmUp R
+bounds:746,851,282,402
+rotate:270
+BackHair
+bounds:383,1383,485,329
+offsets:0,0,485,344
+rotate:180
+Belt
+bounds:1295,609,388,227
+offsets:18,0,406,227
+Belt Feather
+bounds:1736,244,151,310
+rotate:270
+Belt Feather Rope
+bounds:722,5,300,105
+BodyLow
+bounds:800,1577,512,456
+offsets:7,0,519,540
+rotate:180
+Bottle
+bounds:270,278,104,247
+offsets:27,0,131,247
+rotate:90
+BpdyUp
+bounds:1248,1567,376,466
+offsets:0,0,386,515
+rotate:180
+Braids
+bounds:2,772,266,248
+offsets:0,8,266,256
+rotate:270
+Calf L
+bounds:797,1185,305,361
+offsets:20,0,325,377
+rotate:270
+Calf L sha
+bounds:132,291,148,259
+offsets:2,9,162,275
+Calf R
+bounds:409,560,311,251
+offsets:0,14,315,265
+Cat A Arm L
+bounds:2,31,75,138
+offsets:0,6,75,144
+Cat A Arm L_Tap
+bounds:1113,11,74,147
+offsets:0,0,80,147
+Cat A Arm R
+bounds:533,954,75,173
+offsets:0,0,83,174
+Cat A ArmDown R  B_Tap
+bounds:947,1456,58,67
+offsets:0,1,62,70
+Cat A ArmDownR A_Tap
+bounds:226,1730,74,66
+offsets:0,0,75,66
+Cat A ArmUp R _Tap
+bounds:1630,1345,50,89
+offsets:0,0,61,92
+Cat A Body
+bounds:228,679,286,197
+offsets:0,6,289,211
+Cat A Body_Tap
+bounds:2,536,215,259
+offsets:0,11,216,270
+Cat A CloseEye L_Tap
+bounds:1397,2018,25,15
+offsets:0,1,27,16
+Cat A CloseEye R_Tap
+bounds:586,2017,29,16
+offsets:0,0,30,16
+Cat A Eyeball L
+bounds:1653,1902,26,29
+Cat A Eyeball R
+bounds:821,2009,24,24
+Cat A Eyewhite L
+bounds:226,2008,31,25
+Cat A Eyewhite R
+bounds:792,2009,27,24
+Cat A Head
+bounds:1251,153,161,156
+rotate:180
+Cat A Head_Tap
+bounds:105,163,177,167
+offsets:0,0,177,168
+rotate:180
+Cat A Leg L
+bounds:1648,1931,66,102
+offsets:1,5,72,112
+Cat A Leg L_Tap
+bounds:263,67,76,172
+rotate:90
+Cat A Leg R
+bounds:1856,57,88,167
+offsets:0,2,95,174
+Cat A Leg R_Tap
+bounds:2,1027,92,243
+offsets:0,4,92,247
+Cat A LowerEyelid L
+bounds:293,1711,37,31
+offsets:0,1,38,35
+Cat A LowertEyelid R
+bounds:781,1795,38,33
+offsets:1,0,42,33
+Cat A NoseMouth
+bounds:1728,1472,58,55
+offsets:7,3,68,62
+Cat A NoseMouth _Tap
+bounds:1664,1308,53,47
+offsets:0,1,55,48
+Cat A Tail
+bounds:1537,799,101,205
+offsets:0,0,102,210
+Cat A UpperEyelid L
+bounds:2,1998,40,35
+offsets:1,0,43,36
+Cat A UpperEyelid R
+bounds:418,2003,39,30
+offsets:0,1,41,35
+Cat A sha
+bounds:793,271,331,134
+offsets:2,7,342,144
+rotate:180
+Cat B Arm L
+bounds:1087,750,77,121
+offsets:0,2,90,123
+Cat B Arm R
+bounds:1110,1942,91,202
+offsets:0,9,94,212
+rotate:90
+Cat B Body
+bounds:1719,721,327,184
+offsets:3,6,339,196
+Cat B CloseEye L_Tap
+bounds:882,1999,29,13
+offsets:2,0,31,14
+Cat B Eyeball L
+bounds:183,1842,27,26
+offsets:1,1,28,27
+Cat B Eyeball R
+bounds:1702,1966,29,28
+offsets:0,0,30,28
+Cat B Head
+bounds:912,142,183,168
+offsets:0,6,183,174
+rotate:180
+Cat B Leg L
+bounds:1159,1884,90,85
+offsets:0,15,92,100
+Cat B LowerEyelid R
+bounds:1402,1520,46,47
+Cat B LowertEyelid L
+bounds:227,1797,41,28
+Cat B Tail
+bounds:1077,69,139,197
+offsets:8,0,154,205
+rotate:90
+Cat B UpperEyelid L
+bounds:805,1947,46,40
+Cat B UpperEyelid R
+bounds:1207,1860,49,49
+offsets:0,2,54,56
+Cat B sha
+bounds:743,353,374,125
+offsets:5,11,381,136
+Cat BCloseEye R_Tap
+bounds:1118,2017,30,16
+offsets:1,0,31,18
+Cat C Body
+bounds:1381,409,253,155
+offsets:0,6,256,162
+Cat C BodyTap
+bounds:955,593,247,152
+offsets:10,8,263,162
+Cat C CloseEye LTap
+bounds:104,2018,19,15
+Cat C CloseEye RTap
+bounds:39,2021,19,12
+Cat C Head
+bounds:284,145,122,132
+offsets:1,6,124,139
+Cat C Head_Tap
+bounds:1161,457,130,129
+offsets:0,7,133,136
+Cat C InMouth_Tap
+bounds:1081,1140,46,46
+Cat C Leg B
+bounds:768,208,131,63
+offsets:1,6,134,71
+Cat C Leg BTap
+bounds:440,1391,105,61
+offsets:0,3,134,71
+Cat C LegDown F
+bounds:1239,684,56,64
+offsets:1,3,58,68
+Cat C LegUp F
+bounds:131,2000,93,33
+offsets:1,3,98,38
+Cat C LegUp_Tap
+bounds:515,1344,151,54
+offsets:0,0,151,55
+Cat C LowetMouthTap
+bounds:1136,1334,62,56
+Cat C Neck
+bounds:2,171,103,116
+offsets:1,3,106,120
+Cat C Neck_Tap
+bounds:711,962,117,112
+offsets:2,1,119,120
+Cat C Tail
+bounds:686,55,183,77
+offsets:3,0,190,82
+Cat C Tail_Tap
+bounds:1200,1323,176,75
+offsets:8,3,190,82
+Cat C Tongue_Tap
+bounds:1961,1847,29,35
+Cat C UpperMouthTap
+bounds:211,1824,52,44
+offsets:4,0,59,47
+Cat C sha
+bounds:1612,153,308,117
+offsets:2,4,328,122
+Cat C sha_Tap
+bounds:1667,606,310,114
+offsets:3,5,328,122
+Cat D Body
+bounds:1058,197,143,209
+offsets:8,0,151,209
+rotate:90
+Cat D Tail
+bounds:1910,472,136,45
+Cat D sha
+bounds:1498,1431,160,53
+offsets:4,1,164,58
+Cat LegR
+bounds:1427,178,145,203
+offsets:4,9,152,215
+rotate:270
+CatB_mouth_new
+bounds:1878,2014,25,19
+Chest L
+bounds:1127,1087,223,369
+offsets:70,36,295,409
+rotate:90
+Chest R
+bounds:1006,1377,261,390
+offsets:0,0,261,398
+rotate:90
+Chest R sha
+bounds:1979,1622,67,99
+offsets:3,3,75,106
+ChestHL L
+bounds:1612,1795,48,74
+offsets:0,0,48,76
+ChestHL R
+bounds:54,1174,52,70
+offsets:0,0,52,72
+ChestSha
+bounds:1739,315,307,191
+offsets:0,29,311,225
+Cloth L B
+bounds:1468,1121,295,430
+offsets:0,5,295,435
+rotate:90
+Cloth L F
+bounds:876,2,191,185
+offsets:2,0,193,185
+Cloth L2 B
+bounds:142,1970,59,28
+Cloth R
+bounds:258,870,364,479
+rotate:90
+Cloth R+
+bounds:436,1624,102,63
+offsets:2,8,106,71
+ClothR Sha
+bounds:2,1253,462,437
+offsets:5,0,509,465
+rotate:90
+Cloth_L_#A
+bounds:275,1489,183,156
+rotate:180
+Cloth_R_#A
+bounds:482,434,213,183
+rotate:180
+CupA
+bounds:392,1494,65,53
+CupA sha
+bounds:1907,1990,33,43
+CupB
+bounds:645,1718,65,53
+DownMouth
+bounds:1271,1636,69,38
+offsets:0,1,69,39
+DownMouth_Tap
+bounds:731,1338,55,62
+offsets:0,1,64,63
+Ear B
+bounds:2,1901,155,132
+Ear F
+bounds:1911,87,135,159
+Eye Hl L
+bounds:297,2017,48,16
+Eye Hl R
+bounds:1133,1930,40,12
+EyeLid L
+bounds:1155,1285,86,51
+offsets:0,8,86,59
+EyeLid R
+bounds:1089,1570,73,41
+EyeLowerLid L
+bounds:822,1013,76,51
+EyeLowerLid R
+bounds:850,1990,63,43
+EyeWhite R
+bounds:668,1337,61,45
+EyeWhite2 R
+bounds:446,1371,46,41
+EyeWhiteSha L
+bounds:1958,1884,61,47
+EyeWhiteSha R
+bounds:969,1537,49,39
+Eyeball L
+bounds:2,986,42,39
+Eyeball R
+bounds:1715,1996,37,37
+Eyebrow L
+bounds:1860,1647,78,21
+Eyebrow R
+bounds:913,2020,79,13
+Eyelash Ll
+bounds:1348,2011,47,22
+EyelashR
+bounds:1433,2013,41,20
+Face
+bounds:96,1001,251,290
+offsets:15,0,266,303
+FingerA L
+bounds:1862,1119,114,95
+offsets:2,0,116,98
+FingerA R
+bounds:2,1486,48,82
+FingerB L
+bounds:1679,760,80,94
+FingerB R
+bounds:659,638,95,86
+offsets:1,0,96,86
+FingerC L
+bounds:329,1120,65,79
+FingerC R
+bounds:1391,945,112,83
+offsets:2,0,115,83
+FingerD
+bounds:447,1575,86,52
+FingerD L
+bounds:612,1228,87,49
+FireA
+bounds:697,522,258,198
+offsets:8,16,273,220
+FireB
+bounds:434,814,256,313
+offsets:14,10,275,330
+rotate:90
+FlowerA
+bounds:1675,998,40,44
+FlowerB
+bounds:1634,986,39,45
+FlowerC
+bounds:2006,1040,40,44
+FlowerD
+bounds:1474,25,92,111
+offsets:0,0,92,122
+Foot L
+bounds:1328,288,128,210
+offsets:33,1,161,222
+rotate:90
+Foot R
+bounds:1558,1869,109,164
+offsets:19,0,128,165
+Girl Sha
+bounds:2,1673,854,360
+offsets:4,17,864,381
+HairBang Cen
+bounds:2,1568,135,200
+offsets:0,1,142,201
+rotate:270
+HairBang Cen sha
+bounds:2,339,158,214
+offsets:0,0,159,214
+HairBang L
+bounds:1914,1656,132,225
+HairBang R
+bounds:249,326,134,479
+rotate:90
+HairBang R sha
+bounds:1414,82,123,431
+rotate:270
+HairSide B
+bounds:1407,973,184,223
+rotate:270
+HairSide L
+bounds:657,443,169,458
+rotate:90
+HairSide L sha
+bounds:1206,511,169,466
+offsets:0,0,213,466
+rotate:90
+HairSide R
+bounds:1267,45,50,197
+offsets:0,8,50,205
+rotate:90
+HairSide R sha
+bounds:555,387,53,207
+rotate:90
+Hand L
+bounds:1274,407,108,109
+offsets:1,2,113,115
+rotate:90
+Hand R
+bounds:1530,607,135,50
+offsets:0,0,135,65
+Head Deco Paper
+bounds:424,143,152,242
+rotate:270
+Head Deco Paper sha
+bounds:694,95,152,242
+rotate:270
+Head ac L
+bounds:616,1982,51,232
+rotate:90
+InnerMouth
+bounds:259,2013,35,20
+MouthIn_Tap
+bounds:1525,1998,31,35
+Neck
+bounds:1608,283,153,199
+offsets:6,14,170,224
+rotate:180
+Nipple L_#A
+bounds:706,1709,92,91
+offsets:2,0,94,93
+Nipple L_top_#A
+bounds:1255,1957,32,32
+Nipple R_#A
+bounds:872,1470,96,108
+Nipple R_top_#A
+bounds:1081,1999,35,34
+Nose
+bounds:1043,1548,50,49
+offsets:8,4,58,53
+OpenMouth_new
+bounds:2,1703,67,61
+offsets:2,0,70,65
+Red Rope
+bounds:983,312,279,308
+rotate:90
+Shy
+bounds:1322,81,192,72
+offsets:13,9,216,86
+Skirt R Back
+bounds:1139,875,269,235
+offsets:0,0,279,235
+Sleeve B L
+bounds:228,459,238,222
+rotate:180
+Sleeve Down R
+bounds:267,1200,494,279
+offsets:1,0,495,279
+rotate:180
+Sleeve F L
+bounds:609,1018,263,397
+offsets:4,0,267,397
+rotate:270
+Sleeve R B
+bounds:1629,847,186,417
+rotate:90
+Sleeve R F
+bounds:720,706,245,432
+rotate:90
+SplashWineB_Tap
+bounds:408,82,291,100
+offsets:0,1,291,101
+Tail A
+bounds:1392,1218,644,364
+rotate:180
+TailB
+bounds:1492,845,406,554
+rotate:90
+Thigh L
+bounds:1783,1323,263,323
+offsets:13,15,286,339
+Thigh R
+bounds:1625,1523,337,510
+offsets:1,14,339,546
+rotate:180
+Thumb L
+bounds:1496,1155,70,130
+offsets:0,0,75,134
+rotate:90
+Tongue_Tap
+bounds:1537,1968,25,28
+Tray
+bounds:1632,496,414,104
+UpMouth
+bounds:349,1997,68,36
+offsets:1,0,69,40
+UpMouth_Tap
+bounds:1310,1990,45,43
+offsets:0,0,49,50
+mosaic
+bounds:1943,1933,100,100
+water_new1
+bounds:503,224,140,263
+offsets:0,0,145,263
+rotate:90
+water_new2
+bounds:178,1585,47,92
+offsets:3,0,50,97
+water_new3
+bounds:238,1678,38,50
+offsets:0,1,39,57
+white
+bounds:1008,1134,50,50
+
+2001_Avator_s02_2.png
+size:4096,1024
+filter:Linear,Linear
+pma:true
+props/All sha
+bounds:1803,313,1007,191
+props/Blue Light
+bounds:2,126,293,327
+props/PillowA
+bounds:2680,96,544,241
+props/PillowA sha
+bounds:3678,349,659,176
+offsets:0,0,684,176
+rotate:270
+props/PillowB
+bounds:3383,286,416,348
+offsets:0,7,416,355
+rotate:90
+props/PillowC
+bounds:372,89,874,494
+rotate:180
+props/PillowC sha
+bounds:2122,2,309,361
+offsets:0,4,309,365
+rotate:90
+props/Table
+bounds:3147,160,848,449
+rotate:90
+props/Table sha
+bounds:674,602,1127,406
+offsets:0,78,1127,484
+props/Yellow Light A
+bounds:1803,32,279,317
+rotate:90
+props/Yellow Light B
+bounds:2425,576,432,720
+rotate:90
+props/Yellow Light C
+bounds:1248,169,530,553
+rotate:90
+props/Yellow Light D
+bounds:1803,506,502,620
+rotate:90
+props/Yellow Light E
+bounds:2,455,674,553
+offsets:0,0,1203,553

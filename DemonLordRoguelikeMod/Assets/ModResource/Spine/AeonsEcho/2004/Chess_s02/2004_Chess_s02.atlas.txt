@@ -1,0 +1,261 @@
+2004_Chess_s02.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+ArmDown F
+bounds:814,721,37,17
+ArmUp F
+bounds:530,645,16,46
+ArmUp L
+bounds:530,852,14,43
+Back Cloth
+bounds:535,462,118,44
+rotate:90
+BackHairC_(L)
+bounds:614,699,42,112
+BackHairC_(R)
+bounds:756,183,120,79
+rotate:90
+BackHairD_(R)
+bounds:721,417,97,90
+BackHair_(L)
+bounds:840,100,43,57
+Body
+bounds:767,472,66,69
+Bra
+bounds:530,441,45,18
+Calf B
+bounds:827,786,36,56
+Calf F
+bounds:828,888,50,41
+Chest L
+bounds:676,574,28,29
+offsets:0,4,28,33
+Chest R
+bounds:683,815,28,29
+offsets:0,5,28,34
+Cloth
+bounds:794,500,69,103
+rotate:180
+EF_in_A01
+bounds:321,335,217,123
+rotate:90
+EF_in_A02
+bounds:425,629,191,121
+rotate:270
+EF_in_A03
+bounds:321,554,217,126
+rotate:90
+EF_in_A04
+bounds:2,48,223,126
+EF_in_A05
+bounds:500,2,203,107
+rotate:90
+EF_in_A06
+bounds:696,855,167,90
+rotate:90
+EF_skill_A04
+bounds:524,306,133,127
+offsets:0,2,136,131
+rotate:90
+EF_skill_A05
+bounds:451,897,136,125
+offsets:20,13,166,138
+EF_skill_B01
+bounds:728,777,73,76
+offsets:5,3,79,80
+EF_skill_B02
+bounds:517,582,72,61
+offsets:3,4,77,66
+EF_skill_B03
+bounds:451,835,77,60
+offsets:1,3,79,66
+EF_skill_C01
+bounds:674,62,209,80
+rotate:270
+EF_skill_C02
+bounds:653,273,209,80
+rotate:90
+EF_skill_C03
+bounds:653,605,209,80
+rotate:90
+EF_skill_C04
+bounds:614,813,209,80
+rotate:270
+EF_skill_C05
+bounds:594,441,209,80
+rotate:90
+EF_skill_C06
+bounds:592,95,209,80
+rotate:90
+EF_skill_D01
+bounds:420,377,250,140
+offsets:0,13,250,180
+rotate:90
+EF_skill_D02
+bounds:286,2,250,172
+offsets:0,0,250,180
+rotate:270
+EF_skill_D03
+bounds:321,772,250,129
+offsets:0,20,250,180
+rotate:90
+EF_skill_D04
+bounds:409,113,250,123
+offsets:0,21,250,180
+rotate:90
+EF_skill_D05
+bounds:547,645,250,65
+offsets:0,55,250,180
+rotate:90
+EF_skill_D06
+bounds:589,902,120,13
+offsets:62,79,250,180
+rotate:90
+Ear B
+bounds:396,756,22,41
+Ear F
+bounds:321,468,18,51
+Eye
+bounds:410,538,24,14
+offsets:0,0,27,14
+Eye_Close
+bounds:433,822,23,8
+Eyebrow
+bounds:458,826,24,7
+Face
+bounds:614,652,33,39
+FireA
+bounds:828,920,25,70
+FireAB
+bounds:495,607,19,20
+FireB
+bounds:406,309,28,24
+FireC
+bounds:446,375,24,47
+FireCB
+bounds:614,799,14,23
+Flower B
+bounds:530,829,12,21
+Foot L
+bounds:566,550,23,30
+Foot R
+bounds:321,715,24,27
+FoxA Body
+bounds:802,844,64,45
+FoxA Fire
+bounds:476,334,42,43
+FoxA Head
+bounds:819,172,42,39
+FoxA Tail
+bounds:449,597,26,31
+FoxB Arm L
+bounds:358,1003,14,19
+FoxB Arm R
+bounds:321,969,21,20
+FoxB Body
+bounds:321,991,35,31
+FoxB Fire
+bounds:569,441,37,41
+FoxB Head
+bounds:828,985,40,37
+FoxB Tail
+bounds:321,521,29,31
+FoxC Body
+bounds:810,739,43,41
+FoxC Fre
+bounds:839,401,33,40
+FoxC Head
+bounds:682,986,38,36
+FoxC Leg B
+bounds:358,773,16,15
+FoxC LegF
+bounds:433,968,16,13
+FoxC Tail
+bounds:406,982,34,40
+FrontHair_(Cen)
+bounds:735,652,29,31
+FrontHair_(L)
+bounds:841,712,28,34
+FrontHair_(R)
+bounds:826,2,34,35
+Hand B
+bounds:604,998,17,20
+Hand F
+bounds:427,554,17,18
+Head Flower F
+bounds:614,782,13,13
+Head ac down
+bounds:708,811,16,24
+HeadPearl
+bounds:321,986,6,6
+HeadPearl A
+bounds:484,822,10,11
+LowerArm_(L)
+bounds:321,804,13,32
+Mouth_Close
+bounds:344,985,7,4
+Mouth_Open
+bounds:321,961,7,6
+Neck Cloth
+bounds:842,296,35,36
+RibbonA
+bounds:695,969,16,15
+RibbonB
+bounds:321,700,11,13
+Rope L
+bounds:328,205,75,56
+Rope R
+bounds:782,178,178,73
+rotate:90
+Shadow
+bounds:788,882,140,38
+rotate:90
+SidekHair_(L)
+bounds:497,378,23,30
+SidekHair_(L)B
+bounds:2,144,55,30
+SidekHair_(R)
+bounds:632,693,14,41
+Stick
+bounds:800,397,121,175
+rotate:180
+TailA
+bounds:729,274,137,91
+rotate:90
+TailB
+bounds:321,250,86,83
+TailC
+bounds:735,685,75,90
+Thigh B
+bounds:803,779,30,66
+Thigh F
+bounds:321,741,36,74
+Umbrella In
+bounds:728,2,168,117
+rotate:270
+Umbrella InB
+bounds:815,570,58,38
+Umbrella InB_blur
+bounds:804,358,63,41
+Umbrella In_blur
+bounds:678,483,172,121
+rotate:270
+Unmrella Up
+bounds:798,595,128,79
+offsets:0,1,128,80
+rotate:270
+Unmrella Up_blur
+bounds:789,2,132,82
+offsets:0,1,132,83
+rotate:270
+foxPawA
+bounds:784,657,55,62
+fx_skill/battleAttackSkill_20001
+bounds:2,176,317,210
+fx_skill/battleAttackSkill_20002
+bounds:2,388,317,210
+fx_skill/battleAttackSkill_20003
+bounds:2,600,317,210
+fx_skill/battleAttackSkill_20004
+bounds:2,812,317,210

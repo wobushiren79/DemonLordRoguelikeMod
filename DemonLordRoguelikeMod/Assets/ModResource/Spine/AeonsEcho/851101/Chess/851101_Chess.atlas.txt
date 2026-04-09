@@ -1,0 +1,229 @@
+851101_Chess.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+BackHairA_(R)
+bounds:259,509,64,44
+offsets:0,1,64,45
+BackHairB_(R) 拷貝
+bounds:758,103,185,81
+BackHair_(Cen)
+bounds:268,53,117,90
+Ball_B
+bounds:209,737,39,39
+Ball_F
+bounds:2,763,42,42
+Blue+A
+bounds:755,900,227,122
+offsets:12,242,245,364
+Blue+B
+bounds:2,88,181,154
+offsets:7,208,190,362
+BlueSplasB
+bounds:910,957,111,34
+BlueSplasC
+bounds:919,740,79,106
+BlueSplashA
+bounds:399,215,79,34
+offsets:0,1,79,35
+Body
+bounds:198,50,66,84
+BodyStar
+bounds:223,1010,16,12
+Boob_(L)
+bounds:363,989,28,33
+Boob_(R)
+bounds:2,510,29,32
+offsets:3,1,32,33
+Cape
+bounds:715,540,104,59
+CapeB
+bounds:234,963,128,59
+offsets:56,0,184,103
+rotate:180
+Cloth Bekt A
+bounds:643,616,34,47
+offsets:0,1,36,48
+Cloth BektB
+bounds:836,498,47,71
+offsets:0,105,47,176
+Collar
+bounds:262,802,32,40
+Earphone
+bounds:2,805,22,24
+Earphone B
+bounds:2,748,15,19
+Earphone Handle
+bounds:179,347,40,28
+Eye close
+bounds:16,1016,8,6
+Eye_Open
+bounds:2,1010,13,12
+offsets:0,1,26,13
+Eye_OpenB
+bounds:39,968,11,9
+Eyebrow
+bounds:36,763,19,12
+offsets:1,1,23,14
+Face
+bounds:121,717,38,39
+offsets:0,0,41,39
+Feet_(L)
+bounds:2,629,22,29
+Feet_(R)
+bounds:133,546,30,35
+FingerL
+bounds:2,900,16,16
+FrontHair
+bounds:275,932,35,32
+Halo big
+bounds:853,981,79,41
+Halo small
+bounds:341,745,46,21
+Hand L
+bounds:85,1005,17,17
+Hand_(R)
+bounds:180,526,33,24
+offsets:0,0,33,25
+HeadStar
+bounds:123,710,15,16
+offsets:0,0,16,16
+HeadStar B
+bounds:2,953,17,20
+Leg_(L)
+bounds:182,551,35,47
+Leg_(R)
+bounds:2,637,66,38
+LowerArm_(L)
+bounds:2,367,31,43
+offsets:6,1,37,44
+LowerArm_(R)
+bounds:359,559,30,36
+offsets:0,1,30,37
+Mic
+bounds:361,728,43,18
+Mouth_Open
+bounds:2,945,10,9
+offsets:1,1,11,10
+PinkA
+bounds:408,725,58,49
+PinkB
+bounds:2,657,54,44
+offsets:0,0,55,44
+PinkC
+bounds:127,643,59,32
+Planet
+bounds:23,205,181,181
+Planet_shine
+bounds:567,756,393,191
+offsets:8,0,407,198
+Shadow
+bounds:87,49,140,38
+SideHair_(L)
+bounds:2,310,25,56
+SideHair_(R)
+bounds:434,474,31,43
+Sleeve
+bounds:590,895,84,66
+SmallStarA
+bounds:299,893,14,21
+SmallStarB
+bounds:565,941,35,24
+StarA
+bounds:779,385,122,77
+offsets:0,1,122,78
+rotate:90
+StarB
+bounds:379,79,127,61
+offsets:0,0,128,61
+StarC
+bounds:547,370,49,85
+StarStage
+bounds:2,46,115,100
+offsets:0,1,116,101
+rotate:90
+Thigh B
+bounds:118,480,55,70
+Thigh F
+bounds:2,967,83,55
+UpperArm_(L)
+bounds:294,862,42,42
+UpperArm_(R)
+bounds:2,916,41,51
+White+
+bounds:114,128,71,76
+atk/5 (11)
+bounds:685,564,248,248
+offsets:11,12,268,268
+rotate:180
+atk/6 (10)
+bounds:415,532,231,226
+offsets:8,8,240,240
+atk/7 (10)
+bounds:2,754,296,268
+atk/8 (8)
+bounds:289,758,299,264
+offsets:0,3,299,270
+atk/9 (6)
+bounds:145,523,291,270
+offsets:9,0,300,270
+rotate:270
+atk/musicA_g
+bounds:652,945,73,91
+offsets:3,3,79,94
+rotate:90
+atk/musicB_g
+bounds:129,542,57,86
+offsets:1,2,59,88
+atk/musicC_g
+bounds:608,665,69,91
+offsets:0,0,72,91
+atk/star
+bounds:547,349,287,274
+offsets:0,1,287,275
+rotate:180
+in/Smoke 03_00000
+bounds:364,508,95,56
+offsets:120,9,336,189
+in/Smoke 03_00001
+bounds:528,960,134,62
+offsets:95,8,336,189
+in/Smoke 03_00002
+bounds:585,142,172,87
+offsets:73,7,336,189
+in/Smoke 03_00003
+bounds:402,135,189,102
+offsets:68,6,336,189
+rotate:180
+in/Smoke 03_00004
+bounds:173,135,229,122
+offsets:57,2,336,189
+rotate:180
+in/Smoke 03_00005
+bounds:2,532,232,130
+offsets:56,2,336,189
+rotate:90
+in/Smoke 03_00006
+bounds:728,210,242,142
+offsets:52,3,336,189
+in/Smoke 03_00007
+bounds:480,229,247,145
+offsets:48,2,336,189
+rotate:180
+in/Smoke 03_00008
+bounds:869,355,264,153
+offsets:42,0,336,189
+rotate:90
+in/Smoke 03_00009
+bounds:213,244,269,152
+offsets:39,4,336,189
+rotate:180
+in/Smoke 03_00010
+bounds:2,374,275,156
+offsets:36,3,336,189
+in/Smoke 03_00011
+bounds:277,375,276,154
+offsets:35,8,336,189
+圖層 1
+bounds:534,759,30,48
+offsets:0,1,30,49

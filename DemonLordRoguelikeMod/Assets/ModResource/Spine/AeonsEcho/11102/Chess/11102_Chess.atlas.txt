@@ -1,0 +1,331 @@
+11102_Chess.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+ArmDn(L)
+bounds:260,969,22,28
+ArmDn(R)
+bounds:428,1004,35,18
+ArmUp(L)
+bounds:447,845,28,32
+offsets:0,1,28,33
+ArmUp(R)
+bounds:245,689,23,40
+Body
+bounds:810,397,47,82
+offsets:0,0,55,82
+Boob(L)
+bounds:345,706,29,28
+Boob(R)
+bounds:302,960,26,29
+ClosedEyes
+bounds:124,959,14,7
+Coat Back(L)
+bounds:705,466,84,150
+offsets:0,0,85,150
+rotate:180
+Coat Back(R)
+bounds:2,14,108,152
+rotate:270
+Collar
+bounds:81,999,9,9
+Deco 1 (R)
+bounds:76,1010,16,12
+Deco 2 (R)
+bounds:114,668,24,16
+Deco(L)
+bounds:797,185,26,128
+Deco(L) HL
+bounds:626,208,66,178
+offsets:217,137,322,351
+Deco(R)
+bounds:790,544,26,128
+Deco(R) HL
+bounds:102,673,69,183
+offsets:11,129,322,351
+Earring
+bounds:2,1011,7,10
+Eye_Open
+bounds:162,848,15,9
+Eyebrow
+bounds:139,1012,12,5
+Face
+bounds:43,634,31,37
+offsets:0,1,31,38
+Foot (R)
+bounds:160,674,21,28
+Hair Back A
+bounds:642,852,159,77
+rotate:90
+Hair Back B
+bounds:300,608,51,52
+HairFront
+bounds:165,928,12,21
+HairSide 1(R)
+bounds:350,777,22,34
+HairSide 2(R)
+bounds:710,971,46,51
+HairSide 3(R)
+bounds:46,470,17,23
+HairSide 4 (R)
+bounds:14,2,80,111
+rotate:270
+HairSide(L)
+bounds:246,729,16,34
+Halo A
+bounds:431,816,47,27
+Halo A HL
+bounds:571,642,62,32
+offsets:131,254,322,351
+Halo B
+bounds:299,991,69,31
+Halo B HL
+bounds:825,221,80,36
+offsets:118,256,322,351
+rotate:90
+Halo C
+bounds:686,2,92,51
+Halo C HL
+bounds:107,854,112,59
+offsets:102,254,322,351
+rotate:90
+Hand(L)
+bounds:47,538,21,15
+Hand(L) Ring
+bounds:103,850,13,11
+Hand(L) Ring HL
+bounds:370,999,22,23
+offsets:202,196,322,351
+Hand(R)
+bounds:47,555,20,15
+Hand(R) Ring
+bounds:112,950,10,15
+Hand(R) Ring HL
+bounds:467,905,27,36
+offsets:105,157,322,351
+Hip(L)
+bounds:27,909,10,12
+Hip(R)
+bounds:163,951,15,18
+LegDn(L)
+bounds:332,735,39,73
+LegDn(R)
+bounds:26,969,23,53
+LegUp(L)
+bounds:54,963,28,59
+LegUp(R)
+bounds:150,856,31,66
+offsets:0,1,31,67
+Lightning A
+bounds:683,608,164,84
+offsets:7,0,175,119
+rotate:90
+Lightning B
+bounds:514,264,117,162
+offsets:16,54,154,224
+Lightning C
+bounds:749,63,88,98
+offsets:21,46,129,144
+rotate:180
+Lightning D
+bounds:691,897,104,105
+offsets:17,35,152,169
+rotate:90
+Lightning F
+bounds:581,2,152,124
+offsets:102,164,308,335
+rotate:90
+LightningB
+bounds:55,445,280,236
+offsets:9,61,319,333
+rotate:180
+Magic
+bounds:507,84,194,152
+rotate:270
+Magic HL
+bounds:351,154,198,166
+offsets:62,10,322,351
+rotate:270
+Magic Out
+bounds:310,808,214,156
+offsets:61,21,322,351
+rotate:270
+Mouth
+bounds:2,996,5,5
+OpenMouth
+bounds:2,1003,7,6
+Ribbon(L)
+bounds:826,189,68,111
+Shadow
+bounds:2,316,140,38
+SideHair(R)
+bounds:26,923,15,46
+arrow
+bounds:800,729,26,127
+black clound A
+bounds:325,282,312,99
+rotate:270
+fx_attack/0
+bounds:2,654,349,368
+offsets:3,0,355,387
+fx_attack/star2
+bounds:818,607,38,61
+fx_attack/xunzhuan0001
+bounds:2,486,176,45
+offsets:2,6,200,168
+rotate:90
+fx_attack/xunzhuan0002
+bounds:467,917,179,105
+offsets:0,0,200,168
+fx_attack/xunzhuan0003
+bounds:340,31,191,141
+offsets:0,0,200,168
+rotate:180
+fx_attack/xunzhuan0004
+bounds:198,79,200,165
+offsets:0,0,200,168
+rotate:90
+fx_attack/xunzhuan0005
+bounds:2,123,200,164
+offsets:0,4,200,168
+rotate:180
+fx_attack/xunzhuan0006
+bounds:152,280,179,168
+offsets:0,0,200,168
+rotate:180
+fx_attack/xunzhuan0007
+bounds:509,493,168,155
+offsets:2,1,200,168
+rotate:90
+lightning rod(L)
+bounds:159,971,15,47
+lightning rod(L) HL
+bounds:176,221,29,57
+offsets:163,226,322,351
+lightning rod(R)
+bounds:95,653,25,43
+lightning rod(R) HL
+bounds:256,984,35,38
+offsets:145,245,322,351
+lightning/fx_mirrorShoot_LvMax
+bounds:694,289,63,65
+lightning/shinelight
+bounds:524,435,177,83
+offsets:3,0,180,84
+lightning/tx_sd102
+bounds:825,733,50,80
+offsets:0,0,66,80
+lightning/tx_sd104
+bounds:790,924,65,80
+offsets:0,0,66,80
+rotate:180
+lightning/tx_sd106
+bounds:821,544,66,70
+offsets:0,0,66,80
+rotate:180
+lightning/tx_sd108
+bounds:719,615,64,48
+offsets:1,0,66,80
+lightning/vas_430_spark02_01
+bounds:244,657,22,31
+offsets:0,0,22,64
+lightning/vas_430_spark02_02
+bounds:821,293,40,75
+offsets:0,0,43,128
+lightning/vas_430_spark02_03
+bounds:768,395,43,95
+offsets:0,0,43,128
+lightning/vas_430_spark02_04
+bounds:752,170,43,117
+offsets:0,0,43,128
+lightning/vas_430_spark02_05
+bounds:759,665,42,128
+offsets:0,0,43,128
+lightning/vas_430_spark02_06
+bounds:768,818,38,128
+offsets:5,0,43,128
+skill1/baozha0001
+bounds:759,309,82,62
+offsets:22,18,126,98
+rotate:90
+skill1/baozha0002
+bounds:690,768,106,88
+offsets:10,5,126,98
+rotate:270
+skill1/baozha0003
+bounds:684,354,112,89
+offsets:8,4,126,98
+rotate:270
+skill1/baozha0004
+bounds:665,503,117,90
+offsets:4,5,126,98
+rotate:270
+skill1/baozha0005
+bounds:667,132,117,97
+offsets:5,1,126,98
+rotate:270
+skill1/daoshi_skill2_03
+bounds:799,668,63,61
+offsets:11,10,100,100
+rotate:90
+skill1/daoshi_skill2_04
+bounds:780,11,63,56
+offsets:9,12,100,100
+skill1/daoshi_skill2_05
+bounds:803,847,67,64
+offsets:7,8,100,100
+rotate:90
+skill1/daoshi_skill2_06
+bounds:792,478,65,67
+offsets:7,7,100,100
+skill1/daoshi_skill2_07
+bounds:795,121,66,62
+offsets:11,17,100,100
+rotate:90
+skill1/daoshi_skill2_08
+bounds:835,69,63,57
+offsets:14,20,100,100
+rotate:90
+skill1/daoshi_skill2_09
+bounds:828,903,59,58
+offsets:18,23,100,100
+rotate:180
+skill1/daoshi_skill2_10
+bounds:835,354,58,58
+offsets:22,25,100,100
+rotate:90
+skill1/daoshi_skill2_11
+bounds:467,609,47,49
+offsets:31,34,100,100
+skill1/daoshi_skill2_12
+bounds:828,796,52,58
+offsets:35,23,100,100
+skill2/4 (12)
+bounds:702,54,70,71
+offsets:56,50,138,127
+skill2/TX_lz_hq
+bounds:2,356,124,112
+offsets:6,15,150,131
+skill2/dd
+bounds:115,968,42,42
+offsets:4,4,50,50
+skill3/E1
+bounds:645,595,240,52
+rotate:90
+skill3/E2
+bounds:459,662,240,111
+rotate:90
+skill3/E3
+bounds:350,574,240,119
+rotate:90
+skill3/E4
+bounds:426,367,240,119
+rotate:270
+skill3/E5
+bounds:555,676,240,96
+offsets:0,2,240,98
+rotate:90
+skill3/E6
+bounds:2,782,240,25
+offsets:0,6,240,31
+rotate:90

@@ -1,0 +1,198 @@
+8401_Chess.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+ArmDown(L)
+bounds:25,352,30,14
+ArmDown(R)
+bounds:124,160,34,18
+ArmUp(L)
+bounds:299,7,24,38
+ArmUp(R)
+bounds:278,157,37,29
+BackHair
+bounds:2,184,39,42
+offsets:0,0,39,43
+Body
+bounds:574,16,40,59
+offsets:0,1,40,60
+Curtain
+bounds:410,14,29,33
+Eyebrow
+bounds:17,2,20,11
+Eyes_Close
+bounds:2,28,20,12
+Eyes_Open
+bounds:80,72,20,13
+Face
+bounds:179,298,33,41
+offsets:1,4,34,45
+Feet(L)
+bounds:2,69,17,28
+offsets:1,0,18,28
+Feet(R)
+bounds:37,167,18,28
+Float Gun_A
+bounds:441,32,143,78
+Float Gun_A's Outer Glow
+bounds:14,59,147,81
+offsets:0,0,147,82
+rotate:180
+Float Gun_B
+bounds:51,34,39,149
+rotate:90
+Float Gun_B's Outer Glow
+bounds:226,60,43,153
+offsets:0,0,44,153
+rotate:90
+Float Gun_C
+bounds:573,15,84,141
+rotate:270
+Float Gun_C's Outer Glow
+bounds:789,63,89,145
+offsets:0,1,89,146
+rotate:270
+Float Gun_D
+bounds:723,15,74,137
+rotate:90
+Float Gun_D's Outer Glow
+bounds:706,34,77,141
+offsets:0,0,78,141
+rotate:90
+Float Gun_E
+bounds:449,24,59,139
+rotate:90
+Float Gun_E's Outer Glow
+bounds:452,61,63,143
+rotate:270
+Float Gun_F
+bounds:2,9,135,49
+Float Gun_F's Outer Glow
+bounds:196,43,137,53
+offsets:1,0,139,53
+Float Gun_G
+bounds:31,17,134,52
+Float Gun_G's Outer Glow
+bounds:585,60,137,56
+offsets:0,0,138,56
+Float Gun_H
+bounds:328,9,123,67
+rotate:180
+Float Gun_H's Outer Glow
+bounds:325,19,127,69
+offsets:0,1,127,71
+Float Gun_Silk_A
+bounds:759,4,90,66
+Float Gun_Silk_B
+bounds:846,5,52,66
+rotate:180
+Float Gun_Silk_C
+bounds:167,4,52,23
+Float Gun_Silk_D
+bounds:2,5,23,93
+offsets:7,6,30,99
+rotate:90
+Float Gun_Silk_E
+bounds:436,8,21,81
+rotate:90
+Float Gun_Silk_F
+bounds:928,2,75,94
+offsets:0,1,75,95
+rotate:270
+Float Gun_Silk_G
+bounds:195,4,105,37
+offsets:13,8,132,49
+Float Gun_Silk_H
+bounds:603,4,63,25
+offsets:10,9,73,34
+FrontHair
+bounds:193,187,18,29
+offsets:1,1,19,30
+Hair Ornament(L)
+bounds:2,335,23,31
+Hair Ornament(R)
+bounds:519,3,28,44
+Hand(L)
+bounds:145,144,21,15
+offsets:0,0,22,15
+Hand(R)
+bounds:188,54,21,16
+offsets:1,0,22,16
+HandD(R)
+bounds:241,165,35,21
+Leg(L)
+bounds:2,86,33,56
+offsets:0,0,33,57
+Leg(R)
+bounds:94,143,51,39
+LowBody
+bounds:150,332,45,34
+offsets:0,0,45,35
+LowSkirt
+bounds:807,115,144,80
+offsets:20,4,165,85
+Machine(R)
+bounds:2,100,86,109
+offsets:0,0,97,109
+rotate:90
+Mouth_Close
+bounds:22,347,4,3
+Mouth_Open
+bounds:2,320,7,6
+Mouth_Smile
+bounds:2,328,7,6
+Neck
+bounds:197,342,16,24
+PonyTail(L)
+bounds:955,85,112,67
+rotate:90
+PonyTail(R)
+bounds:581,105,115,69
+offsets:4,3,119,89
+Shadow
+bounds:280,116,140,38
+SideHair_A(R)
+bounds:2,230,15,22
+SideHair_B(L)
+bounds:260,129,18,34
+offsets:0,1,18,35
+SideHair_B(R)
+bounds:540,11,33,40
+offsets:1,0,34,40
+Skirt(L)
+bounds:116,60,49,79
+offsets:0,7,57,93
+rotate:90
+Skirt_A(R)
+bounds:698,89,116,65
+offsets:0,0,117,65
+Skirt_B(R)
+bounds:475,104,113,82
+Skirt_C(R)
+bounds:157,89,121,98
+offsets:0,1,121,99
+Skirt_D(R)
+bounds:895,177,102,114
+rotate:180
+Skirt_E(R)
+bounds:825,216,139,150
+offsets:25,18,190,223
+Skirt_F(R)
+bounds:422,90,75,96
+SpiderNet
+bounds:2,173,214,193
+offsets:1,2,215,196
+Thigh(L)
+bounds:929,15,32,70
+offsets:0,4,32,74
+Thigh(R)
+bounds:844,21,40,65
+offsets:0,0,40,69
+skill2/at_qishou_001
+bounds:673,188,150,178
+skill2/at_qishou_002
+bounds:521,188,150,178
+skill2/at_qishou_003
+bounds:369,188,150,178
+skill2/at_qishou_004
+bounds:217,188,150,178

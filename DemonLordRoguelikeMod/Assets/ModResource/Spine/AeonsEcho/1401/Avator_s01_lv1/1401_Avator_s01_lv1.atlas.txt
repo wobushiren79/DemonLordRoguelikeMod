@@ -1,0 +1,363 @@
+1401_Avator_s01_lv1.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Arm Down R
+bounds:1615,605,431,259
+Arm Up R
+bounds:1386,1124,274,660
+rotate:90
+Body
+bounds:2,1167,918,841
+Bra
+bounds:1268,246,414,190
+offsets:0,0,422,190
+rotate:180
+Calf L
+bounds:1520,1302,639,526
+offsets:0,36,660,642
+rotate:90
+Chest L
+bounds:477,584,297,346
+offsets:0,6,311,358
+Chest L sha
+bounds:1959,1450,87,185
+offsets:20,6,110,191
+Chest R
+bounds:2,858,308,406
+offsets:2,8,316,417
+rotate:90
+Chest sha
+bounds:2,223,347,206
+offsets:47,8,394,222
+rotate:180
+Cloth
+bounds:1135,745,537,349
+rotate:180
+ClothIn
+bounds:12,1735,177,125
+offsets:0,10,182,135
+Collar  R
+bounds:915,1075,336,286
+offsets:0,29,336,315
+Collar +
+bounds:1762,1390,112,126
+offsets:0,12,112,138
+Collar B +
+bounds:830,1763,126,94
+Collar L
+bounds:948,384,198,458
+offsets:0,1,198,459
+rotate:90
+Collar R sha
+bounds:2,78,194,317
+offsets:0,0,202,322
+rotate:90
+Ear
+bounds:1350,1392,69,123
+offsets:3,1,72,124
+Eye Hl(L)
+bounds:2,1991,15,17
+offsets:1,1,17,19
+Eye Hl(R)
+bounds:16,1998,13,10
+EyeL_Tap
+bounds:1099,1903,117,105
+offsets:3,6,122,111
+EyeR_Tap
+bounds:1614,1936,77,72
+offsets:3,0,80,80
+Eyeball(L)
+bounds:1028,1734,52,56
+Eyeball(R)
+bounds:1846,1899,46,38
+Eyebrow(L)
+bounds:822,1226,107,69
+offsets:0,0,112,73
+Eyebrow(R)
+bounds:887,1808,77,45
+Eyelash(L)
+bounds:1983,1397,63,41
+Eyelash(L)_1
+bounds:63,1987,34,21
+Eyewhite(L)_1
+bounds:1828,1938,77,70
+offsets:0,0,78,71
+Eyewhite(R)_2
+bounds:692,1949,71,59
+offsets:0,0,72,59
+Face
+bounds:635,833,329,383
+offsets:15,0,344,389
+rotate:90
+Feet
+bounds:751,1791,217,413
+offsets:0,0,217,441
+rotate:90
+FingerA
+bounds:179,1814,63,68
+offsets:2,0,65,68
+FingerA Back
+bounds:956,1960,55,48
+FingerB
+bounds:2,1928,67,80
+offsets:1,0,68,83
+FingerB Back
+bounds:1557,1960,52,48
+offsets:0,0,53,50
+FingerC
+bounds:1691,1945,48,63
+offsets:0,0,48,66
+FingerC Back
+bounds:1183,1979,53,29
+FingerD
+bounds:1293,1439,63,51
+offsets:0,0,63,53
+Glove +
+bounds:1994,1647,52,80
+HairBang(Cen)
+bounds:1421,1341,221,268
+HairBang(Cen)Sha
+bounds:922,1633,109,170
+HairBang(L)
+bounds:2,1823,277,185
+offsets:0,8,277,208
+HairBang(L)Piece
+bounds:957,1611,63,102
+HairBang(L)Sha
+bounds:454,1464,225,82
+offsets:11,0,236,92
+HairBang(R)
+bounds:1374,303,192,451
+offsets:6,0,198,451
+rotate:90
+HairBang(R)sha
+bounds:2,1079,51,205
+offsets:1,27,72,233
+HairSide Down L
+bounds:1466,151,237,408
+offsets:0,0,240,408
+rotate:90
+HairSide Down LB
+bounds:1429,79,141,195
+offsets:1,0,142,195
+HairSide(L)Down
+bounds:675,282,206,603
+rotate:90
+HairSide(L)Up
+bounds:1121,74,278,346
+rotate:90
+Hand F sha
+bounds:362,1888,126,120
+offsets:6,5,132,130
+Hand L
+bounds:212,1856,159,152
+offsets:0,9,159,161
+Head CrossA
+bounds:520,1186,90,96
+Head CrossB
+bounds:657,1154,79,89
+HeadBack
+bounds:1672,848,338,374
+rotate:270
+Layer 2
+bounds:1673,2,317,373
+rotate:90
+Long Pony
+bounds:370,991,1037,450
+rotate:180
+LowerEyelid(L)
+bounds:1367,1315,75,79
+offsets:0,3,79,82
+LowerEyelid(R)
+bounds:554,1447,79,52
+offsets:0,4,82,60
+LowerMouth
+bounds:778,1823,49,39
+offsets:0,0,49,40
+Neck
+bounds:1656,1783,189,225
+offsets:0,13,193,239
+Nose
+bounds:1990,1937,50,71
+Pony Piece
+bounds:785,53,348,260
+Pony Up A
+bounds:463,264,274,208
+Pony Up B
+bounds:58,556,575,549
+rotate:180
+Pony Up B Back
+bounds:2,234,539,470
+rotate:270
+Ribbon sha
+bounds:630,1406,112,116
+offsets:0,2,112,125
+RibbonA
+bounds:732,1413,38,106
+offsets:0,0,51,108
+RibbonB
+bounds:611,1136,59,92
+offsets:6,4,66,96
+RopeA
+bounds:1821,1386,178,89
+RopeB
+bounds:127,90,134,270
+offsets:0,0,135,284
+rotate:90
+RopeB sha
+bounds:338,75,133,257
+RopeC
+bounds:2008,766,38,192
+RopeC sha
+bounds:321,781,40,128
+offsets:1,0,41,130
+RopeD
+bounds:1714,1359,114,41
+offsets:6,11,122,64
+Sandal base
+bounds:1846,241,144,371
+offsets:0,1,144,372
+Silver Ring
+bounds:1691,1742,45,42
+offsets:0,0,45,43
+Silver Ring sha
+bounds:49,1694,52,50
+offsets:2,2,54,52
+Sleeve blueL
+bounds:1216,1924,79,84
+Sleeve blueR
+bounds:2,1688,47,97
+offsets:1,0,48,97
+Sunglasses
+bounds:731,153,353,224
+Sunglasses Bling
+bounds:91,646,215,212
+offsets:0,0,215,215
+Sunglasses sha
+bounds:473,139,327,197
+offsets:4,0,331,197
+SweatA
+bounds:331,1857,20,45
+offsets:9,21,29,77
+SweatB
+bounds:1923,1490,62,103
+offsets:0,7,62,113
+SweatC
+bounds:357,1940,36,68
+offsets:4,1,40,87
+SweatD
+bounds:1158,1862,28,51
+offsets:0,6,36,104
+SweatE
+bounds:1152,1297,54,95
+offsets:8,16,67,118
+SweatF
+bounds:34,1085,66,160
+offsets:12,8,78,190
+SweatG
+bounds:2021,1518,25,71
+offsets:728,20,763,663
+Sword_A
+bounds:352,448,628,172
+Sword_B
+bounds:1192,1148,193,286
+Sword_C
+bounds:776,486,1074,287
+offsets:215,79,1289,366
+rotate:180
+Sword_D
+bounds:1345,598,507,94
+offsets:7,0,1156,200
+Teeth
+bounds:489,1982,34,26
+Thigh B
+bounds:950,684,251,454
+offsets:0,1,251,456
+rotate:90
+Thigh L
+bounds:771,1280,728,918
+offsets:7,0,735,918
+rotate:270
+UpperEyelid(L)
+bounds:1858,1454,132,102
+offsets:10,2,145,114
+UpperEyelid(R)
+bounds:1017,1943,82,65
+offsets:9,0,91,68
+UpperMouth
+bounds:1903,1951,77,57
+offsets:1,0,78,60
+blue
+bounds:1020,1699,42,44
+sandal blue
+bounds:524,1216,160,92
+offsets:6,0,166,92
+sandal blue sha
+bounds:326,1126,144,66
+
+1401_Avator_s01_lv1_2.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+props/BG_BirdA
+bounds:1622,1266,90,161
+offsets:0,2,93,163
+props/BG_BirdB
+bounds:2,554,112,80
+offsets:0,0,114,82
+props/BG_BirdC
+bounds:646,382,202,126
+offsets:0,6,202,132
+props/BG_Light
+bounds:1622,526,1488,1186
+offsets:45,9,1591,1217
+rotate:90
+props/BG_ParticlesA1
+bounds:1622,1662,549,352
+props/BG_ParticlesA2
+bounds:2808,1021,803,993
+props/BG_ParticlesB1
+bounds:857,495,763,1519
+props/BG_ParticlesB2
+bounds:2,636,853,1378
+props/BG_WaterA
+bounds:575,454,118,87
+offsets:0,0,118,88
+props/BG_WaterB
+bounds:1622,1368,155,194
+props/BG_WaterC
+bounds:3360,218,606,801
+rotate:180
+props/BG_WaterD
+bounds:624,243,433,237
+props/BG_WaterE
+bounds:757,244,306,170
+props/BG_WaterF
+bounds:2443,320,699,1087
+rotate:270
+props/Cut WatermelonA
+bounds:1502,8,562,522
+offsets:0,14,562,536
+props/Cut WatermelonB
+bounds:2757,31,497,527
+offsets:0,1,497,528
+rotate:180
+props/Watermelon
+bounds:2,2,632,632
+offsets:0,108,680,740
+props/Watermelon PieceA
+bounds:146,594,18,32
+props/Watermelon PieceB
+bounds:80,579,47,55
+props/Watermelon PieceC
+bounds:121,574,24,58
+props/ura_katana_0
+bounds:512,538,342,96
+offsets:0,8,342,104
+props/ura_katana_1
+bounds:1622,1556,342,104
+props/ura_katana_2
+bounds:620,138,342,104
+props/ura_katana_3
+bounds:575,32,342,104

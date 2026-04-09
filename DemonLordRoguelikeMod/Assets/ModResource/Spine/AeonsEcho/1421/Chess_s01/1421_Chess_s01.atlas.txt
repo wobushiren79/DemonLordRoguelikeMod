@@ -1,0 +1,457 @@
+1421_Chess_s01.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.93
+ArmDown(L)
+bounds:425,668,26,29
+offsets:0,2,26,33
+ArmDown(R)
+bounds:110,433,29,36
+offsets:3,0,33,36
+ArmUp(L)
+bounds:266,659,22,40
+offsets:6,18,28,76
+ArmUp(R)
+bounds:165,610,42,25
+offsets:0,0,44,25
+BackHair
+bounds:586,200,121,100
+offsets:0,0,122,100
+Bra(L)
+bounds:454,816,22,36
+offsets:4,0,26,36
+Bra(R)
+bounds:110,605,27,35
+offsets:0,4,29,42
+Collar
+bounds:415,742,21,30
+offsets:0,6,21,40
+Eye
+bounds:17,1007,11,8
+Eye_Close
+bounds:2,927,10,7
+Face
+bounds:232,785,27,33
+Feet(L)
+bounds:2,852,20,19
+offsets:0,0,20,23
+Feet(R)
+bounds:190,843,15,25
+FrontHair_(R)
+bounds:2,540,23,23
+Hand(L)
+bounds:358,1002,16,13
+Hand(R)
+bounds:318,935,14,17
+offsets:0,0,15,17
+HandPalm(L)
+bounds:2,1004,13,11
+Hat
+bounds:221,478,26,45
+offsets:13,16,55,61
+Layer 7
+bounds:211,786,13,16
+Leg(L)
+bounds:333,912,22,55
+offsets:4,0,27,55
+Leg(R)
+bounds:775,714,49,46
+offsets:4,9,53,62
+Mouth_Close
+bounds:121,1010,6,5
+Mouth_Open
+bounds:99,996,6,5
+Neck
+bounds:324,824,17,20
+Shadow
+bounds:74,97,130,35
+SideHairA_(L)
+bounds:313,989,6,26
+offsets:0,0,7,26
+SideHairA_(R)
+bounds:2,760,19,33
+offsets:0,0,20,33
+SideHairB_(R)
+bounds:402,584,17,49
+offsets:0,1,17,50
+Spear
+bounds:564,19,245,102
+Spear_FX
+bounds:371,205,238,107
+Spearglow2
+bounds:739,61,121,59
+offsets:0,0,121,60
+Star1
+bounds:122,758,21,21
+Thigh(L)
+bounds:158,853,49,46
+offsets:0,1,49,47
+Thigh(R)
+bounds:2,871,38,54
+offsets:5,4,43,58
+Torn_LvMax
+bounds:130,1000,21,15
+Torn_LvMax(R)
+bounds:153,1003,20,12
+body
+bounds:949,48,46,65
+chain1_LvMax
+bounds:668,486,37,50
+chain2_LvMax
+bounds:5,188,40,48
+chain3_LvMax
+bounds:84,982,65,33
+chain4_LvMax
+bounds:673,340,72,29
+effect/atk/A1
+bounds:277,648,153,206
+offsets:0,0,153,230
+rotate:180
+effect/atk/A2
+bounds:210,717,150,229
+offsets:2,0,153,230
+effect/atk/A3
+bounds:2,757,131,230
+offsets:10,0,153,230
+rotate:270
+effect/atk/A4
+bounds:67,174,83,180
+offsets:31,50,153,230
+rotate:270
+effect/atk/B1
+bounds:584,133,81,89
+offsets:1,0,82,89
+effect/atk/B2
+bounds:819,436,121,100
+offsets:3,0,125,101
+rotate:180
+effect/atk/B3
+bounds:645,644,136,113
+rotate:90
+effect/atk/B4
+bounds:708,761,137,116
+offsets:2,0,141,116
+rotate:90
+effect/atk/B5
+bounds:259,554,141,114
+offsets:0,0,143,115
+effect/atk/B6
+bounds:313,43,131,88
+offsets:2,1,133,91
+effect/atk/bao01
+bounds:135,134,82,66
+offsets:14,23,112,112
+effect/atk/bao02
+bounds:2,326,101,70
+offsets:5,26,112,112
+effect/atk/bao03
+bounds:2,398,106,72
+offsets:3,24,112,112
+effect/atk/bao04
+bounds:222,369,106,70
+offsets:3,25,112,112
+effect/atk/posui0001
+bounds:748,367,80,93
+offsets:25,37,130,167
+rotate:90
+effect/atk/posui0002
+bounds:541,669,102,125
+offsets:14,21,130,167
+effect/atk/posui0003
+bounds:360,854,108,139
+offsets:11,14,130,167
+effect/atk/posui0004
+bounds:151,637,113,147
+offsets:8,10,130,167
+effect/atk/posui0005
+bounds:2,642,114,147
+offsets:8,10,130,167
+rotate:90
+effect/skill1/0 (12)
+bounds:2,538,102,126
+offsets:6,0,113,126
+rotate:90
+effect/skill1/1 (12)
+bounds:686,472,108,126
+offsets:3,0,113,126
+rotate:270
+effect/skill1/2 (12)
+bounds:897,771,107,129
+offsets:7,0,117,129
+rotate:180
+effect/skill1/3 (12)
+bounds:892,516,102,126
+offsets:5,0,113,126
+rotate:90
+effect/skill1/4 (7)
+bounds:765,537,108,126
+offsets:4,0,113,126
+rotate:270
+effect/skill1/5 (6)
+bounds:376,479,104,128
+offsets:4,0,113,128
+rotate:270
+effect/skill1/A1
+bounds:846,620,176,77
+offsets:1,0,177,77
+rotate:180
+effect/skill1/A10
+bounds:408,595,172,84
+offsets:0,3,173,87
+effect/skill1/A2
+bounds:817,678,173,79
+offsets:1,0,174,79
+rotate:90
+effect/skill1/A3
+bounds:838,843,172,82
+rotate:90
+effect/skill1/A4
+bounds:53,462,176,83
+offsets:0,0,177,83
+rotate:180
+effect/skill1/A5
+bounds:490,529,176,86
+rotate:180
+effect/skill1/A6
+bounds:622,771,172,87
+offsets:3,1,177,88
+rotate:90
+effect/skill1/A7
+bounds:590,401,157,92
+offsets:3,0,160,92
+effect/skill1/A8
+bounds:227,441,174,91
+effect/skill1/A9
+bounds:155,935,176,80
+offsets:1,1,177,82
+rotate:180
+effect/skill1/EF_skill1_A01
+bounds:117,278,270,21
+effect/skill1/EF_skill1_A02
+bounds:108,251,267,24
+effect/skill1/EF_skill1_A03
+bounds:611,302,256,26
+effect/skill1/EF_skill1_A04
+bounds:465,371,256,29
+effect/skill1/baoza
+bounds:379,306,84,82
+effect/skill1/wuji_skill3_01
+bounds:214,588,43,47
+offsets:26,26,93,93
+effect/skill1/wuji_skill3_010
+bounds:470,881,54,45
+offsets:26,25,93,93
+effect/skill1/wuji_skill3_011
+bounds:616,333,55,36
+offsets:26,26,93,93
+effect/skill1/wuji_skill3_012
+bounds:610,487,42,39
+offsets:25,28,93,93
+effect/skill1/wuji_skill3_013
+bounds:300,778,37,45
+offsets:26,29,93,93
+effect/skill1/wuji_skill3_014
+bounds:812,970,30,45
+offsets:27,34,93,93
+effect/skill1/wuji_skill3_015
+bounds:326,969,30,46
+offsets:27,33,93,93
+effect/skill1/wuji_skill3_02
+bounds:822,25,46,58
+offsets:23,21,93,93
+effect/skill1/wuji_skill3_03
+bounds:893,699,55,63
+offsets:15,21,93,93
+effect/skill1/wuji_skill3_04
+bounds:277,9,64,50
+offsets:10,22,93,93
+effect/skill1/wuji_skill3_05
+bounds:79,46,71,49
+offsets:6,21,93,93
+effect/skill1/wuji_skill3_06
+bounds:152,26,69,49
+offsets:8,21,93,93
+rotate:90
+effect/skill1/wuji_skill3_07
+bounds:2,2,75,44
+offsets:7,21,93,93
+effect/skill1/wuji_skill3_08
+bounds:922,967,78,48
+offsets:5,23,93,93
+effect/skill1/wuji_skill3_09
+bounds:550,53,61,47
+offsets:20,23,93,93
+rotate:90
+effect/skill2/0 (10)
+bounds:839,325,153,60
+effect/skill2/1 (10)
+bounds:465,309,150,60
+effect/skill2/2 (10)
+bounds:225,312,153,55
+offsets:0,1,153,57
+effect/skill2/3 (10)
+bounds:869,270,153,55
+offsets:0,1,153,58
+rotate:180
+effect/skill2/yan0001
+bounds:920,902,88,49
+offsets:5,4,126,82
+effect/skill2/yan0002
+bounds:489,183,95,61
+offsets:22,4,126,82
+effect/skill2/yan0003
+bounds:708,212,92,69
+offsets:29,6,126,82
+effect/skill2/yan0004
+bounds:248,178,86,71
+offsets:33,9,126,82
+effect/skill2/yan0005
+bounds:569,796,45,25
+offsets:44,52,126,82
+effect/skill3/0 (10)
+bounds:628,924,195,83
+offsets:7,96,233,229
+rotate:180
+effect/skill3/0 (11)
+bounds:527,815,200,104
+offsets:3,69,233,229
+rotate:270
+effect/skill3/0 (2)
+bounds:949,692,97,54
+offsets:2,2,99,60
+rotate:90
+effect/skill3/0 (7)
+bounds:2,48,76,80
+offsets:3,0,79,80
+effect/skill3/0 (8)
+bounds:907,194,115,86
+rotate:180
+effect/skill3/0 (9)
+bounds:395,130,96,95
+offsets:22,35,217,158
+effect/skill3/1 (10)
+bounds:576,574,198,93
+offsets:11,87,233,229
+effect/skill3/1 (2)
+bounds:710,132,119,80
+offsets:0,2,119,84
+rotate:180
+effect/skill3/1 (7)
+bounds:441,34,61,78
+offsets:3,0,64,78
+effect/skill3/1 (8)
+bounds:104,301,120,88
+rotate:180
+effect/skill3/1 (9)
+bounds:829,122,97,91
+offsets:21,38,217,158
+rotate:180
+effect/skill3/10 (8)
+bounds:802,188,90,112
+offsets:56,3,212,124
+effect/skill3/2 (10)
+bounds:130,518,196,114
+offsets:6,69,233,229
+effect/skill3/2 (2)
+bounds:389,245,109,60
+offsets:3,2,115,64
+effect/skill3/2 (7)
+bounds:870,7,51,70
+offsets:2,3,53,73
+effect/skill3/2 (8)
+bounds:890,387,132,90
+rotate:180
+effect/skill3/2 (9)
+bounds:2,115,96,90
+offsets:21,39,217,158
+rotate:90
+effect/skill3/3 (2)
+bounds:710,874,94,51
+offsets:1,2,99,55
+effect/skill3/3 (5)
+bounds:843,382,45,63
+offsets:3,6,48,69
+effect/skill3/3 (7)
+bounds:2,860,225,155
+offsets:0,44,233,229
+effect/skill3/3 (8)
+bounds:110,369,111,92
+offsets:0,0,140,92
+effect/skill3/3 (9)
+bounds:924,114,94,79
+offsets:24,44,217,158
+effect/skill3/4 (2)
+bounds:336,193,61,51
+offsets:3,2,66,53
+effect/skill3/4 (6)
+bounds:424,674,205,117
+offsets:7,63,233,229
+rotate:270
+effect/skill3/4 (7)
+bounds:373,390,126,94
+offsets:0,0,128,94
+rotate:180
+effect/skill3/4 (8)
+bounds:217,96,80,81
+offsets:30,43,217,158
+rotate:270
+effect/skill3/5 (6)
+bounds:373,769,86,83
+offsets:27,42,217,158
+effect/skill3/5 (7)
+bounds:2,229,114,94
+effect/skill3/6 (5)
+bounds:635,79,86,90
+offsets:78,96,361,264
+rotate:270
+effect/skill3/6 (8)
+bounds:453,98,83,104
+offsets:57,6,212,124
+rotate:270
+effect/skill3/7 (8)
+bounds:470,927,88,106
+offsets:52,4,212,124
+rotate:90
+effect/skill3/8 (8)
+bounds:304,110,91,107
+offsets:51,3,212,124
+rotate:270
+effect/skill3/9 (8)
+bounds:749,637,91,105
+offsets:52,3,212,124
+effect/skill3/glow
+bounds:330,397,43,44
+effect/skill3/guang_xiao_0166
+bounds:498,431,102,111
+offsets:4,1,112,112
+rotate:270
+effect/skill3/qshsd1
+bounds:2,476,48,60
+offsets:10,7,72,72
+effect/skill3/qshsd2
+bounds:687,8,50,56
+offsets:10,9,72,72
+effect/skill3/qshsd3
+bounds:206,42,53,69
+offsets:9,2,72,72
+rotate:90
+effect/skill3/qshsd4
+bounds:504,28,44,69
+offsets:18,2,72,72
+eyebrow
+bounds:72,1009,9,6
+spearglow3
+bounds:909,14,124,60
+offsets:0,1,124,61
+rotate:90
+spinA
+bounds:599,56,55,68
+spinA_glow
+bounds:805,874,37,46
+offsets:89,65,150,150
+spinB
+bounds:759,6,65,64
+spinB_glow
+bounds:542,401,46,45
+offsets:27,72,150,150
