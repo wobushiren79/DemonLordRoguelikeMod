@@ -1,0 +1,179 @@
+Hekatiya.png
+size:556,556
+filter:Linear,Linear
+pma:true
+acc1
+bounds:379,391,13,15
+acc2
+bounds:267,68,12,15
+rotate:90
+acc3
+bounds:367,2,14,14
+acc4
+bounds:543,485,11,16
+acc5
+bounds:543,467,11,16
+acc6
+bounds:541,65,12,15
+acc9
+bounds:383,2,12,14
+body
+bounds:306,122,54,76
+cloak1
+bounds:421,190,19,16
+rotate:90
+cloak2
+bounds:271,183,23,22
+rotate:90
+cloak3
+bounds:394,380,77,95
+cloak4
+bounds:129,169,75,126
+cloak5
+bounds:2,2,28,30
+cloak6
+bounds:445,64,24,27
+rotate:90
+face1
+bounds:2,173,125,122
+hair
+bounds:365,200,21,54
+rotate:90
+hair1
+bounds:458,503,51,96
+rotate:90
+hair10
+bounds:379,333,45,78
+rotate:90
+hair11
+bounds:267,82,37,99
+hair12
+bounds:2,34,137,110
+rotate:90
+hair13
+bounds:114,27,90,140
+hair14
+bounds:423,231,59,100
+hair15
+bounds:327,200,36,126
+hair16
+bounds:243,328,78,134
+rotate:90
+hair17
+bounds:473,379,68,122
+hair18
+bounds:253,408,67,139
+rotate:90
+hair19
+bounds:206,183,63,132
+hair2
+bounds:199,317,42,48
+hair3
+bounds:423,211,59,18
+hair5
+bounds:306,79,41,73
+rotate:90
+hair6
+bounds:206,2,43,63
+hair7
+bounds:418,83,25,51
+hair8
+bounds:362,126,49,72
+hair9
+bounds:206,67,59,114
+headwear1
+bounds:365,223,56,103
+left earrings
+bounds:515,82,33,36
+rotate:90
+left eyeball1
+bounds:511,46,17,21
+rotate:90
+left eyebrow1
+bounds:459,333,22,15
+left eyelid1
+bounds:439,36,25,26
+left forearm
+bounds:445,90,44,29
+rotate:90
+left leg
+bounds:381,74,35,50
+left main arm
+bounds:454,137,31,46
+left palm
+bounds:466,36,26,19
+rotate:90
+left thigh
+bounds:251,5,37,60
+left white eye1
+bounds:487,45,21,22
+rotate:90
+month1
+bounds:458,477,7,4
+month2
+bounds:458,483,13,18
+month3
+bounds:379,328,9,3
+month4
+bounds:439,64,17,4
+rotate:90
+month5
+bounds:180,2,23,14
+rotate:90
+right earrings
+bounds:476,96,37,39
+right eyeball1
+bounds:467,13,19,21
+right eyebrow1
+bounds:511,65,28,15
+right eyelid1
+bounds:476,68,33,26
+right forearm
+bounds:487,142,38,45
+right leg
+bounds:85,2,23,55
+rotate:90
+right main arm
+bounds:527,152,27,35
+right palm
+bounds:459,350,27,22
+rotate:90
+right thigh
+bounds:290,13,37,64
+right white eye1
+bounds:439,12,26,22
+skirt1
+bounds:329,17,36,60
+skirt2
+bounds:484,284,64,93
+skirt3
+bounds:367,18,35,54
+skirt4
+bounds:484,189,93,64
+rotate:90
+weapon1
+bounds:404,14,33,58
+weapon11
+bounds:527,117,27,33
+weapon12
+bounds:413,136,39,47
+weapon2
+bounds:439,185,24,43
+rotate:90
+weapon3
+bounds:271,208,118,54
+rotate:90
+weapon4
+bounds:32,4,28,51
+rotate:90
+weapon5
+bounds:142,5,20,36
+rotate:90
+weapon6
+bounds:253,477,203,77
+weapon7
+bounds:2,453,249,101
+weapon8
+bounds:2,367,239,84
+weapon9
+bounds:2,297,195,68

@@ -1,0 +1,201 @@
+GuideFairyTio_Avator.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+L_ear
+bounds:3904,15,236,105
+rotate:90
+L_foot02
+bounds:3699,1842,316,462
+L_forearm
+bounds:2355,2,457,351
+rotate:90
+L_leg_upper
+bounds:2890,2344,828,1750
+L_leg_upper_shade
+bounds:1933,15,420,472
+L_upperarm02
+bounds:1210,1207,388,198
+rotate:90
+L_upperarm04
+bounds:2,2,129,39
+L_wings
+bounds:2,1597,1445,2497
+R_ear
+bounds:4005,263,183,78
+rotate:90
+R_forearm
+bounds:3903,696,168,516
+R_leg_lower
+bounds:3720,2564,625,370
+rotate:90
+R_leg_upper
+bounds:2890,1782,560,807
+rotate:90
+R_leg_upper_shade
+bounds:3232,1141,456,639
+R_upperarm03
+bounds:3294,102,149,608
+rotate:90
+R_wings
+bounds:1449,1715,1439,2379
+body02
+bounds:3318,448,583,691
+bust
+bounds:2375,461,675,941
+rotate:90
+decoration02
+bounds:689,11,283,115
+decoration05
+bounds:974,25,234,101
+decoration06
+bounds:3072,36,104,207
+rotate:90
+decoration07
+bounds:3294,253,709,193
+eyebrow_normal
+bounds:2,43,374,83
+eyeline bottom_normal
+bounds:2890,1729,284,51
+eyeline top_normal
+bounds:3690,1214,398,130
+front hair01
+bounds:4017,2012,75,292
+front hair02
+bounds:378,6,120,309
+rotate:90
+front hair07
+bounds:3786,15,85,104
+rotate:90
+front hair08
+bounds:3521,10,90,146
+rotate:90
+front hair12
+bounds:3669,5,95,115
+rotate:90
+headdress03
+bounds:3690,1346,434,404
+rotate:90
+hi1_normal
+bounds:3281,13,238,87
+hi2_normal
+bounds:3699,1787,281,53
+mouth close
+bounds:1410,1512,83,37
+rotate:90
+mouth_normal
+bounds:3690,1142,85,70
+neck02_shade
+bounds:3903,448,187,246
+side hair L01
+bounds:3720,2306,256,348
+rotate:90
+side hair L03
+bounds:2,128,1467,1206
+rotate:90
+side hair L06
+bounds:2708,142,584,317
+side hair R02
+bounds:1449,1138,575,1781
+rotate:90
+side hair R03
+bounds:3720,3191,338,903
+side hair R06
+bounds:1210,27,460,721
+rotate:90
+skirt01
+bounds:1210,489,1163,647
+white eyes_normal
+bounds:2708,13,362,127
+
+GuideFairyTio_Avator_2.png
+size:2056,2056
+filter:Linear,Linear
+pma:true
+L_foot01
+bounds:1205,299,303,319
+L_foot03
+bounds:856,722,253,217
+L_hand01
+bounds:1739,360,282,281
+L_hand02
+bounds:283,21,159,146
+rotate:90
+L_upperarm03
+bounds:1542,1596,458,504
+rotate:90
+L_upperarm03_shade
+bounds:1462,640,275,241
+R_foot01
+bounds:851,2,233,270
+rotate:90
+R_foot02
+bounds:2,574,271,459
+rotate:90
+R_foot03
+bounds:1712,145,213,262
+rotate:90
+R_hand
+bounds:562,721,292,325
+R_upperarm02
+bounds:1604,164,241,106
+rotate:90
+R_upperarm03_shade
+bounds:463,574,145,159
+rotate:90
+back hair center
+bounds:860,941,644,569
+body02_shade
+bounds:1542,1367,497,227
+decoration01
+bounds:2,5,175,134
+rotate:90
+decoration03
+bounds:1510,407,216,231
+decoration04
+bounds:138,8,172,143
+rotate:90
+eye lids_close
+bounds:1111,812,349,127
+front hair03
+bounds:384,185,262,387
+front hair04
+bounds:1389,5,213,292
+front hair05
+bounds:2,182,380,390
+front hair06
+bounds:878,608,112,271
+rotate:90
+front hair09
+bounds:898,287,305,319
+front hair11
+bounds:648,237,248,347
+front hair13
+bounds:624,586,133,252
+rotate:90
+head
+bounds:2,847,480,558
+rotate:90
+head_shade
+bounds:1506,883,482,533
+rotate:90
+headdress01
+bounds:562,1048,296,279
+headdress02
+bounds:1123,2,283,264
+rotate:90
+neck01
+bounds:431,3,180,133
+rotate:90
+neck02
+bounds:1151,620,190,268
+rotate:90
+pupil 2_normal
+bounds:566,69,283,114
+side hair L02
+bounds:860,1512,680,542
+side hair R01
+bounds:1739,643,238,303
+rotate:90
+skirt02
+bounds:2,1329,856,725

@@ -1,0 +1,227 @@
+Rosa_Avator.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+L_leg_lower
+bounds:2,52,276,1005
+rotate:90
+L_leg_upper
+bounds:1978,51,475,1180
+rotate:90
+L_upperarm01
+bounds:3825,1503,343,269
+rotate:90
+L_upperarm02
+bounds:1009,113,215,657
+rotate:90
+R_forearm
+bounds:3781,961,307,540
+back hair R02
+bounds:1978,528,1106,1801
+rotate:90
+back hair center
+bounds:2,330,1357,1974
+rotate:90
+cloak02
+bounds:2594,1636,809,2458
+cloak03
+bounds:2,1689,2590,2405
+decoration04
+bounds:2596,16,74,33
+decoration05
+bounds:4046,3609,35,73
+decoration08
+bounds:2303,1656,31,59
+rotate:90
+decoration09
+bounds:1931,172,42,156
+decoration10
+bounds:4046,3479,29,57
+decoration11
+bounds:1668,116,261,212
+decoration13
+bounds:2364,1658,29,57
+rotate:90
+decoration17
+bounds:3781,1551,42,93
+decoration21
+bounds:2364,1636,20,43
+rotate:90
+decoration23
+bounds:4058,549,23,39
+eyebrow
+bounds:4046,3780,314,28
+rotate:90
+eyes close_eyelids
+bounds:3781,529,275,59
+eyes close_eyeline top
+bounds:1978,1656,323,31
+eyes open_eyelids
+bounds:1668,30,296,84
+eyes open_eyeline bottom
+bounds:1978,1636,260,18
+eyes open_eyeline top
+bounds:1009,56,341,55
+eyes open_hl
+bounds:2,23,249,27
+eyes open_pupil
+bounds:2252,2,240,47
+eyes open_white of eyes
+bounds:1966,2,284,47
+front hair01
+bounds:1352,35,76,314
+rotate:90
+front hair02
+bounds:3405,1646,200,418
+rotate:90
+front hair05
+bounds:3781,590,304,369
+mouth close
+bounds:4046,3538,69,36
+rotate:90
+mouth normal
+bounds:2494,3,100,46
+mouth open
+bounds:4046,3684,94,48
+rotate:90
+nose
+bounds:2672,19,30,57
+rotate:90
+skirt01
+bounds:3160,49,477,927
+rotate:90
+skirt07
+bounds:3405,1848,639,2246
+
+Rosa_Avator_2.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+L_ foot
+bounds:3812,3493,227,601
+L_earrings
+bounds:3448,1930,67,203
+rotate:90
+L_forearm
+bounds:3810,1565,391,169
+rotate:90
+R_ear
+bounds:3968,938,83,126
+rotate:90
+R_earrings
+bounds:610,54,66,203
+rotate:90
+R_foot
+bounds:610,122,217,548
+rotate:90
+R_hand01
+bounds:2395,1896,286,134
+R_hand02
+bounds:2544,103,187,173
+R_leg_lower
+bounds:3448,1999,368,982
+R_leg_upper
+bounds:3448,2983,362,1111
+back hair L01
+bounds:2395,278,755,1594
+back hair L02
+bounds:1717,280,676,1750
+back hair R01
+bounds:716,341,999,1498
+body01
+bounds:3152,716,656,1156
+cheek
+bounds:3810,810,376,156
+rotate:90
+cloak01
+bounds:2689,1874,757,2220
+decoration02
+bounds:2733,147,129,177
+rotate:90
+decoration03
+bounds:1611,1858,95,172
+decoration06
+bounds:3078,90,72,186
+decoration07
+bounds:2,42,467,606
+rotate:90
+decoration12
+bounds:3448,1874,82,54
+decoration14
+bounds:3788,117,222,226
+decoration15
+bounds:2912,147,129,164
+rotate:90
+decoration18
+bounds:3968,1023,126,163
+decoration19
+bounds:1890,2,112,109
+decoration20
+bounds:2367,82,175,194
+front hair03
+bounds:1595,98,180,293
+rotate:90
+front hair04
+bounds:3810,1188,163,375
+front hair06
+bounds:3818,1958,198,383
+front hair07
+bounds:3818,2710,387,229
+rotate:90
+hand01
+bounds:2004,2,66,109
+hand02
+bounds:3968,772,124,164
+hand03
+bounds:2152,74,213,204
+side hair R01
+bounds:3818,2343,246,365
+side hair R02
+bounds:3812,3099,229,392
+side hair R03
+bounds:1890,113,165,260
+rotate:90
+side hair R04
+bounds:610,361,148,88
+rotate:90
+skirt02
+bounds:3152,140,634,574
+skirt03
+bounds:1160,165,174,433
+rotate:90
+skirt05
+bounds:716,1841,893,2253
+skirt09
+bounds:1611,2032,1076,2062
+tiara
+bounds:3788,345,369,190
+rotate:90
+weapon
+bounds:2,511,712,3583
+
+Rosa_Avator_3.png
+size:1668,1668
+filter:Linear,Linear
+pma:true
+L_bust01
+bounds:841,284,410,413
+L_leg_upper_dropshadow
+bounds:2,706,464,957
+R_bust01
+bounds:428,276,428,411
+rotate:90
+R_upperarm
+bounds:957,699,525,365
+rotate:90
+decoration16
+bounds:468,744,487,480
+head
+bounds:2,189,424,515
+head_dropshadow
+bounds:1253,273,424,398
+rotate:90
+neck
+bounds:1324,739,339,485
+side hair L01
+bounds:468,1226,437,962
+rotate:90

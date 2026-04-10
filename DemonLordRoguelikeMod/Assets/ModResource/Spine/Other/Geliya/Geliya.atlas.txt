@@ -1,0 +1,138 @@
+Geliya.png
+size:540,540
+filter:Linear,Linear
+pma:true
+acc
+bounds:430,28,29,21
+rotate:90
+ball
+bounds:484,161,54,54
+body
+bounds:307,124,69,86
+eye
+bounds:266,309,93,44
+rotate:90
+eye1
+bounds:459,308,81,46
+rotate:90
+eye2
+bounds:228,76,84,42
+eye3
+bounds:430,214,90,34
+rotate:90
+eye4
+bounds:384,211,93,44
+rotate:90
+face
+bounds:2,364,136,174
+face1
+bounds:2,188,136,174
+hair 12
+bounds:140,404,173,134
+hair1
+bounds:228,120,86,77
+rotate:90
+hair10
+bounds:2,14,37,104
+rotate:90
+hair11
+bounds:315,388,69,118
+rotate:90
+hair13
+bounds:173,95,53,112
+hair14
+bounds:119,73,52,113
+hair15
+bounds:336,9,32,68
+hair16
+bounds:484,114,45,54
+rotate:90
+hair17
+bounds:312,306,80,108
+rotate:90
+hair18
+bounds:370,7,19,66
+rotate:90
+hair19
+bounds:447,436,85,102
+hair2
+bounds:140,310,124,92
+hair20
+bounds:2,53,115,133
+hair3
+bounds:140,209,103,99
+hair4
+bounds:435,391,43,93
+rotate:90
+hair5
+bounds:245,208,55,99
+hair6
+bounds:422,306,35,80
+hair7
+bounds:378,119,57,90
+hair8
+bounds:437,138,45,74
+hair9
+bounds:119,2,69,108
+rotate:90
+left acc
+bounds:507,331,22,31
+rotate:90
+left forearm
+bounds:507,355,34,31
+rotate:90
+left leg
+bounds:509,225,26,66
+left main arm
+bounds:475,51,32,50
+rotate:90
+left palm
+bounds:140,188,26,19
+left thigh
+bounds:482,85,27,56
+rotate:90
+month
+bounds:336,2,16,5
+month1
+bounds:173,73,20,14
+rotate:90
+month2
+bounds:189,78,28,15
+month3
+bounds:534,523,15,4
+rotate:90
+month4
+bounds:2,7,15,5
+right acc
+bounds:440,59,27,33
+rotate:90
+right forearm
+bounds:509,293,29,36
+right leg
+bounds:314,79,43,55
+rotate:90
+right main arm
+bounds:463,5,26,44
+right palm
+bounds:438,2,24,23
+rotate:90
+right thigh
+bounds:370,28,37,58
+rotate:90
+skirt1
+bounds:466,217,89,41
+rotate:90
+skirt2
+bounds:440,88,48,40
+rotate:90
+skirt3
+bounds:304,2,30,63
+skirt4
+bounds:315,459,130,79
+waist
+bounds:371,67,67,50
+weapon1
+bounds:302,212,80,92
+weapon2
+bounds:229,6,68,73
+rotate:90

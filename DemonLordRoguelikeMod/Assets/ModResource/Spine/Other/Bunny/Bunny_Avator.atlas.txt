@@ -1,0 +1,195 @@
+Bunny_Avator.png
+size:3208,3208
+filter:Linear,Linear
+pma:true
+L_ foot
+bounds:2562,2012,181,491
+rotate:90
+L_bust01
+bounds:1481,1260,332,444
+L_bust01_dropshadow
+bounds:2196,7,170,92
+L_bust01_dropshadow2
+bounds:2403,818,297,289
+L_forearm
+bounds:1485,463,316,441
+L_hand01
+bounds:2702,840,308,183
+L_leg_lower
+bounds:2,26,352,884
+L_leg_upper
+bounds:2,912,354,1191
+L_leg_upper_dropshadow
+bounds:358,1473,354,630
+L_rabbit ear01
+bounds:2767,1363,348,293
+L_rabbit ear02
+bounds:2420,1377,345,333
+L_upperarm
+bounds:896,35,365,439
+rotate:90
+R_ foot
+bounds:2201,1251,217,480
+R_bust01
+bounds:2446,1712,298,458
+rotate:90
+R_bust01_dropshadow
+bounds:3012,850,173,108
+rotate:90
+R_bust01_dropshadow2
+bounds:2429,532,284,273
+rotate:90
+R_forearm
+bounds:2996,2688,205,518
+R_forearm_dropshadow
+bounds:2446,2050,98,86
+R_hand01
+bounds:1827,937,286,356
+R_leg_lower
+bounds:1420,2653,553,920
+rotate:90
+R_leg_upper
+bounds:2,2105,671,1101
+R_leg_upper_dropshadow
+bounds:714,1507,530,599
+R_rabbit ear01
+bounds:675,2108,733,228
+R_upperarm
+bounds:1271,870,208,693
+R_upperarm_dropshadow
+bounds:2509,57,123,284
+rotate:90
+accessory
+bounds:2795,110,100,185
+rotate:90
+back hair 01
+bounds:358,909,562,494
+rotate:90
+back hair L01
+bounds:2028,8,166,460
+back hair L02
+bounds:2393,99,114,350
+back hair L03
+bounds:3026,2206,149,480
+back hair L04
+bounds:2201,763,200,486
+back hair R01
+bounds:1246,1565,167,541
+back hair R02
+bounds:2420,1109,266,332
+rotate:90
+back hair R03
+bounds:356,23,36,226
+rotate:90
+back hair R04
+bounds:1415,1621,83,61
+rotate:90
+body
+bounds:675,2338,743,868
+body_dropshadow
+bounds:1821,1710,494,213
+rotate:90
+body_dropshadow2
+bounds:2906,1658,352,300
+rotate:90
+body_waist
+bounds:2342,2687,652,519
+cheek(normal)
+bounds:1337,10,390,255
+rotate:90
+costume_apron01
+bounds:2041,2138,519,513
+costume_apron02
+bounds:2754,1130,324,231
+costume_body
+bounds:2562,2195,462,490
+costume_bust
+bounds:890,402,560,351
+rotate:90
+eyebrow(normal)
+bounds:3117,1333,323,85
+rotate:90
+eyelids(normal)
+bounds:3122,869,259,84
+rotate:90
+eyeline bottom(normal)
+bounds:3034,570,278,93
+rotate:90
+eyeline top(normal)
+bounds:2754,1025,330,103
+eyes close_eyelids
+bounds:584,15,191,44
+eyes close_eyeline top
+bounds:2882,212,320,83
+rotate:90
+front hair01
+bounds:2888,540,144,298
+front hair02
+bounds:2704,534,182,304
+front hair03
+bounds:2210,451,217,310
+glass
+bounds:1803,470,234,434
+head
+bounds:854,964,415,541
+head_dropshadow
+bounds:2036,1733,408,403
+mouth open
+bounds:1979,1315,85,39
+mouth(normal)
+bounds:1485,422,86,39
+neck
+bounds:2706,215,174,317
+neck_collar01
+bounds:2039,470,169,232
+neck_collar02
+bounds:3074,322,113,246
+neck_collar03
+bounds:3080,1130,201,117
+rotate:90
+neck_ribbon01
+bounds:3055,2021,183,131
+rotate:90
+neck_ribbon02
+bounds:2368,13,85,84
+neck_ribbon03
+bounds:3074,244,76,104
+rotate:90
+nose(normal)
+bounds:3034,540,28,36
+rotate:90
+pupil(normal)
+bounds:2967,242,296,105
+rotate:90
+shorts
+bounds:1420,2206,619,445
+side hair L01
+bounds:356,61,269,538
+rotate:90
+side hair L02
+bounds:1815,1295,162,409
+side hair R01
+bounds:1824,45,202,423
+side hair R02
+bounds:1243,402,240,466
+skirt01
+bounds:356,332,532,575
+skirt02
+bounds:1979,1356,352,220
+rotate:90
+skirt03
+bounds:1481,906,352,344
+rotate:90
+skirt04
+bounds:1415,1706,404,498
+skirt05
+bounds:1594,12,228,449
+straw01
+bounds:2196,101,195,348
+straw02
+bounds:2509,182,195,348
+tray
+bounds:2115,704,650,84
+rotate:90
+ｈ(normal)
+bounds:2795,12,226,96

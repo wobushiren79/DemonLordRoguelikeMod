@@ -1,0 +1,256 @@
+Kuluoxier.png
+size:876,876
+filter:Linear,Linear
+pma:true
+MMguang
+bounds:551,344,108,109
+The Ball
+bounds:369,74,44,98
+rotate:90
+back hair1
+bounds:426,452,117,148
+back hair2
+bounds:167,115,74,134
+back hair3
+bounds:404,342,108,145
+rotate:90
+bang 1
+bounds:260,7,83,68
+bang 2
+bounds:167,13,53,91
+rotate:90
+bang 3
+bounds:467,168,69,82
+rotate:90
+body
+bounds:493,117,49,69
+rotate:90
+cage1
+bounds:187,284,62,290
+cage2
+bounds:233,602,96,284
+rotate:90
+cage3
+bounds:2,576,229,298
+cage4
+bounds:815,669,205,59
+rotate:90
+cage5
+bounds:243,77,124,82
+eyebrow
+bounds:165,2,88,9
+eyebrow2
+bounds:638,266,76,24
+rotate:90
+eyebrow3
+bounds:469,2,83,13
+face
+bounds:661,345,102,92
+face1
+bounds:681,573,129,101
+guang1
+bounds:664,274,57,69
+guang2
+bounds:723,258,49,39
+rotate:90
+hair1
+bounds:822,455,50,93
+hair2
+bounds:812,550,62,117
+hair3
+bounds:765,366,71,109
+rotate:90
+hair4
+bounds:545,549,134,125
+hair5
+bounds:251,359,151,129
+hair6
+bounds:2,251,183,323
+hair7
+bounds:233,700,174,325
+rotate:90
+headwear1
+bounds:681,522,126,49
+headwear1MM
+bounds:243,161,112,96
+headwear2
+bounds:251,490,173,110
+hip
+bounds:819,258,45,41
+rotate:90
+left forearm
+bounds:723,309,40,34
+left forearm1
+bounds:734,147,27,43
+rotate:90
+left forearm2
+bounds:606,29,45,28
+left hair
+bounds:779,164,18,52
+rotate:90
+left leg
+bounds:551,169,49,80
+left legMM
+bounds:345,15,57,83
+rotate:90
+left main arm
+bounds:558,26,46,30
+left palm
+bounds:835,177,36,27
+rotate:90
+left sleeve1
+bounds:2,2,33,109
+rotate:90
+left sleeve2
+bounds:599,59,42,29
+left thigh
+bounds:669,173,41,63
+rotate:90
+left weapon
+bounds:469,68,89,47
+left wing
+bounds:668,439,115,81
+month1
+bounds:545,681,17,5
+rotate:90
+month2
+bounds:357,239,25,18
+month4
+bounds:779,137,52,25
+month5
+bounds:668,524,23,11
+rotate:90
+right  main arm
+bounds:830,215,23,41
+right White eye
+bounds:692,121,23,22
+rotate:90
+right White eyeMM
+bounds:603,2,35,22
+right canthus
+bounds:240,263,9,19
+right canthusMM
+bounds:822,439,14,20
+rotate:90
+right eye shadow
+bounds:404,470,20,18
+right eye shadowMM
+bounds:404,462,20,6
+right eyeball
+bounds:652,110,18,24
+right eyeball1
+bounds:602,90,76,26
+rotate:90
+right eyeballMM
+bounds:692,146,22,25
+right eyebrow
+bounds:631,170,27,7
+right eyebrowMM
+bounds:345,8,31,5
+right eyelid
+bounds:661,444,9,5
+rotate:90
+right eyelid1
+bounds:734,176,41,43
+rotate:90
+right eyelid2
+bounds:187,251,28,31
+right eyelid3
+bounds:519,616,82,24
+rotate:90
+right eyelidMM
+bounds:357,161,9,5
+right eyeliner
+bounds:652,136,32,13
+rotate:90
+right eyelinerMM
+bounds:833,158,41,17
+right forearm
+bounds:558,2,22,43
+rotate:90
+right forearm1
+bounds:779,215,41,49
+rotate:90
+right hair
+bounds:721,219,37,56
+rotate:90
+right leg
+bounds:547,251,45,89
+right legMM
+bounds:469,17,49,87
+rotate:90
+right palm
+bounds:560,58,33,37
+rotate:90
+right plam
+bounds:855,235,19,21
+right plam2
+bounds:652,86,18,22
+right plam4
+bounds:217,251,31,21
+rotate:90
+right sleeve
+bounds:779,184,29,54
+rotate:90
+right thigh
+bounds:564,93,36,74
+right weapon
+bounds:594,253,89,42
+rotate:90
+right white eye1
+bounds:602,168,83,27
+rotate:90
+right wing
+bounds:251,259,149,98
+scar
+bounds:855,225,8,19
+rotate:90
+shadow
+bounds:765,305,95,59
+silk_ribbon1
+bounds:630,101,65,20
+rotate:90
+silk_ribbon2
+bounds:2,37,163,212
+silk_ribbon3
+bounds:833,132,24,27
+rotate:90
+silk_ribbon4
+bounds:672,118,18,24
+silk_ribbon5
+bounds:430,7,65,37
+rotate:90
+silk_ribbon6
+bounds:560,676,198,253
+rotate:90
+sister_arm2
+bounds:672,93,23,18
+rotate:90
+sister_arm22
+bounds:667,144,23,27
+sister_cry1
+bounds:369,120,122,46
+sister_right_palm2
+bounds:233,585,16,15
+skirt1
+bounds:167,68,74,45
+skirt2
+bounds:113,2,50,33
+skirt3
+bounds:640,2,37,25
+upper body
+bounds:764,258,45,53
+rotate:90
+wing1
+bounds:669,216,56,50
+rotate:90
+wing2
+bounds:402,239,143,101
+wing3
+bounds:631,179,36,72
+wing4
+bounds:357,168,108,69
+wing5
+bounds:785,439,35,81
+wing6
+bounds:545,455,121,92

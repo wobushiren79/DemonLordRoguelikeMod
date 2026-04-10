@@ -1,0 +1,169 @@
+Suyite_Avator.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+bang
+bounds:3945,3241,126,174
+cloak
+bounds:1273,617,1830,633
+rotate:90
+clothes2
+bounds:1338,29,591,586
+clothes3
+bounds:3945,3417,302,126
+rotate:90
+flower1
+bounds:2658,208,1333,979
+flower4
+bounds:2,2449,1755,1645
+gen1
+bounds:2,116,1334,408
+gen3
+bounds:1908,790,1746,748
+rotate:90
+hair1
+bounds:3573,9,197,249
+rotate:90
+hair2
+bounds:2631,39,167,405
+rotate:90
+hair3
+bounds:3910,1864,150,191
+hide hair3
+bounds:1759,2538,1392,1556
+hide hair6
+bounds:1931,44,698,744
+hong
+bounds:292,27,185,87
+horn 1
+bounds:3945,3721,77,373
+left eye shadow1
+bounds:3910,1619,95,90
+left eye shadow2
+bounds:3945,2667,95,68
+left eye shadow3
+bounds:3910,1527,94,90
+left eye shadow4
+bounds:3945,2737,95,90
+left eye shadow5
+bounds:479,32,82,151
+rotate:90
+light2
+bounds:3153,2487,1607,790
+rotate:90
+light4
+bounds:2,526,1921,1269
+rotate:90
+main arm1
+bounds:3910,2057,278,154
+rotate:90
+main arm2
+bounds:2,5,288,109
+month1
+bounds:1856,2460,76,50
+rotate:90
+month2
+bounds:4024,3991,64,103
+month3
+bounds:4048,3196,43,46
+rotate:90
+month4
+bounds:3910,1475,76,50
+month5
+bounds:1273,561,63,54
+neck
+bounds:1759,2451,95,85
+palm1
+bounds:3824,6,193,200
+right eyelid1
+bounds:3945,3100,101,139
+right eyelid2
+bounds:3910,1711,99,151
+right eyelid3
+bounds:3945,2960,101,138
+right eyelid4
+bounds:3945,2829,107,129
+right eyelid5
+bounds:632,53,104,61
+saliva1
+bounds:3038,9,197,268
+rotate:90
+saliva2
+bounds:2658,1189,1296,1250
+rotate:90
+tongue1
+bounds:3910,2337,148,184
+rotate:90
+tongue3
+bounds:3308,7,263,199
+
+Suyite_Avator_2.png
+size:3104,3104
+filter:Linear,Linear
+pma:true
+body
+bounds:1300,2211,359,985
+rotate:90
+clothes1
+bounds:2287,2314,256,234
+rotate:90
+face1
+bounds:2645,1614,279,283
+flower2
+bounds:2,2,774,587
+flower3
+bounds:1105,1584,876,625
+forearm1
+bounds:2875,1374,238,192
+rotate:90
+forearm2
+bounds:2853,501,230,241
+gen2
+bounds:1896,26,790,385
+rotate:90
+gen5
+bounds:2,1478,1101,791
+hair4
+bounds:2645,1899,444,471
+hide hair1
+bounds:2085,1210,788,394
+hide hair2
+bounds:704,646,830,606
+rotate:90
+hide hair4
+bounds:778,4,640,638
+rotate:90
+hide hair5
+bounds:2,591,700,885
+horn 2
+bounds:2585,466,266,276
+leg1
+bounds:2541,2372,430,728
+leg2
+bounds:1849,818,234,764
+light1
+bounds:1300,2572,1239,528
+light3
+bounds:1312,818,764,535
+rotate:90
+palm2
+bounds:2853,306,193,200
+rotate:90
+saliva3
+bounds:2,2271,1296,829
+thigh1
+bounds:2630,744,464,295
+rotate:90
+thigh2
+bounds:2283,369,300,535
+tongue2
+bounds:1983,1606,603,660
+rotate:90
+tongue4
+bounds:2283,46,321,475
+rotate:90
+tooth1
+bounds:1418,56,760,476
+rotate:90
+tooth2
+bounds:2085,906,543,302

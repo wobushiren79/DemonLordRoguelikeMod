@@ -1,0 +1,163 @@
+Heitamoning.png
+size:652,652
+filter:Linear,Linear
+pma:true
+acc1
+bounds:633,331,17,26
+acc2
+bounds:579,216,54,10
+acc3
+bounds:214,500,48,22
+body
+bounds:455,377,122,115
+clothes
+bounds:551,192,26,24
+crown
+bounds:443,532,153,118
+eyebrow
+bounds:633,448,85,17
+rotate:90
+face1
+bounds:257,51,133,136
+flower1
+bounds:635,173,15,15
+flower2
+bounds:504,85,23,24
+rotate:90
+flower3
+bounds:613,195,19,20
+rotate:90
+flower4
+bounds:507,166,18,19
+flower5
+bounds:509,34,23,23
+flower6
+bounds:507,147,18,17
+ghoul hand01
+bounds:469,55,28,36
+rotate:90
+ghoul hand02
+bounds:635,190,15,36
+ghoul hand03
+bounds:489,17,18,36
+ghoul hand04
+bounds:629,395,17,51
+ghoul hand05
+bounds:465,16,22,37
+ghoul hand06
+bounds:178,2,18,44
+rotate:90
+hair12
+bounds:160,188,81,187
+hair15
+bounds:178,22,77,164
+hair16
+bounds:274,491,159,167
+rotate:90
+hair3
+bounds:403,408,50,81
+hair6
+bounds:588,319,43,74
+hair8
+bounds:572,274,43,77
+rotate:90
+hair9
+bounds:243,275,140,131
+headwear1
+bounds:598,535,48,50
+headwear10
+bounds:447,321,54,139
+rotate:90
+headwear11
+bounds:2,377,210,145
+headwear2
+bounds:2,5,174,174
+headwear3
+bounds:443,494,36,160
+rotate:90
+headwear5
+bounds:214,408,81,187
+rotate:90
+left eyeball1
+bounds:224,2,18,22
+rotate:90
+left eyelid1
+bounds:214,379,27,27
+left forearm
+bounds:426,59,41,24
+left leg
+bounds:442,187,24,65
+rotate:90
+left palm
+bounds:613,176,20,17
+left sleeve
+bounds:461,137,44,48
+left sleeve-2
+bounds:413,137,46,48
+left thigh
+bounds:392,58,32,63
+left white eye1
+bounds:507,59,23,24
+month1
+bounds:646,319,10,4
+rotate:90
+month4
+bounds:633,319,11,10
+right eyeball1
+bounds:509,10,22,22
+right eyelid1
+bounds:605,497,36,26
+rotate:90
+right forearm
+bounds:514,192,24,35
+rotate:90
+right leg
+bounds:579,228,44,55
+rotate:90
+right plam
+bounds:504,110,25,23
+rotate:90
+right sleeve
+bounds:468,85,34,50
+right thigh
+bounds:431,3,32,54
+right white eye1
+bounds:579,190,32,24
+shadow1
+bounds:399,197,81,41
+rotate:90
+shadow2
+bounds:2,524,270,126
+skirt1
+bounds:633,359,34,17
+rotate:90
+skirt2
+bounds:579,395,97,48
+rotate:90
+skirt3
+bounds:442,213,70,54
+skirt4
+bounds:514,218,63,49
+tombstone1
+bounds:2,181,156,194
+tombstone2
+bounds:426,85,40,50
+tombstone3
+bounds:395,2,54,34
+rotate:90
+tombstone4
+bounds:257,2,47,136
+rotate:90
+tombstone5
+bounds:385,280,60,126
+tombstone6
+bounds:447,269,50,123
+rotate:90
+tombstone7
+bounds:392,123,19,64
+tombstone8
+bounds:243,189,84,154
+rotate:90
+wing
+bounds:598,587,63,52
+rotate:90

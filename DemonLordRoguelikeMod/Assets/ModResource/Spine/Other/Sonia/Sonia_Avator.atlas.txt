@@ -1,0 +1,131 @@
+Sonia_Avator.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+bangs left
+bounds:834,83,231,336
+behind frill
+bounds:1076,2025,2115,2069
+below the knee
+bounds:1076,148,599,1363
+rotate:90
+body
+bounds:3193,2911,810,1183
+eyebrows
+bounds:3400,62,339,66
+eyelash
+bounds:4005,3743,351,88
+rotate:90
+eyelash１
+bounds:4005,3419,322,73
+rotate:90
+eyelid
+bounds:4005,2951,175,52
+rotate:90
+eyelid１
+bounds:3741,2,196,65
+finger
+bounds:3193,2043,94,181
+rotate:90
+head ribbon
+bounds:3400,130,712,656
+rotate:90
+loincloth left
+bounds:1076,749,1274,2311
+rotate:90
+loincloth right
+bounds:2441,46,701,957
+rotate:90
+lower eyelashes
+bounds:3741,69,266,59
+mouth
+bounds:2,29,77,31
+neck ornament
+bounds:1308,28,216,118
+nose
+bounds:4009,82,31,46
+pewter
+bounds:4005,3128,289,75
+rotate:90
+pupil
+bounds:1067,71,239,75
+right knee below
+bounds:3389,844,617,1293
+sideburns
+bounds:2,62,357,830
+rotate:90
+sword
+bounds:2,421,1072,3673
+waist belt
+bounds:3193,2139,778,770
+
+Sonia_Avator_2.png
+size:2992,2992
+filter:Linear,Linear
+pma:true
+Back side of bangs
+bounds:2772,2492,215,495
+Cheek
+bounds:2827,488,379,159
+rotate:90
+Head
+bounds:960,1141,504,614
+rotate:90
+In front of sideburns
+bounds:1576,850,322,795
+back of waist armor
+bounds:1900,1046,689,312
+rotate:90
+bangs right
+bounds:2772,2040,196,450
+clothes
+bounds:960,1647,909,1340
+finger2
+bounds:2772,1814,224,189
+rotate:90
+front of bangs
+bounds:2214,1245,256,490
+hair
+bounds:2,1044,956,1943
+hand
+bounds:1900,669,318,375
+left arm
+bounds:1118,647,419,492
+left bust
+bounds:2220,792,412,451
+left hand
+bounds:2634,869,428,305
+rotate:90
+left hand 2
+bounds:1566,5,394,358
+left hand finger
+bounds:2301,111,239,312
+left leg
+bounds:1871,1737,433,1250
+left leg knee
+bounds:1148,6,416,639
+left shoulder
+bounds:2220,425,414,365
+middle of bangs
+bounds:2636,517,189,350
+middle of bust
+bounds:2542,145,191,278
+neck
+bounds:1898,394,273,315
+rotate:90
+right bust
+bounds:2472,1299,390,468
+right elbow
+bounds:2,116,471,661
+rotate:90
+right leg
+bounds:2306,1769,464,1218
+right leg knee
+bounds:665,61,481,526
+right shoulder
+bounds:1962,18,374,337
+rotate:90
+right wrist
+bounds:1566,365,330,483
+waist
+bounds:2,589,1114,453

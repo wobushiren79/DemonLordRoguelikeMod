@@ -1,0 +1,165 @@
+Eleamor.png
+size:528,528
+filter:Linear,Linear
+pma:true
+0
+bounds:132,2,36,34
+00
+bounds:441,158,26,34
+1
+bounds:209,188,82,86
+2
+bounds:137,147,70,127
+3
+bounds:416,326,58,94
+4
+bounds:258,326,87,119
+rotate:90
+5
+bounds:189,57,69,88
+Angry
+bounds:498,251,28,28
+Angry2
+bounds:397,24,35,24
+Body
+bounds:132,38,55,96
+Bust Cloth left
+bounds:29,5,20,48
+rotate:90
+Bust Cloth right
+bounds:318,37,32,43
+rotate:90
+Collar
+bounds:470,51,22,25
+Crown
+bounds:402,460,112,66
+Hair Back
+bounds:2,276,210,250
+Hair Left
+bounds:258,278,46,181
+rotate:90
+Hair Right
+bounds:402,422,36,123
+rotate:90
+Hand Cloth Left Above
+bounds:472,187,21,15
+Hand Cloth Right Above
+bounds:429,4,19,18
+Hand Left Above
+bounds:451,107,25,49
+Hand Left Below
+bounds:267,33,28,49
+rotate:90
+Hand Right Above
+bounds:498,201,25,48
+Hand Right Below
+bounds:487,281,43,28
+rotate:90
+Hand Ring Left
+bounds:495,187,17,12
+Hand Ring Right
+bounds:516,498,10,11
+Head
+bounds:2,136,133,138
+Hip Belt
+bounds:209,147,57,39
+Leg Left_1
+bounds:297,151,37,70
+rotate:90
+Leg Left_2
+bounds:189,27,28,76
+rotate:90
+Leg Right_1
+bounds:369,158,32,70
+rotate:90
+Leg Right_2
+bounds:472,204,24,72
+Negative Close
+bounds:137,139,14,6
+Negative Open
+bounds:484,172,13,13
+Neutral
+bounds:371,6,30,24
+rotate:90
+Neutral Close
+bounds:214,282,42,22
+Neutral Close2
+bounds:397,4,30,18
+Neutral Close3
+bounds:259,10,15,6
+rotate:90
+Neutral Open
+bounds:395,50,41,27
+Neutral Open2
+bounds:451,78,30,27
+Neutral Open3
+bounds:516,511,15,10
+rotate:90
+Neutral2
+bounds:79,6,41,19
+Palm Left
+bounds:2,2,25,23
+Palm Right
+bounds:170,9,27,17
+rotate:90
+Positive Close
+bounds:469,158,17,7
+Positive Open
+bounds:515,403,17,11
+rotate:90
+Sad
+bounds:438,50,30,26
+Sad2
+bounds:268,147,39,27
+rotate:90
+Shoe Left
+bounds:469,167,13,18
+Shoe Right
+bounds:450,4,15,18
+Skirt Back
+bounds:318,71,78,73
+rotate:90
+Skirt Left
+bounds:293,190,71,86
+Skirt Right
+bounds:260,63,56,82
+Smile
+bounds:476,326,41,14
+Smile2
+bounds:227,6,30,19
+Stall Back
+bounds:439,194,82,31
+rotate:90
+Stall Left back
+bounds:393,79,56,77
+Stall Left front
+bounds:303,2,29,32
+rotate:90
+Stall Right back
+bounds:476,342,37,78
+Stall Right front
+bounds:189,6,19,36
+rotate:90
+Surprised
+bounds:363,38,30,31
+Surprised2
+bounds:434,24,24,30
+rotate:90
+bust left
+bounds:337,2,32,33
+bust right
+bounds:267,2,29,34
+rotate:90
+hair
+bounds:258,415,142,111
+hair accessory
+bounds:366,192,71,84
+loincloth
+bounds:441,278,44,46
+option_blush
+bounds:379,326,87,35
+rotate:90
+option_pale
+bounds:2,27,128,107
+weapon
+bounds:214,306,42,220
