@@ -1,0 +1,17 @@
+6022_Elf.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.95
+2
+bounds:2,169,76,124
+Sword
+bounds:2,210,879,454
+Sword's Outer Glow
+bounds:198,418,461,246
+offsets:107,232,685,685
+scabbard
+bounds:2,2,434,615
+scabbard's Outer Glow
+bounds:2,123,244,333
+offsets:218,171,685,685

@@ -1,0 +1,13 @@
+6009_Elf.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+Cotton
+bounds:454,37,416,420
+Stick
+bounds:876,267,128,190
+glow1
+bounds:816,251,143,206
+glow2
+bounds:2,2,450,455

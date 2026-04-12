@@ -1,0 +1,8 @@
+6010_Elf.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+601004
+bounds:341,22,318,321
+glow
+bounds:2,2,337,341

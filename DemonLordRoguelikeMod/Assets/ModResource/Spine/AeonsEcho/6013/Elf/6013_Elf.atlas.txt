@@ -1,0 +1,26 @@
+6013_Elf.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+Iron1
+bounds:234,7,228,224
+rotate:270
+Iron1's Outer Glow
+bounds:2,2,237,233
+Iron2
+bounds:552,84,151,262
+rotate:90
+Iron2's Outer Glow
+bounds:407,52,160,271
+rotate:90
+light_1
+bounds:2,203,85,32
+light_2
+bounds:181,209,51,26
+offsets:2,0,54,26
+light_3
+bounds:2,21,38,79
+light_4
+bounds:460,13,101,165
+rotate:90

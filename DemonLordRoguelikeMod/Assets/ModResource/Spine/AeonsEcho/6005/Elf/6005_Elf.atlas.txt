@@ -1,0 +1,14 @@
+6005_Elf.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:43,2,177,442
+rotate:270
+1Fx
+bounds:2,40,214,478
+offsets:276,157,721,721
+rotate:90
+reflect
+bounds:2,147,55,107

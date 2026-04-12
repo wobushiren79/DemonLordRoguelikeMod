@@ -1,0 +1,41 @@
+6019_Elf.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+601901
+bounds:382,128,367,242
+rotate:270
+601901  flowerA
+bounds:2,2,179,174
+601901  flowerB
+bounds:606,147,198,178
+rotate:90
+601901  flowerC
+bounds:347,46,124,137
+601901  glow
+bounds:2,117,386,378
+TX_xingguang_0001
+bounds:240,9,56,50
+offsets:7,2,72,77
+TX_xingguang_0002
+bounds:182,7,56,52
+offsets:6,4,72,77
+TX_xingguang_0003
+bounds:182,61,58,54
+offsets:7,5,72,77
+TX_xingguang_0004
+bounds:61,438,60,57
+offsets:7,7,72,77
+TX_xingguang_0005
+bounds:326,434,56,61
+offsets:6,8,72,77
+TX_xingguang_0006
+bounds:389,229,53,57
+offsets:12,7,72,77
+TX_xingguang_0007
+bounds:2,435,57,60
+offsets:9,8,72,77
+TX_xingguang_0008
+bounds:242,66,55,49
+offsets:7,2,72,77

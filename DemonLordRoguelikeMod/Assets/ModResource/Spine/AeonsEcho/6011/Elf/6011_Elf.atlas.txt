@@ -1,0 +1,11 @@
+6011_Elf.png
+size:512,512
+filter:Linear,Linear
+pma:true
+22
+bounds:2,109,80,130
+601104_1
+bounds:2,37,357,322
+601104_2
+bounds:172,194,182,165
+rotate:180

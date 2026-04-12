@@ -1,0 +1,18 @@
+6020_Elf.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+Knot
+bounds:555,2,148,172
+rotate:270
+Knot's Outer Glow
+bounds:772,111,169,191
+offsets:276,343,721,721
+rotate:180
+Rings
+bounds:406,127,376,252
+offsets:0,0,376,277
+Rings's Outer Glow
+bounds:2,110,409,269
+offsets:155,220,721,721

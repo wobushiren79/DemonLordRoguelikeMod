@@ -1,0 +1,19 @@
+6017_Elf.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+601704_1
+bounds:2,2,195,109
+rotate:180
+601704_1 glow
+bounds:168,74,204,118
+rotate:180
+601704_2
+bounds:249,185,242,299
+rotate:180
+601704_2 glow
+bounds:2,176,251,308
+BlingA
+bounds:2,110,67,66
+offsets:2,3,71,71

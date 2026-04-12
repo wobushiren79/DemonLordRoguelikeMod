@@ -1,0 +1,17 @@
+6016_Elf.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+601604_Part1
+bounds:539,239,226,182
+601604_Part2
+bounds:2,2,251,20
+601604_Part3
+bounds:274,171,263,250
+601604_Part4
+bounds:767,266,205,155
+BlingA
+bounds:274,98,71,71
+Glow1
+bounds:2,24,270,397
