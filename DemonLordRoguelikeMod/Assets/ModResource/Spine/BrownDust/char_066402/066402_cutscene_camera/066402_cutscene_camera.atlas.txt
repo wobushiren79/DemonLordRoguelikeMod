@@ -1,0 +1,6 @@
+066402_cutscene_camera.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+camera
+bounds:2,2,775,1000

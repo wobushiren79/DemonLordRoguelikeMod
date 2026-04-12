@@ -1,0 +1,257 @@
+000701.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+Eyebrow_nomal
+bounds:1135,1832,72,32
+Eyebrow_skill
+bounds:1875,1700,71,28
+arm(L)_1
+bounds:627,1973,61,73
+arm(L)_2
+bounds:1814,1269,59,119
+arm(L)_3
+bounds:762,1956,88,71
+arm(L)frill _1
+bounds:1483,1769,28,37
+offsets:0,0,29,37
+arm(L)frill _2
+bounds:538,1797,33,43
+arm(L)frill _3
+bounds:1514,1952,19,38
+arm(L)frill _4
+bounds:200,1818,32,69
+arm(L)frill _5
+bounds:1862,1931,21,39
+arm(L)frill _6
+bounds:2,1584,63,153
+arm(L)frill _7
+bounds:1120,1995,48,51
+arm(L)frill _8
+bounds:816,2012,33,34
+offsets:0,1,33,35
+arm(R) frill_1
+bounds:2008,1763,38,41
+arm(R) frill_2
+bounds:1950,1899,65,147
+arm(R) frill_3
+bounds:1694,1939,51,107
+arm(R) frill_4
+bounds:1151,1731,105,160
+rotate:90
+arm(R)_1
+bounds:1059,1976,77,70
+arm(R)_2
+bounds:691,1826,85,96
+arm(R)_3
+bounds:1431,1364,184,110
+back frill_1
+bounds:1605,1291,104,117
+back frill_2
+bounds:345,2027,29,19
+back frill_3
+bounds:1519,1297,84,96
+back hair1
+bounds:197,1263,282,362
+rotate:90
+back hair2_1
+bounds:1521,1859,42,60
+back hair2_2
+bounds:1956,1797,85,100
+back hair2_3
+bounds:522,1331,147,126
+back hair2_4
+bounds:481,1355,293,467
+back hair2_5
+bounds:1142,1241,189,225
+rotate:180
+back hair3_1
+bounds:1862,1970,27,76
+back hair3_2
+bounds:1715,1541,190,296
+rotate:90
+back hair3_3
+bounds:362,1447,92,103
+back hair3_4
+bounds:1388,1527,218,494
+rotate:270
+back hair4_1
+bounds:985,1441,179,417
+rotate:90
+back hair4_2
+bounds:1040,1334,45,171
+rotate:90
+back hair4_3
+bounds:2,1418,243,628
+back hair4_4
+bounds:241,1516,136,214
+back hair5_1
+bounds:1275,1339,309,340
+rotate:90
+back hair5_2
+bounds:940,1307,98,120
+back hair5_3
+bounds:1940,1570,106,116
+back hair5_4
+bounds:185,1364,177,132
+back hair5_5
+bounds:1052,1542,175,136
+back hair6_1
+bounds:852,1630,455,416
+rotate:180
+back hair6_2
+bounds:575,1338,351,173
+back hair7_1
+bounds:686,1581,245,465
+back hair7_2
+bounds:933,1690,125,143
+back hair7_3
+bounds:681,1465,222,369
+rotate:90
+back hair7_4
+bounds:1948,1677,98,112
+back hair7_5
+bounds:156,1496,388,550
+body
+bounds:278,1806,240,411
+rotate:90
+body accessories_1
+bounds:848,1945,14,36
+body accessories_2
+bounds:679,1829,33,47
+body frill_1
+bounds:1494,1267,67,103
+body frill_2
+bounds:426,1851,88,29
+breast_1
+bounds:1695,1360,134,76
+breast_2
+bounds:1850,1421,131,157
+rotate:90
+breast_3
+bounds:1272,1902,43,45
+breast_4
+bounds:1358,1615,68,81
+breast_5
+bounds:918,1936,110,139
+rotate:90
+breast_6
+bounds:295,2018,48,28
+cloth1_1
+bounds:1335,1307,157,89
+cloth1_2
+bounds:987,1380,105,348
+rotate:90
+cloth1_3
+bounds:1760,1384,151,215
+rotate:90
+cloth2_1
+bounds:738,1265,130,96
+cloth2_2
+bounds:1248,1628,418,290
+rotate:270
+ear
+bounds:310,1834,44,31
+eye line
+bounds:702,1605,76,41
+eye line_effect
+bounds:1057,1963,37,29
+eye line_skill
+bounds:1447,1727,76,44
+offsets:0,0,76,45
+eye_1
+bounds:610,2031,14,15
+eye_2
+bounds:690,2032,12,14
+eye_3
+bounds:2013,1881,33,33
+eye_4
+bounds:1667,2022,24,24
+eye_closed
+bounds:1209,1687,77,42
+eye_effect_1
+bounds:137,2031,14,15
+eye_effect_2
+bounds:1170,2013,33,33
+face_effect
+bounds:1042,1921,37,37
+face_nomal
+bounds:1604,1408,142,159
+rotate:90
+face_skill
+bounds:565,1670,142,160
+rotate:90
+hair roll_1
+bounds:1877,1323,153,85
+hair roll_2
+bounds:259,1990,50,56
+hair roll_3
+bounds:5,1859,90,87
+hair roll_4
+bounds:3,1449,71,139
+hair_1
+bounds:561,1307,58,170
+rotate:90
+hair_10
+bounds:2009,1954,36,92
+hair_2
+bounds:247,1739,44,41
+offsets:1,0,45,41
+hair_4
+bounds:2,1294,96,165
+hair_7
+bounds:1495,1754,107,208
+hair_8
+bounds:1310,1823,34,139
+offsets:0,0,35,139
+hair_9
+bounds:2,1747,46,113
+hand(L)_1
+bounds:258,1950,18,36
+hand(L)_2
+bounds:1747,2019,31,27
+hand(L)_3
+bounds:1029,1779,28,47
+hand(L)_4
+bounds:270,1308,109,103
+hand(R)_1
+bounds:1552,1833,27,47
+hand(R)_2
+bounds:151,1295,101,82
+hand(R)_3
+bounds:1737,1974,38,46
+horn ring_1
+bounds:59,1929,53,49
+horn ring_2
+bounds:565,1998,53,48
+horn1
+bounds:1346,1920,39,43
+horn2_1
+bounds:546,1591,45,102
+horn2_2
+bounds:245,2027,13,19
+horn2_3
+bounds:289,1873,31,40
+leg(L)_1
+bounds:1535,1711,186,335
+rotate:180
+leg(L)_2
+bounds:1081,1904,142,328
+rotate:270
+leg(L)_3
+bounds:812,1390,87,161
+rotate:90
+leg(R)_1
+bounds:1722,1733,143,313
+leg(R)_2
+bounds:1837,1720,117,326
+leg(R)_3
+bounds:33,1353,74,150
+rotate:90
+mouth_closed
+bounds:538,2027,25,19
+mouth_nomal
+bounds:1205,2020,28,26
+mouth_skill
+bounds:907,2016,31,30
+offsets:0,0,31,31

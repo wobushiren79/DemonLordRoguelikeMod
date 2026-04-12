@@ -1,0 +1,114 @@
+000101.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+Cloak_1
+bounds:799,472,391,458
+Cloak_2
+bounds:607,328,448,549
+Lower  Body_1
+bounds:967,780,325,275
+rotate:270
+Lower  Body_2
+bounds:251,846,173,149
+Lower  Body_3
+bounds:2,417,133,151
+Lower  Body_4
+bounds:966,339,228,229
+rotate:90
+Lower  Body_5
+bounds:103,407,601,247
+rotate:180
+arm(L)_1
+bounds:280,332,224,110
+arm(L)_2
+bounds:2,921,131,148
+offsets:0,0,134,148
+arm_2(R)
+bounds:1051,691,168,183
+belt
+bounds:2,376,207,36
+offsets:1,0,208,36
+chest
+bounds:566,833,300,381
+chin_2
+bounds:2,522,88,46
+clothes_1
+bounds:472,574,64,48
+clothes_2
+bounds:475,653,86,58
+clothes_3
+bounds:2,1203,51,39
+offsets:0,0,51,40
+eye skill_1
+bounds:172,1083,15,15
+eye skill_2
+bounds:185,1109,15,15
+eye skill_3
+bounds:253,973,35,35
+eye skill_4
+bounds:2,947,35,35
+eye_1
+bounds:2,1183,17,20
+eye_2
+bounds:2,1084,16,20
+eyebrow skill_1
+bounds:177,1206,36,19
+eyebrow skill_2
+bounds:184,1229,40,13
+eyebrow2_1
+bounds:107,1052,39,15
+eyebrow2_2
+bounds:2,1070,39,12
+eyebrow_1
+bounds:36,1233,35,9
+eyebrow_2
+bounds:2,1175,31,12
+face_close
+bounds:706,331,190,180
+face_nomal
+bounds:2,1062,190,180
+face_skill2
+bounds:260,653,201,191
+hair_1
+bounds:130,948,26,71
+offsets:0,1,26,72
+hair_2
+bounds:299,1052,58,99
+hair_3
+bounds:267,997,94,105
+hair_4
+bounds:467,701,45,116
+hair_5
+bounds:426,807,50,115
+hair_6
+bounds:418,595,62,105
+hair_7
+bounds:76,329,144,75
+hand(L)_1
+bounds:93,895,48,53
+hand(L)_2
+bounds:128,1021,42,64
+hand(L)_3
+bounds:272,788,52,46
+offsets:0,3,52,49
+hand(L)_4
+bounds:2,770,96,80
+offsets:0,0,104,80
+hand(R)_1
+bounds:95,825,31,44
+hand(R)_2
+bounds:532,1079,114,163
+hand(R)_3
+bounds:132,1209,52,33
+hand(R)_4
+bounds:2,833,92,99
+leg_L
+bounds:340,557,364,658
+offsets:1,0,365,658
+rotate:180
+leg_R
+bounds:2,570,368,672
+sword
+bounds:934,796,237,446
+offsets:0,0,237,447
