@@ -1,0 +1,91 @@
+1403_weddingevent.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+1403/1403_Glove  Thumb
+bounds:844,866,236,446
+1403/1403_Hand
+bounds:2,277,600,1701
+1403/1403_pearl A
+bounds:1004,824,440,184
+rotate:90
+1403/1403_pearl A Back
+bounds:66,1741,41,45
+offsets:0,0,424,95
+1403/1403_pearl A Back2
+bounds:229,1772,50,58
+offsets:374,37,424,95
+1403/1403_pearl B
+bounds:541,824,452,378
+rotate:90
+1403/1403_pearlB Back
+bounds:124,1927,58,51
+offsets:46,0,426,312
+1403/1403_pearlB Back2
+bounds:383,1937,42,41
+offsets:0,271,426,312
+1403/1403_pearlB Back3
+bounds:236,1718,47,53
+offsets:379,48,426,312
+EF_lightA1
+bounds:560,1719,113,115
+Fx
+bounds:568,1278,392,384
+rotate:90
+FxB
+bounds:477,388,371,422
+Hand_glow
+bounds:353,2,293,597
+offsets:353,300,1009,1009
+rotate:270
+Layer 1
+bounds:124,1918,12,16
+Layer 2
+bounds:82,1875,16,19
+Layer 3
+bounds:100,1877,14,17
+Layer 7
+bounds:220,1832,56,54
+Layer 8
+bounds:82,1896,40,82
+Ring
+bounds:1120,9,130,88
+bubble_b
+bounds:850,573,249,249
+starA
+bounds:950,84,247,203
+rotate:90
+starB
+bounds:954,1524,147,140
+starC
+bounds:951,1672,212,208
+rotate:90
+starD
+bounds:2,1788,78,190
+starE
+bounds:1094,373,191,198
+starF
+bounds:850,333,242,238
+starG
+bounds:954,1314,208,207
+rotate:90
+starH
+bounds:2,759,71,261
+starI
+bounds:550,1688,399,290
+starJ
+bounds:1103,1524,138,140
+starK
+bounds:200,1888,72,90
+offsets:2,2,76,94
+starL
+bounds:1101,657,176,165
+offsets:3,5,181,172
+starM
+bounds:1155,203,128,128
+offsets:5,7,137,141
+thump_glow
+bounds:1088,918,181,264
+offsets:488,434,1009,1009
+white
+bounds:1155,99,102,102
