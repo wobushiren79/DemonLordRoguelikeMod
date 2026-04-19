@@ -1,0 +1,279 @@
+
+40008001_bg.png
+pma: true
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_hongdeng_00000
+  rotate: false
+  xy: 1861, 785
+  size: 69, 84
+  orig: 79, 96
+  offset: 5, 6
+  index: -1
+feiji
+  rotate: false
+  xy: 1488, 1906
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+hongdeng_00000
+  rotate: false
+  xy: 1594, 1787
+  size: 75, 86
+  orig: 75, 87
+  offset: 0, 1
+  index: -1
+lvdeng_00000
+  rotate: false
+  xy: 1601, 1875
+  size: 93, 104
+  orig: 97, 105
+  offset: 1, 0
+  index: -1
+lvdengxiaoren/lvdengxiaoren_00000
+  rotate: false
+  xy: 1696, 1264
+  size: 73, 88
+  orig: 87, 102
+  offset: 9, 8
+  index: -1
+lvdengxiaoren/lvdengxiaoren_00001
+  rotate: false
+  xy: 1976, 794
+  size: 70, 89
+  orig: 87, 102
+  offset: 11, 7
+  index: -1
+lvdengxiaoren/lvdengxiaoren_00002
+  rotate: false
+  xy: 1974, 1236
+  size: 72, 89
+  orig: 87, 102
+  offset: 9, 7
+  index: -1
+of_light_00043
+  rotate: false
+  xy: 2, 1912
+  size: 105, 117
+  orig: 105, 117
+  offset: 0, 0
+  index: -1
+san
+  rotate: false
+  xy: 1827, 1290
+  size: 218, 86
+  orig: 218, 86
+  offset: 0, 0
+  index: -1
+san_a
+  rotate: false
+  xy: 1440, 1956
+  size: 219, 73
+  orig: 219, 73
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 476
+  size: 1692, 1554
+  orig: 1692, 1554
+  offset: 0, 0
+  index: -1
+xinglixiang_6_1
+  rotate: false
+  xy: 1696, 1485
+  size: 284, 544
+  orig: 291, 548
+  offset: 7, 0
+  index: -1
+xinglixiang_6_2
+  rotate: true
+  xy: 2, 67
+  size: 484, 676
+  orig: 492, 689
+  offset: 0, 13
+  index: -1
+yangguang/yangguang04_00000
+  rotate: true
+  xy: 680, 308
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yun_1
+  rotate: false
+  xy: 2, 707
+  size: 307, 210
+  orig: 336, 270
+  offset: 29, 60
+  index: -1
+yun_14
+  rotate: false
+  xy: 1696, 1352
+  size: 328, 131
+  orig: 351, 131
+  offset: 0, 0
+  index: -1
+yun_15
+  rotate: 270
+  xy: 1651, 688
+  size: 527, 394
+  orig: 616, 415
+  offset: 89, 21
+  index: -1
+yun_5
+  rotate: false
+  xy: 680, 4
+  size: 876, 235
+  orig: 876, 246
+  offset: 0, 11
+  index: -1
+yun_zong
+  rotate: 180
+  xy: 1004, 58
+  size: 1042, 632
+  orig: 1042, 632
+  offset: 0, 0
+  index: -1
+
+40008001_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 507
+  size: 1750, 1460
+  orig: 1750, 1460
+  offset: 0, 0
+  index: -1
+yangguang/yangguang04_00002
+  rotate: false
+  xy: 2, 987
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00004
+  rotate: false
+  xy: 2, 627
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00006
+  rotate: true
+  xy: 401, 339
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00008
+  rotate: true
+  xy: 761, 339
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00010
+  rotate: true
+  xy: 1121, 339
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00012
+  rotate: true
+  xy: 1481, 246
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00014
+  rotate: true
+  xy: 366, 171
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00016
+  rotate: true
+  xy: 726, 171
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00018
+  rotate: true
+  xy: 1086, 171
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00020
+  rotate: true
+  xy: 2, 105
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00022
+  rotate: true
+  xy: 1446, 78
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00024
+  rotate: false
+  xy: 1880, 68
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00026
+  rotate: true
+  xy: 362, 3
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yangguang/yangguang04_00028
+  rotate: true
+  xy: 722, 3
+  size: 166, 358
+  orig: 179, 358
+  offset: 8, 0
+  index: -1
+yun_11
+  rotate: false
+  xy: 2, 273
+  size: 398, 232
+  orig: 398, 232
+  offset: 0, 0
+  index: -1
+yun_12
+  rotate: false
+  xy: 1652, 659
+  size: 393, 487
+  orig: 393, 487
+  offset: 0, 0
+  index: -1
+yun_3
+  rotate: 180
+  xy: 1575, 414
+  size: 411, 334
+  orig: 411, 334
+  offset: 0, 0
+  index: -1
+yun_7
+  rotate: true
+  xy: 1674, 1148
+  size: 606, 300
+  orig: 615, 300
+  offset: 9, 0
+  index: -1

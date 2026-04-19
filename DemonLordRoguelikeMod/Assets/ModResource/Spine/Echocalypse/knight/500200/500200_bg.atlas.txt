@@ -1,0 +1,818 @@
+
+500200_bg.png
+pma: true
+size: 2048,2043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leijina_dian_1
+  rotate: true
+  xy: 1672, 1001
+  size: 200, 127
+  orig: 200, 127
+  offset: 0, 0
+  index: -1
+leijina_dian_10
+  rotate: false
+  xy: 665, 2013
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+leijina_dian_11
+  rotate: false
+  xy: 2, 1520
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+leijina_dian_12
+  rotate: false
+  xy: 891, 1999
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+leijina_dian_13
+  rotate: false
+  xy: 602, 1296
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+leijina_dian_14
+  rotate: false
+  xy: 1927, 1226
+  size: 108, 224
+  orig: 108, 224
+  offset: 0, 0
+  index: -1
+leijina_dian_15
+  rotate: false
+  xy: 657, 1297
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+leijina_dian_2
+  rotate: false
+  xy: 605, 1996
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+leijina_dian_4
+  rotate: false
+  xy: 618, 1352
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+leijina_dian_6
+  rotate: false
+  xy: 2, 1711
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+leijina_dian_9
+  rotate: false
+  xy: 446, 312
+  size: 266, 393
+  orig: 266, 393
+  offset: 0, 0
+  index: -1
+leijina_niao_1
+  rotate: false
+  xy: 1181, 675
+  size: 273, 526
+  orig: 273, 526
+  offset: 0, 0
+  index: -1
+leijina_niao_15
+  rotate: false
+  xy: 429, 1938
+  size: 174, 103
+  orig: 174, 103
+  offset: 0, 0
+  index: -1
+leijina_niao_3
+  rotate: 270
+  xy: 174, 12
+  size: 319, 619
+  orig: 319, 619
+  offset: 0, 0
+  index: -1
+leijina_niao_4
+  rotate: false
+  xy: 1022, 471
+  size: 408, 1069
+  orig: 408, 1069
+  offset: 0, 0
+  index: -1
+leijina_niao_6
+  rotate: false
+  xy: 959, 1748
+  size: 324, 294
+  orig: 324, 329
+  offset: 0, 35
+  index: -1
+leijina_niao_8
+  rotate: true
+  xy: 1879, 738
+  size: 341, 167
+  orig: 431, 251
+  offset: 90, 0
+  index: -1
+leijina_qzhiwu_17
+  rotate: false
+  xy: 1328, 1419
+  size: 451, 622
+  orig: 451, 622
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_3
+  rotate: false
+  xy: 1257, 1864
+  size: 51, 177
+  orig: 51, 178
+  offset: 0, 1
+  index: -1
+leijina_qzhiwu_4
+  rotate: false
+  xy: 975, 605
+  size: 134, 171
+  orig: 134, 171
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_9
+  rotate: true
+  xy: 1299, 1203
+  size: 214, 626
+  orig: 214, 629
+  offset: 0, 1
+  index: -1
+leijina_yiji
+  rotate: false
+  xy: 2, 403
+  size: 1324, 1638
+  orig: 1324, 1638
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_1
+  rotate: false
+  xy: 223, 1913
+  size: 204, 128
+  orig: 204, 128
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_16
+  rotate: false
+  xy: 2, 431
+  size: 391, 271
+  orig: 425, 271
+  offset: 34, 0
+  index: -1
+leijina_zhiwu_17
+  rotate: false
+  xy: 2, 707
+  size: 204, 268
+  orig: 204, 268
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_2
+  rotate: false
+  xy: 233, 1381
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_20
+  rotate: false
+  xy: 1397, 382
+  size: 272, 819
+  orig: 272, 819
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_23
+  rotate: false
+  xy: 217, 705
+  size: 498, 553
+  orig: 498, 553
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_24
+  rotate: 270
+  xy: 1157, 18
+  size: 257, 819
+  orig: 300, 819
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_3
+  rotate: true
+  xy: 1861, 278
+  size: 102, 184
+  orig: 102, 184
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_31
+  rotate: false
+  xy: 1339, 182
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_4
+  rotate: false
+  xy: 2, 977
+  size: 324, 398
+  orig: 324, 398
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_41
+  rotate: false
+  xy: 1781, 1650
+  size: 261, 391
+  orig: 261, 391
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_42
+  rotate: false
+  xy: 2, 185
+  size: 406, 244
+  orig: 406, 246
+  offset: 0, 1
+  index: -1
+leijina_zhiwu_46
+  rotate: 270
+  xy: 817, 243
+  size: 360, 646
+  orig: 447, 658
+  offset: 87, 12
+  index: -1
+leijina_zhiwu_47
+  rotate: true
+  xy: 795, 88
+  size: 152, 551
+  orig: 152, 551
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_48
+  rotate: false
+  xy: 2, 1910
+  size: 219, 131
+  orig: 219, 131
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_51
+  rotate: false
+  xy: 1056, 1277
+  size: 112, 258
+  orig: 112, 258
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_52
+  rotate: true
+  xy: 714, 341
+  size: 60, 351
+  orig: 60, 351
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_53
+  rotate: false
+  xy: 2, 21
+  size: 162, 162
+  orig: 163, 162
+  offset: 1, 0
+  index: -1
+leijina_zhiwu_54
+  rotate: false
+  xy: 1655, 485
+  size: 179, 119
+  orig: 179, 119
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_56
+  rotate: false
+  xy: 2, 1384
+  size: 214, 107
+  orig: 214, 107
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_57
+  rotate: false
+  xy: 1285, 1703
+  size: 38, 159
+  orig: 38, 160
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_59
+  rotate: false
+  xy: 1514, 144
+  size: 344, 337
+  orig: 344, 337
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_60
+  rotate: true
+  xy: 328, 955
+  size: 220, 170
+  orig: 223, 170
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_63
+  rotate: false
+  xy: 1781, 1452
+  size: 253, 196
+  orig: 253, 196
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_7
+  rotate: false
+  xy: 677, 3
+  size: 246, 83
+  orig: 246, 83
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_8
+  rotate: false
+  xy: 1197, 1967
+  size: 55, 74
+  orig: 56, 75
+  offset: 0, 1
+  index: -1
+leijina_zhiwu_9
+  rotate: false
+  xy: 1641, 382
+  size: 359, 819
+  orig: 430, 819
+  offset: 0, 0
+  index: -1
+
+500200_bg2.png
+size: 2048,1740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leijina_dian_16
+  rotate: false
+  xy: 2, 109
+  size: 156, 124
+  orig: 156, 124
+  offset: 0, 0
+  index: -1
+leijina_dian_17
+  rotate: false
+  xy: 1402, 1085
+  size: 249, 264
+  orig: 249, 264
+  offset: 0, 0
+  index: -1
+leijina_dian_3
+  rotate: false
+  xy: 1562, 201
+  size: 156, 154
+  orig: 156, 154
+  offset: 0, 0
+  index: -1
+leijina_dian_5
+  rotate: false
+  xy: 507, 216
+  size: 160, 158
+  orig: 160, 158
+  offset: 0, 0
+  index: -1
+leijina_dian_7
+  rotate: true
+  xy: 1443, 155
+  size: 195, 103
+  orig: 195, 103
+  offset: 0, 0
+  index: -1
+leijina_dian_8
+  rotate: false
+  xy: 2, 427
+  size: 209, 168
+  orig: 209, 168
+  offset: 0, 0
+  index: -1
+leijina_niao_10
+  rotate: true
+  xy: 741, 158
+  size: 132, 209
+  orig: 132, 209
+  offset: 0, 0
+  index: -1
+leijina_niao_12
+  rotate: false
+  xy: 570, 76
+  size: 223, 109
+  orig: 234, 109
+  offset: 0, 0
+  index: -1
+leijina_niao_13
+  rotate: 270
+  xy: 153, 687
+  size: 179, 252
+  orig: 193, 252
+  offset: 14, 0
+  index: -1
+leijina_niao_14
+  rotate: false
+  xy: 929, 82
+  size: 229, 149
+  orig: 256, 187
+  offset: 27, 38
+  index: -1
+leijina_niao_16
+  rotate: true
+  xy: 1099, 1268
+  size: 196, 206
+  orig: 693, 449
+  offset: 365, 243
+  index: -1
+leijina_niao_17
+  rotate: false
+  xy: 1226, 263
+  size: 204, 210
+  orig: 204, 210
+  offset: 0, 0
+  index: -1
+leijina_niao_18
+  rotate: 180
+  xy: 1596, 667
+  size: 236, 117
+  orig: 236, 130
+  offset: 0, 13
+  index: -1
+leijina_niao_2
+  rotate: 270
+  xy: 1686, 569
+  size: 328, 352
+  orig: 328, 352
+  offset: 0, 0
+  index: -1
+leijina_niao_5
+  rotate: false
+  xy: 2, 867
+  size: 443, 179
+  orig: 481, 194
+  offset: 0, 15
+  index: -1
+leijina_niao_7
+  rotate: true
+  xy: 1659, 1201
+  size: 281, 387
+  orig: 281, 387
+  offset: 0, 0
+  index: -1
+leijina_niao_9
+  rotate: true
+  xy: 1720, 123
+  size: 166, 182
+  orig: 166, 182
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_1
+  rotate: 270
+  xy: 1777, 464
+  size: 246, 268
+  orig: 246, 268
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_10
+  rotate: false
+  xy: 1291, 742
+  size: 265, 293
+  orig: 265, 293
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_11
+  rotate: false
+  xy: 313, 668
+  size: 280, 344
+  orig: 280, 344
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_12
+  rotate: 180
+  xy: 1559, 899
+  size: 486, 204
+  orig: 486, 204
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_13
+  rotate: true
+  xy: 669, 217
+  size: 158, 212
+  orig: 158, 212
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_14
+  rotate: 270
+  xy: 1067, 1350
+  size: 388, 517
+  orig: 388, 517
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_15
+  rotate: false
+  xy: 660, 448
+  size: 322, 227
+  orig: 322, 227
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_16
+  rotate: 180
+  xy: 482, 1276
+  size: 599, 219
+  orig: 599, 219
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_2
+  rotate: false
+  xy: 1692, 312
+  size: 282, 193
+  orig: 282, 193
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_5
+  rotate: false
+  xy: 1679, 59
+  size: 303, 135
+  orig: 303, 135
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_6
+  rotate: false
+  xy: 940, 229
+  size: 295, 228
+  orig: 295, 228
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_7
+  rotate: true
+  xy: 354, 124
+  size: 90, 214
+  orig: 90, 214
+  offset: 0, 0
+  index: -1
+leijina_qzhiwu_8
+  rotate: true
+  xy: 984, 631
+  size: 149, 257
+  orig: 149, 257
+  offset: 0, 0
+  index: -1
+leijina_yiji_1
+  rotate: false
+  xy: 2, 596
+  size: 313, 313
+  orig: 313, 313
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_10
+  rotate: 270
+  xy: 1432, 352
+  size: 236, 252
+  orig: 236, 252
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_11
+  rotate: false
+  xy: 1136, 160
+  size: 306, 224
+  orig: 306, 224
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_12
+  rotate: 180
+  xy: 890, 318
+  size: 258, 227
+  orig: 258, 227
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_13
+  rotate: 270
+  xy: 958, 3
+  size: 168, 230
+  orig: 168, 230
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_14
+  rotate: false
+  xy: 670, 627
+  size: 312, 308
+  orig: 312, 308
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_15
+  rotate: true
+  xy: 575, 816
+  size: 270, 342
+  orig: 270, 342
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_18
+  rotate: true
+  xy: 314, 1464
+  size: 274, 320
+  orig: 274, 320
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_19
+  rotate: 270
+  xy: 1824, 233
+  size: 152, 221
+  orig: 152, 221
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_21
+  rotate: 180
+  xy: 899, 906
+  size: 508, 234
+  orig: 508, 234
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_22
+  rotate: false
+  xy: 636, 1487
+  size: 574, 252
+  orig: 574, 252
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_25
+  rotate: false
+  xy: 1252, 550
+  size: 342, 270
+  orig: 342, 270
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_26
+  rotate: true
+  xy: 1379, 1647
+  size: 91, 200
+  orig: 91, 200
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_27
+  rotate: true
+  xy: 1523, 37
+  size: 162, 191
+  orig: 162, 191
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_28
+  rotate: false
+  xy: 1596, 784
+  size: 292, 162
+  orig: 292, 162
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_29
+  rotate: true
+  xy: 983, 1117
+  size: 373, 482
+  orig: 373, 482
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_30
+  rotate: false
+  xy: 1200, 77
+  size: 247, 118
+  orig: 247, 118
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_32
+  rotate: true
+  xy: 2, 1236
+  size: 213, 326
+  orig: 214, 368
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_33
+  rotate: true
+  xy: 330, 1293
+  size: 169, 129
+  orig: 169, 129
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_34
+  rotate: false
+  xy: 175, 141
+  size: 177, 110
+  orig: 177, 110
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_35
+  rotate: false
+  xy: 794, 27
+  size: 133, 129
+  orig: 133, 129
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_36
+  rotate: true
+  xy: 988, 782
+  size: 181, 279
+  orig: 228, 279
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_37
+  rotate: true
+  xy: 613, 1088
+  size: 231, 287
+  orig: 231, 287
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_38
+  rotate: false
+  xy: 1585, 1397
+  size: 226, 341
+  orig: 226, 343
+  offset: 0, 2
+  index: -1
+leijina_zhiwu_39
+  rotate: false
+  xy: 330, 1048
+  size: 257, 240
+  orig: 257, 240
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_40
+  rotate: false
+  xy: 1813, 1506
+  size: 209, 232
+  orig: 209, 232
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_43
+  rotate: false
+  xy: 2, 1451
+  size: 310, 287
+  orig: 310, 288
+  offset: 0, 1
+  index: -1
+leijina_zhiwu_44
+  rotate: false
+  xy: 213, 386
+  size: 258, 133
+  orig: 258, 134
+  offset: 0, 1
+  index: -1
+leijina_zhiwu_49
+  rotate: false
+  xy: 219, 254
+  size: 286, 164
+  orig: 286, 164
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_5
+  rotate: false
+  xy: 503, 376
+  size: 373, 191
+  orig: 373, 191
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_50
+  rotate: false
+  xy: 1088, 459
+  size: 579, 198
+  orig: 579, 198
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_55
+  rotate: true
+  xy: 316, 521
+  size: 145, 263
+  orig: 145, 263
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_58
+  rotate: false
+  xy: 2, 236
+  size: 206, 189
+  orig: 206, 189
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_6
+  rotate: false
+  xy: 2, 1014
+  size: 276, 220
+  orig: 277, 221
+  offset: 1, 1
+  index: -1
+leijina_zhiwu_61
+  rotate: false
+  xy: 1653, 1109
+  size: 328, 138
+  orig: 328, 138
+  offset: 0, 0
+  index: -1
+leijina_zhiwu_62
+  rotate: 180
+  xy: 121, 8
+  size: 206, 131
+  orig: 206, 131
+  offset: 0, 0
+  index: -1

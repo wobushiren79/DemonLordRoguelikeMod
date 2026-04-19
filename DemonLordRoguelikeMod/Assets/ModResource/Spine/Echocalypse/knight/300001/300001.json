@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"KqGbUTKqc/s","spine":"4.2.43","x":0,"y":0,"width":0,"height":0},"bones":[{"name":"root","rotation":0.17786},{"name":"all","parent":"root","x":7.6E-10}],"skins":[{"name":"default"}],"animations":{"idle":{"drawOrder":[{"time":4}]}}}

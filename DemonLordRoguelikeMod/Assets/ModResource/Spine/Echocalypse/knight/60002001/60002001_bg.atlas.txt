@@ -1,0 +1,105 @@
+
+60002001_bg.png
+pma: true
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card_18
+  rotate: false
+  xy: 1309, 216
+  size: 69, 110
+  orig: 69, 111
+  offset: 0, 0
+  index: -1
+dj_badge_1
+  rotate: false
+  xy: 1099, 241
+  size: 208, 106
+  orig: 208, 106
+  offset: 0, 0
+  index: -1
+dj_badge_1_shadow
+  rotate: false
+  xy: 1099, 92
+  size: 182, 73
+  orig: 182, 73
+  offset: 0, 0
+  index: -1
+dj_card_j
+  rotate: false
+  xy: 1120, 360
+  size: 116, 77
+  orig: 118, 78
+  offset: 1, 1
+  index: -1
+dj_card_k
+  rotate: false
+  xy: 1099, 13
+  size: 118, 77
+  orig: 118, 77
+  offset: 0, 0
+  index: -1
+dj_card_l
+  rotate: false
+  xy: 1283, 47
+  size: 76, 118
+  orig: 76, 118
+  offset: 0, 0
+  index: -1
+dj_card_m
+  rotate: false
+  xy: 1309, 328
+  size: 70, 109
+  orig: 70, 109
+  offset: 0, 0
+  index: -1
+dj_money_d
+  rotate: false
+  xy: 1099, 167
+  size: 202, 72
+  orig: 203, 74
+  offset: 1, 1
+  index: -1
+dj_wine_1
+  rotate: false
+  xy: 702, 39
+  size: 309, 91
+  orig: 310, 92
+  offset: 1, 1
+  index: -1
+dj_wine_1shadow
+  rotate: false
+  xy: 800, 349
+  size: 318, 88
+  orig: 320, 90
+  offset: 1, 1
+  index: -1
+dj_wine_2
+  rotate: false
+  xy: 2, 2
+  size: 698, 435
+  orig: 699, 437
+  offset: 0, 1
+  index: -1
+dj_wine_3
+  rotate: false
+  xy: 1013, 31
+  size: 84, 316
+  orig: 85, 316
+  offset: 0, 0
+  index: -1
+dj_wine_3shadow
+  rotate: false
+  xy: 702, 132
+  size: 96, 305
+  orig: 96, 305
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 2, 439
+  size: 1404, 1574
+  orig: 1404, 1574
+  offset: 0, 0
+  index: -1

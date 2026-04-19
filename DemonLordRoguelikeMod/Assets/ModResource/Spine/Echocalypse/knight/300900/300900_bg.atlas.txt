@@ -1,0 +1,131 @@
+
+300900_bg.png
+pma: true
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1081
+  size: 819, 815
+  orig: 827, 828
+  offset: 3, 9
+  index: -1
+tx1/idle_00006
+  rotate: 270
+  xy: 415, 4
+  size: 764, 904
+  orig: 764, 925
+  offset: 0, 10
+  index: -1
+tx1/idle_00008
+  rotate: true
+  xy: 823, 1138
+  size: 758, 915
+  orig: 764, 925
+  offset: 6, 0
+  index: -1
+tx1/idle_00016
+  rotate: 270
+  xy: 760, 579
+  size: 757, 920
+  orig: 764, 925
+  offset: 7, 0
+  index: -1
+tx1/idle_00022
+  rotate: true
+  xy: 2, 316
+  size: 764, 914
+  orig: 764, 925
+  offset: 0, 6
+  index: -1
+
+300900_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx1/idle_00000
+  rotate: 270
+  xy: 1007, 438
+  size: 753, 894
+  orig: 764, 925
+  offset: 11, 16
+  index: -1
+tx1/idle_00018
+  rotate: true
+  xy: 2, 4
+  size: 764, 915
+  orig: 764, 925
+  offset: 0, 0
+  index: -1
+tx1/idle_00020
+  rotate: false
+  xy: 1137, 1120
+  size: 758, 915
+  orig: 764, 925
+  offset: 6, 0
+  index: -1
+tx1/idle_00024
+  rotate: 270
+  xy: 108, 552
+  size: 764, 905
+  orig: 764, 925
+  offset: 0, 9
+  index: -1
+tx1/idle_00026
+  rotate: false
+  xy: 2, 1109
+  size: 762, 925
+  orig: 764, 925
+  offset: 2, 0
+  index: -1
+tx1/idle_00028
+  rotate: 180
+  xy: 536, 1136
+  size: 764, 899
+  orig: 764, 925
+  offset: 0, 14
+  index: -1
+
+300900_bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx1/idle_00002
+  rotate: 270
+  xy: 152, 100
+  size: 763, 906
+  orig: 764, 925
+  offset: 0, 11
+  index: -1
+tx1/idle_00004
+  rotate: false
+  xy: 2, 666
+  size: 756, 918
+  orig: 764, 925
+  offset: 8, 7
+  index: -1
+tx1/idle_00010
+  rotate: 180
+  xy: 543, 663
+  size: 764, 922
+  orig: 764, 925
+  offset: 0, 0
+  index: -1
+tx1/idle_00012
+  rotate: 270
+  xy: 1049, 3
+  size: 758, 915
+  orig: 764, 925
+  offset: 6, 0
+  index: -1
+tx1/idle_00014
+  rotate: false
+  xy: 1140, 661
+  size: 764, 914
+  orig: 764, 925
+  offset: 0, 8
+  index: -1

@@ -1,0 +1,644 @@
+
+500200.png
+pma: true
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AE
+  rotate: false
+  xy: 807, 1937
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+EE
+  rotate: false
+  xy: 318, 1966
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+YO
+  rotate: false
+  xy: 2018, 1981
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+YU
+  rotate: false
+  xy: 331, 1987
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 1415, 1803
+  size: 151, 198
+  orig: 160, 198
+  offset: 0, 0
+  index: -1
+leijina_chibang_1
+  rotate: false
+  xy: 1299, 8
+  size: 204, 216
+  orig: 204, 216
+  offset: 0, 0
+  index: -1
+leijina_chibang_2
+  rotate: false
+  xy: 775, 12
+  size: 191, 169
+  orig: 191, 169
+  offset: 0, 0
+  index: -1
+leijina_jiao_1
+  rotate: true
+  xy: 827, 1653
+  size: 109, 257
+  orig: 109, 257
+  offset: 0, 0
+  index: -1
+leijina_jiao_2
+  rotate: false
+  xy: 2, 753
+  size: 161, 303
+  orig: 161, 303
+  offset: 0, 0
+  index: -1
+leijina_maozi_1
+  rotate: false
+  xy: 532, 1294
+  size: 76, 86
+  orig: 77, 94
+  offset: 1, 1
+  index: -1
+leijina_maozi_2
+  rotate: 180
+  xy: 386, 4
+  size: 230, 136
+  orig: 230, 180
+  offset: 0, 17
+  index: -1
+leijina_maozi_3
+  rotate: 180
+  xy: 1589, 1110
+  size: 284, 314
+  orig: 284, 314
+  offset: 0, 0
+  index: -1
+leijina_meimao1_ai
+  rotate: false
+  xy: 467, 1968
+  size: 40, 34
+  orig: 40, 36
+  offset: 0, 2
+  index: -1
+leijina_meimao1_nu
+  rotate: false
+  xy: 654, 1985
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+leijina_meimao1_xiu
+  rotate: false
+  xy: 1071, 1965
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+leijina_meimao2_ai
+  rotate: false
+  xy: 707, 1983
+  size: 64, 19
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+leijina_meimao2_nu
+  rotate: false
+  xy: 1015, 1964
+  size: 54, 38
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+leijina_meimao2_xiu
+  rotate: false
+  xy: 941, 1984
+  size: 64, 17
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+leijina_meimao_1
+  rotate: false
+  xy: 1070, 1957
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+leijina_meimao_2
+  rotate: false
+  xy: 264, 1982
+  size: 65, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+leijina_saihong
+  rotate: false
+  xy: 354, 1925
+  size: 146, 76
+  orig: 146, 76
+  offset: 0, 0
+  index: -1
+leijina_shangyanjiemao_1
+  rotate: false
+  xy: 1038, 1924
+  size: 66, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+leijina_shangyanjiemao_2
+  rotate: false
+  xy: 502, 1915
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+leijina_shenti
+  rotate: false
+  xy: 248, 1089
+  size: 289, 359
+  orig: 357, 359
+  offset: 35, 0
+  index: -1
+leijina_shenti_2
+  rotate: false
+  xy: 1588, 527
+  size: 288, 388
+  orig: 288, 388
+  offset: 0, 0
+  index: -1
+leijina_shoubi_1
+  rotate: false
+  xy: 511, 1844
+  size: 217, 158
+  orig: 217, 158
+  offset: 0, 0
+  index: -1
+leijina_shoubi_2
+  rotate: false
+  xy: 17, 1711
+  size: 313, 171
+  orig: 313, 180
+  offset: 0, 0
+  index: -1
+leijina_shoubi_3_3
+  rotate: true
+  xy: 1670, 37
+  size: 84, 280
+  orig: 84, 280
+  offset: 0, 0
+  index: -1
+leijina_shoubi_4
+  rotate: false
+  xy: 121, 1195
+  size: 187, 191
+  orig: 187, 191
+  offset: 0, 0
+  index: -1
+leijina_shouzhang_1
+  rotate: false
+  xy: 1945, 1756
+  size: 89, 70
+  orig: 92, 71
+  offset: 2, 1
+  index: -1
+leijina_shouzhang_2
+  rotate: false
+  xy: 268, 1002
+  size: 84, 86
+  orig: 84, 87
+  offset: 0, 1
+  index: -1
+leijina_shouzhi_1
+  rotate: false
+  xy: 1286, 1943
+  size: 69, 59
+  orig: 75, 72
+  offset: 6, 7
+  index: -1
+leijina_shouzhi_10
+  rotate: false
+  xy: 736, 1654
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+leijina_shouzhi_2
+  rotate: false
+  xy: 605, 1952
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+leijina_shouzhi_3
+  rotate: false
+  xy: 762, 1908
+  size: 89, 51
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+leijina_shouzhi_4
+  rotate: false
+  xy: 1546, 1966
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+leijina_shouzhi_9
+  rotate: false
+  xy: 1042, 1325
+  size: 71, 66
+  orig: 72, 67
+  offset: 0, 1
+  index: -1
+leijina_toufa_1
+  rotate: false
+  xy: 1497, 1494
+  size: 100, 128
+  orig: 114, 150
+  offset: 14, 22
+  index: -1
+leijina_toufa_10
+  rotate: 180
+  xy: 2, 1838
+  size: 583, 163
+  orig: 583, 163
+  offset: 0, 0
+  index: -1
+leijina_toufa_11
+  rotate: 180
+  xy: 929, 686
+  size: 307, 223
+  orig: 307, 223
+  offset: 0, 0
+  index: -1
+leijina_toufa_12
+  rotate: false
+  xy: 1360, 1255
+  size: 686, 553
+  orig: 686, 553
+  offset: 0, 0
+  index: -1
+leijina_toufa_13
+  rotate: false
+  xy: 805, 490
+  size: 787, 531
+  orig: 787, 531
+  offset: 0, 0
+  index: -1
+leijina_toufa_14
+  rotate: false
+  xy: 1101, 275
+  size: 368, 373
+  orig: 368, 373
+  offset: 0, 0
+  index: -1
+leijina_toufa_15
+  rotate: false
+  xy: 1207, 119
+  size: 391, 644
+  orig: 391, 644
+  offset: 0, 0
+  index: -1
+leijina_toufa_1_1
+  rotate: false
+  xy: 1189, 1477
+  size: 100, 128
+  orig: 114, 150
+  offset: 14, 22
+  index: -1
+leijina_toufa_2
+  rotate: false
+  xy: 1950, 1449
+  size: 96, 159
+  orig: 96, 159
+  offset: 0, 0
+  index: -1
+leijina_toufa_2_1
+  rotate: false
+  xy: 1126, 1445
+  size: 96, 159
+  orig: 96, 159
+  offset: 0, 0
+  index: -1
+leijina_toufa_3
+  rotate: false
+  xy: 353, 1437
+  size: 93, 206
+  orig: 93, 216
+  offset: 0, 10
+  index: -1
+leijina_toufa_3_1
+  rotate: false
+  xy: 2, 637
+  size: 58, 178
+  orig: 93, 216
+  offset: 29, 26
+  index: -1
+leijina_toufa_4
+  rotate: false
+  xy: 1254, 1196
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+leijina_toufa_5
+  rotate: false
+  xy: 1518, 893
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+leijina_toufa_6
+  rotate: false
+  xy: 1097, 899
+  size: 948, 337
+  orig: 948, 337
+  offset: 0, 0
+  index: -1
+leijina_toufa_9
+  rotate: false
+  xy: 2, 1414
+  size: 1089, 588
+  orig: 1089, 588
+  offset: 0, 0
+  index: -1
+leijina_tui_1
+  rotate: false
+  xy: 1848, 396
+  size: 197, 537
+  orig: 197, 537
+  offset: 0, 0
+  index: -1
+leijina_tui_2
+  rotate: false
+  xy: 1601, 158
+  size: 290, 380
+  orig: 290, 449
+  offset: 0, 65
+  index: -1
+leijina_tui_3
+  rotate: false
+  xy: 2, 863
+  size: 265, 549
+  orig: 307, 589
+  offset: 42, 40
+  index: -1
+leijina_tui_4
+  rotate: false
+  xy: 700, 110
+  size: 265, 472
+  orig: 366, 764
+  offset: 0, 55
+  index: -1
+leijina_wuqi
+  rotate: false
+  xy: 2, 73
+  size: 1798, 1928
+  orig: 1798, 1928
+  offset: 0, 0
+  index: -1
+leijina_xiayanjiemao_1
+  rotate: false
+  xy: 226, 1989
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+leijina_xiayanjiemao_2
+  rotate: false
+  xy: 2018, 1966
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+leijina_xiong_2
+  rotate: false
+  xy: 1802, 1828
+  size: 243, 173
+  orig: 243, 173
+  offset: 0, 0
+  index: -1
+leijina_yanbai_1
+  rotate: false
+  xy: 2, 1975
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+leijina_yanbai_2
+  rotate: false
+  xy: 1325, 1980
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+leijina_yanqiu_1
+  rotate: false
+  xy: 1477, 1940
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+leijina_yanqiu_2
+  rotate: false
+  xy: 6, 1951
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+leijina_yifu_1
+  rotate: false
+  xy: 794, 1369
+  size: 330, 303
+  orig: 406, 308
+  offset: 46, 0
+  index: -1
+leijina_yifu_10
+  rotate: false
+  xy: 1808, 1220
+  size: 238, 286
+  orig: 264, 309
+  offset: 26, 6
+  index: -1
+leijina_yifu_11
+  rotate: false
+  xy: 586, 78
+  size: 187, 428
+  orig: 187, 428
+  offset: 0, 0
+  index: -1
+leijina_yifu_12
+  rotate: false
+  xy: 1086, 1606
+  size: 327, 395
+  orig: 327, 395
+  offset: 0, 0
+  index: -1
+leijina_yifu_13
+  rotate: false
+  xy: 1363, 1927
+  size: 112, 74
+  orig: 113, 74
+  offset: 0, 0
+  index: -1
+leijina_yifu_14
+  rotate: true
+  xy: 933, 9
+  size: 186, 273
+  orig: 254, 281
+  offset: 68, 0
+  index: -1
+leijina_yifu_15
+  rotate: false
+  xy: 1599, 1583
+  size: 112, 119
+  orig: 112, 119
+  offset: 0, 0
+  index: -1
+leijina_yifu_2
+  rotate: false
+  xy: 1893, 122
+  size: 129, 271
+  orig: 129, 271
+  offset: 0, 0
+  index: -1
+leijina_yifu_3
+  rotate: false
+  xy: 694, 1857
+  size: 130, 126
+  orig: 130, 126
+  offset: 0, 0
+  index: -1
+leijina_yifu_4
+  rotate: false
+  xy: 224, 1090
+  size: 112, 114
+  orig: 116, 131
+  offset: 4, 17
+  index: -1
+leijina_yifu_5
+  rotate: false
+  xy: 1193, 1108
+  size: 164, 89
+  orig: 164, 89
+  offset: 0, 0
+  index: -1
+leijina_yifu_6
+  rotate: true
+  xy: 1368, 329
+  size: 316, 123
+  orig: 316, 123
+  offset: 0, 0
+  index: -1
+leijina_yifu_7
+  rotate: 180
+  xy: 318, 63
+  size: 316, 356
+  orig: 346, 366
+  offset: 30, 0
+  index: -1
+leijina_yifu_9
+  rotate: false
+  xy: 431, 1382
+  size: 366, 333
+  orig: 381, 369
+  offset: 0, 36
+  index: -1
+leijina_zui_1
+  rotate: false
+  xy: 1242, 1980
+  size: 40, 23
+  orig: 68, 127
+  offset: 0, 19
+  index: -1
+leijina_zui_ai
+  rotate: false
+  xy: 429, 1989
+  size: 34, 13
+  orig: 41, 25
+  offset: 4, 6
+  index: -1
+leijina_zui_jing
+  rotate: false
+  xy: 1623, 1987
+  size: 19, 15
+  orig: 19, 16
+  offset: 0, 1
+  index: -1
+leijina_zui_nu
+  rotate: false
+  xy: 46, 1991
+  size: 28, 12
+  orig: 38, 25
+  offset: 5, 7
+  index: -1
+leijina_zui_xi
+  rotate: false
+  xy: 1977, 1980
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+leijina_zui_xiu
+  rotate: false
+  xy: 1477, 1925
+  size: 33, 13
+  orig: 41, 25
+  offset: 4, 6
+  index: -1
+tou
+  rotate: false
+  xy: 1500, 100
+  size: 214, 250
+  orig: 234, 250
+  offset: 20, 0
+  index: -1
+tuidai
+  rotate: false
+  xy: 1835, 1165
+  size: 125, 100
+  orig: 125, 100
+  offset: 0, 0
+  index: -1
+uM
+  rotate: false
+  xy: 1566, 1948
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+youyanjian
+  rotate: false
+  xy: 717, 1972
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 906, 170
+  size: 192, 344
+  orig: 192, 395
+  offset: 0, 51
+  index: -1
+zuoyanjian
+  rotate: false
+  xy: 837, 1926
+  size: 44, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1

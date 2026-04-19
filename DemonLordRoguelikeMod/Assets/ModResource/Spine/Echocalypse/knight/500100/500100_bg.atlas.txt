@@ -1,0 +1,131 @@
+
+500100_bg.png
+pma: true
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/yanwu1/yanwu1_00010
+  rotate: false
+  xy: 2, 1003
+  size: 1052, 1003
+  orig: 1260, 1260
+  offset: 126, 107
+  index: -1
+eff/yanwu1/yanwu1_00018
+  rotate: false
+  xy: 2, 2
+  size: 1051, 999
+  orig: 1260, 1260
+  offset: 119, 109
+  index: -1
+eff/yanwu1/yanwu1_00050
+  rotate: true
+  xy: 1056, 950
+  size: 1056, 986
+  orig: 1260, 1260
+  offset: 117, 96
+  index: -1
+texiao_11
+  rotate: false
+  xy: 1393, 20
+  size: 192, 162
+  orig: 192, 162
+  offset: 0, 0
+  index: -1
+texiao_12
+  rotate: false
+  xy: 1055, 581
+  size: 528, 367
+  orig: 528, 367
+  offset: 0, 0
+  index: -1
+texiao_13
+  rotate: false
+  xy: 1264, 284
+  size: 215, 337
+  orig: 215, 365
+  offset: 0, 28
+  index: -1
+texiao_15
+  rotate: false
+  xy: 1055, 161
+  size: 369, 437
+  orig: 1019, 970
+  offset: 143, 387
+  index: -1
+texiao_5_2
+  rotate: false
+  xy: 1482, 430
+  size: 54, 147
+  orig: 54, 147
+  offset: 0, 0
+  index: -1
+texiao_7
+  rotate: false
+  xy: 1351, 512
+  size: 305, 168
+  orig: 305, 168
+  offset: 0, 0
+  index: -1
+texiao_8
+  rotate: false
+  xy: 1459, 185
+  size: 140, 176
+  orig: 176, 176
+  offset: 36, 0
+  index: -1
+texiao_9
+  rotate: false
+  xy: 1055, 63
+  size: 336, 162
+  orig: 357, 330
+  offset: 0, 16
+  index: -1
+
+500100_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/yanwu1/yanwu1_00002
+  rotate: false
+  xy: 2, 2
+  size: 1033, 995
+  orig: 1260, 1260
+  offset: 143, 104
+  index: -1
+eff/yanwu1/yanwu1_00042
+  rotate: true
+  xy: 1047, 937
+  size: 1054, 974
+  orig: 1260, 1260
+  offset: 116, 96
+  index: -1
+eff/yanwu1/yanwu1_00058
+  rotate: false
+  xy: 2, 999
+  size: 1043, 992
+  orig: 1260, 1260
+  offset: 132, 101
+  index: -1
+
+500100_bg3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/yanwu1/yanwu1_00026
+  rotate: false
+  xy: 2, 2
+  size: 1031, 979
+  orig: 1260, 1260
+  offset: 125, 101
+  index: -1
+eff/yanwu1/yanwu1_00034
+  rotate: false
+  xy: 1035, 14
+  size: 1011, 967
+  orig: 1260, 1260
+  offset: 157, 94
+  index: -1

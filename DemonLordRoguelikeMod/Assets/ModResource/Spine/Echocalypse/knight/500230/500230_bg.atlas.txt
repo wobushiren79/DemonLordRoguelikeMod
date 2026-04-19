@@ -1,0 +1,83 @@
+
+500230_bg.png
+pma: true
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_donghua03
+  rotate: 180
+  xy: 2, 389
+  size: 727, 741
+  orig: 768, 744
+  offset: 30, 3
+  index: -1
+beijing_donghua06
+  rotate: true
+  xy: 633, 3
+  size: 726, 734
+  orig: 768, 744
+  offset: 30, 0
+  index: -1
+beijing_donghua18
+  rotate: 270
+  xy: 1293, 429
+  size: 729, 732
+  orig: 768, 744
+  offset: 30, 9
+  index: -1
+beijing_donghua24
+  rotate: 270
+  xy: 711, 716
+  size: 740, 730
+  orig: 768, 744
+  offset: 27, 10
+  index: -1
+beijing_donghua27
+  rotate: false
+  xy: 2, 1047
+  size: 737, 740
+  orig: 768, 744
+  offset: 31, 4
+  index: -1
+
+500230_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_donghua00
+  rotate: true
+  xy: 1325, 4
+  size: 726, 722
+  orig: 768, 744
+  offset: 26, 9
+  index: -1
+beijing_donghua09
+  rotate: false
+  xy: 2, 852
+  size: 756, 734
+  orig: 768, 744
+  offset: 4, 0
+  index: -1
+beijing_donghua12
+  rotate: true
+  xy: 702, 209
+  size: 733, 732
+  orig: 768, 744
+  offset: 31, 6
+  index: -1
+beijing_donghua15
+  rotate: false
+  xy: 1081, 851
+  size: 729, 736
+  orig: 768, 744
+  offset: 28, 2
+  index: -1
+beijing_donghua21
+  rotate: 180
+  xy: 2, 181
+  size: 732, 744
+  orig: 768, 744
+  offset: 31, 0
+  index: -1

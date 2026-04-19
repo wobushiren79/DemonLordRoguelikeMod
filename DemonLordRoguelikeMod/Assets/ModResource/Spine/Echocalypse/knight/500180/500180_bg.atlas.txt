@@ -1,0 +1,223 @@
+
+500180_bg.png
+pma: true
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/touding_yt/touting_yt_02
+  rotate: true
+  xy: 1769, 2
+  size: 549, 244
+  orig: 660, 440
+  offset: 49, 168
+  index: -1
+images/touding_yt/touting_yt_06
+  rotate: true
+  xy: 1519, 6
+  size: 545, 248
+  orig: 660, 440
+  offset: 43, 159
+  index: -1
+images/touding_yt/touting_yt_12
+  rotate: false
+  xy: 1281, 1374
+  size: 555, 252
+  orig: 660, 440
+  offset: 42, 156
+  index: -1
+images/touding_yt/touting_yt_14
+  rotate: true
+  xy: 1696, 553
+  size: 562, 248
+  orig: 660, 440
+  offset: 41, 159
+  index: -1
+images/zhongjian_yt/zhongjian_yt_02
+  rotate: true
+  xy: 764, 86
+  size: 416, 753
+  orig: 567, 852
+  offset: 100, 43
+  index: -1
+images/zhongjian_yt/zhongjian_yt_04
+  rotate: true
+  xy: 2, 49
+  size: 418, 760
+  orig: 567, 852
+  offset: 101, 40
+  index: -1
+images/zhongjian_yt/zhongjian_yt_06
+  rotate: false
+  xy: 855, 540
+  size: 416, 755
+  orig: 567, 852
+  offset: 102, 49
+  index: -1
+images/zhongjian_yt/zhongjian_yt_08
+  rotate: false
+  xy: 428, 1264
+  size: 424, 776
+  orig: 567, 852
+  offset: 93, 23
+  index: -1
+images/zhongjian_yt/zhongjian_yt_10
+  rotate: false
+  xy: 432, 504
+  size: 421, 758
+  orig: 567, 852
+  offset: 95, 44
+  index: -1
+images/zhongjian_yt/zhongjian_yt_12
+  rotate: false
+  xy: 1273, 553
+  size: 421, 742
+  orig: 567, 852
+  offset: 96, 63
+  index: -1
+images/zhongjian_yt/zhongjian_yt_14
+  rotate: false
+  xy: 2, 1245
+  size: 424, 795
+  orig: 567, 852
+  offset: 98, 7
+  index: -1
+images/zhongjian_yt/zhongjian_yt_16
+  rotate: false
+  xy: 2, 469
+  size: 428, 774
+  orig: 567, 852
+  offset: 93, 29
+  index: -1
+images/zhongjian_yt/zhongjian_yt_18
+  rotate: false
+  xy: 854, 1297
+  size: 425, 743
+  orig: 567, 852
+  offset: 97, 49
+  index: -1
+images/zhongjian_yt/zhongjian_yt_26
+  rotate: true
+  xy: 1281, 1628
+  size: 412, 757
+  orig: 567, 852
+  offset: 105, 46
+  index: -1
+
+500180_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/touding_yt/touting_yt_00
+  rotate: false
+  xy: 560, 145
+  size: 565, 222
+  orig: 660, 440
+  offset: 33, 169
+  index: -1
+images/touding_yt/touting_yt_04
+  rotate: true
+  xy: 1312, 608
+  size: 540, 246
+  orig: 660, 440
+  offset: 52, 164
+  index: -1
+images/touding_yt/touting_yt_08
+  rotate: false
+  xy: 551, 413
+  size: 539, 238
+  orig: 660, 440
+  offset: 55, 165
+  index: -1
+images/touding_yt/touting_yt_10
+  rotate: false
+  xy: 749, 900
+  size: 561, 244
+  orig: 660, 440
+  offset: 41, 161
+  index: -1
+images/touding_yt/touting_yt_16
+  rotate: false
+  xy: 749, 653
+  size: 543, 245
+  orig: 660, 440
+  offset: 56, 158
+  index: -1
+images/touding_yt/touting_yt_18
+  rotate: false
+  xy: 1092, 369
+  size: 537, 237
+  orig: 660, 440
+  offset: 57, 162
+  index: -1
+images/touding_yt/touting_yt_20
+  rotate: true
+  xy: 1674, 1360
+  size: 538, 224
+  orig: 660, 440
+  offset: 52, 169
+  index: -1
+images/touding_yt/touting_yt_22
+  rotate: false
+  xy: 1127, 141
+  size: 550, 226
+  orig: 660, 440
+  offset: 39, 166
+  index: -1
+images/touding_yt/touting_yt_24
+  rotate: true
+  xy: 1560, 611
+  size: 537, 231
+  orig: 660, 440
+  offset: 54, 161
+  index: -1
+images/touding_yt/touting_yt_26
+  rotate: false
+  xy: 2, 512
+  size: 547, 235
+  orig: 660, 440
+  offset: 52, 156
+  index: -1
+images/touding_yt/touting_yt_28
+  rotate: false
+  xy: 2, 183
+  size: 556, 228
+  orig: 660, 440
+  offset: 42, 164
+  index: -1
+images/zhongjian_yt/zhongjian_yt_00
+  rotate: true
+  xy: 2, 749
+  size: 406, 745
+  orig: 567, 852
+  offset: 106, 47
+  index: -1
+images/zhongjian_yt/zhongjian_yt_20
+  rotate: false
+  xy: 2, 1161
+  size: 422, 737
+  orig: 567, 852
+  offset: 99, 57
+  index: -1
+images/zhongjian_yt/zhongjian_yt_22
+  rotate: false
+  xy: 426, 1157
+  size: 419, 741
+  orig: 567, 852
+  offset: 101, 56
+  index: -1
+images/zhongjian_yt/zhongjian_yt_24
+  rotate: false
+  xy: 847, 1146
+  size: 412, 752
+  orig: 567, 852
+  offset: 107, 47
+  index: -1
+images/zhongjian_yt/zhongjian_yt_28
+  rotate: false
+  xy: 1261, 1150
+  size: 411, 748
+  orig: 567, 852
+  offset: 104, 48
+  index: -1

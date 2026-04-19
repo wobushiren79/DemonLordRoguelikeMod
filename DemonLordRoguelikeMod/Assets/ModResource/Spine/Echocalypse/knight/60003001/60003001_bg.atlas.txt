@@ -1,0 +1,377 @@
+
+60003001_bg.png
+pma: true
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_yun1_0000
+  rotate: true
+  xy: 1631, 1415
+  size: 512, 380
+  orig: 552, 407
+  offset: 13, 12
+  index: -1
+TX_yun2_0000
+  rotate: false
+  xy: 515, 86
+  size: 521, 215
+  orig: 536, 243
+  offset: 15, 8
+  index: -1
+eff/boliang/bolang_00004
+  rotate: true
+  xy: 1684, 712
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00005
+  rotate: true
+  xy: 1787, 801
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00006
+  rotate: true
+  xy: 1890, 579
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+haitan
+  rotate: false
+  xy: 2, 1122
+  size: 1680, 900
+  orig: 1680, 900
+  offset: 0, 0
+  index: -1
+shangan
+  rotate: false
+  xy: 1993, 296
+  size: 39, 912
+  orig: 39, 942
+  offset: 0, 30
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 301
+  size: 1680, 819
+  orig: 1680, 819
+  offset: 0, 0
+  index: -1
+yeshu1
+  rotate: 180
+  xy: 843, 18
+  size: 675, 298
+  orig: 675, 507
+  offset: 0, 0
+  index: -1
+yeshu2
+  rotate: false
+  xy: 1517, 4
+  size: 219, 568
+  orig: 219, 587
+  offset: 0, 19
+  index: -1
+yeshu3
+  rotate: 180
+  xy: 2, 22
+  size: 513, 427
+  orig: 513, 427
+  offset: 0, 0
+  index: -1
+yeshu4
+  rotate: true
+  xy: 1595, 280
+  size: 436, 316
+  orig: 476, 521
+  offset: 40, 0
+  index: -1
+yeshu5
+  rotate: true
+  xy: 1446, 1626
+  size: 396, 335
+  orig: 396, 346
+  offset: 0, 0
+  index: -1
+
+60003001_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/boliang/bolang_00000
+  rotate: false
+  xy: 2, 30
+  size: 623, 106
+  orig: 630, 126
+  offset: 5, 11
+  index: -1
+eff/boliang/bolang_00001
+  rotate: false
+  xy: 2, 548
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00002
+  rotate: false
+  xy: 626, 548
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00003
+  rotate: false
+  xy: 1250, 548
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00007
+  rotate: true
+  xy: 1671, 1291
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00008
+  rotate: true
+  xy: 1774, 1291
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00009
+  rotate: true
+  xy: 1877, 1291
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00010
+  rotate: true
+  xy: 1877, 542
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00011
+  rotate: false
+  xy: 2, 445
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00012
+  rotate: false
+  xy: 626, 445
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00013
+  rotate: false
+  xy: 1250, 445
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00014
+  rotate: false
+  xy: 1423, 1166
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00015
+  rotate: false
+  xy: 2, 1106
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00016
+  rotate: false
+  xy: 627, 1069
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00017
+  rotate: false
+  xy: 1252, 1063
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00018
+  rotate: false
+  xy: 2, 966
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00019
+  rotate: false
+  xy: 923, 1813
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00020
+  rotate: false
+  xy: 2, 342
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00021
+  rotate: false
+  xy: 626, 342
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00022
+  rotate: false
+  xy: 1250, 342
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00023
+  rotate: false
+  xy: 2, 239
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00024
+  rotate: false
+  xy: 627, 960
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00025
+  rotate: false
+  xy: 1252, 960
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00026
+  rotate: false
+  xy: 2, 857
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00027
+  rotate: false
+  xy: 627, 857
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00028
+  rotate: false
+  xy: 1252, 857
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00029
+  rotate: false
+  xy: 2, 754
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00030
+  rotate: false
+  xy: 626, 239
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00031
+  rotate: false
+  xy: 1250, 239
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00032
+  rotate: false
+  xy: 2, 136
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00033
+  rotate: false
+  xy: 626, 136
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00034
+  rotate: false
+  xy: 1250, 136
+  size: 622, 101
+  orig: 630, 126
+  offset: 5, 12
+  index: -1
+eff/boliang/bolang_00035
+  rotate: false
+  xy: 627, 754
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00036
+  rotate: false
+  xy: 1252, 754
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00037
+  rotate: false
+  xy: 2, 651
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00038
+  rotate: false
+  xy: 627, 651
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+eff/boliang/bolang_00039
+  rotate: false
+  xy: 1252, 651
+  size: 623, 101
+  orig: 630, 126
+  offset: 4, 12
+  index: -1
+shan
+  rotate: false
+  xy: 1330, 3
+  size: 715, 135
+  orig: 715, 135
+  offset: 0, 0
+  index: -1
+taiyangshan1_1
+  rotate: false
+  xy: 2, 1172
+  size: 1668, 743
+  orig: 1680, 743
+  offset: 10, 0
+  index: -1
