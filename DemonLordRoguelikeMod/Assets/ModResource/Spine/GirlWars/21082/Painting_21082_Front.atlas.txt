@@ -1,0 +1,13 @@
+Painting_21082_Front.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+scale:0.8
+a_002
+bounds:0,0,506,518
+a_003
+bounds:506,424,339,591
+a_004
+bounds:0,385,504,630
+effect/sun4
+bounds:779,775,240,240

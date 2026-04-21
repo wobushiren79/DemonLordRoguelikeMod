@@ -1,0 +1,14 @@
+Painting_21104_Front.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+a_000
+bounds:0,257,907,418
+a_0096
+bounds:257,210,46,381
+rotate:90
+lizi__00016
+bounds:0,0,256,256
+t3
+bounds:257,109,107,100

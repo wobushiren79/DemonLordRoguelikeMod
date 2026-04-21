@@ -1,0 +1,15 @@
+Painting_31012_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.37
+back_002
+bounds:2,1109,1958,856
+back_yu_000
+bounds:1639,756,351,244
+rotate:90
+back_yu_002
+bounds:2,210,1001,897
+back_yu_003
+bounds:1004,2,1105,632
+rotate:90

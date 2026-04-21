@@ -1,0 +1,11 @@
+Painting_21049_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.5
+a108
+bounds:1500,267,451,481
+a119
+bounds:0,0,1499,748
+effect/bai
+bounds:1500,471,25,25

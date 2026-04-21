@@ -1,0 +1,18 @@
+Painting_31114_Front.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+scale:0.33
+frond_fx_001
+bounds:358,2,352,297
+rotate:90
+frond_fx_002
+bounds:2,33,354,321
+frond_fx_003a
+bounds:386,600,284,342
+frond_fx_003b
+bounds:2,356,382,586
+frond_fx_003c
+bounds:386,426,306,172
+fx_guangquan_001
+bounds:386,356,71,66

@@ -1,0 +1,19 @@
+Painting_21029_Front.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+a_004
+bounds:512,1,382,443
+rotate:90
+a_005
+bounds:0,0,383,512
+rotate:90
+a_006a
+bounds:654,780,221,222
+a_009
+bounds:0,384,653,618
+effect/effect_4
+bounds:654,679,107,100
+effect/m5_00000
+bounds:654,614,64,64

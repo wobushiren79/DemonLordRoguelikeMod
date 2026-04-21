@@ -1,0 +1,12 @@
+Painting_31079_Front.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+scale:0.3
+gwzd_001
+bounds:0,326,908,409
+gwzd_002
+bounds:0,0,558,324
+shanping
+bounds:560,310,15,14
+offsets:0,1,15,15

@@ -1,0 +1,10 @@
+Painting_21039_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.5
+a110
+bounds:0,0,1669,754
+offsets:0,0,1669,837
+lizi__00010
+bounds:1668,498,256,256

@@ -1,0 +1,17 @@
+Painting_31110_Front.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.34
+ef1
+bounds:1714,983,295,544
+fx_001
+bounds:0,0,990,727
+fx_004
+bounds:992,38,1032,689
+fx_guangquan_001
+bounds:1714,913,73,68
+fx_shan_003
+bounds:0,729,1712,798
+fx_xing
+bounds:2011,1499,28,28

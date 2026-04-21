@@ -1,0 +1,19 @@
+Painting_92001_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.34
+0_yuan
+bounds:2,779,22,20
+BJ_1
+bounds:1432,20,57,80
+BJ_2
+bounds:2,2,1210,797
+offsets:0,81,1428,911
+BJ_3
+bounds:1213,18,680,399
+offsets:0,0,680,605
+BJ_4
+bounds:1213,517,510,282
+BJ_5
+bounds:2,801,1873,906

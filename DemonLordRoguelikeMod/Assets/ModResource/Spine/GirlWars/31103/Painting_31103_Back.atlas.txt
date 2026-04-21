@@ -1,0 +1,13 @@
+Painting_31103_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.4
+a_0077
+bounds:1066,471,798,501
+a_0078
+bounds:984,0,652,557
+offsets:0,0,652,746
+rotate:180
+a_0079
+bounds:0,321,1065,651

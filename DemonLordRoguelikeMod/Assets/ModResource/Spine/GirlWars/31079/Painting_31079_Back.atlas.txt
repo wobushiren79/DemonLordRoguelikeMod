@@ -1,0 +1,11 @@
+Painting_31079_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.3
+gwzd_076
+bounds:0,0,1421,565
+gwzd_077
+bounds:1423,270,475,295
+shan2
+bounds:0,567,1920,1241

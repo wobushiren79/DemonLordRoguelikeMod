@@ -1,0 +1,9 @@
+Painting_92002_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.36
+back_000
+bounds:2,2,1363,799
+back_002
+bounds:1367,475,97,326

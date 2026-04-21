@@ -1,0 +1,11 @@
+Painting_31044_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.37
+back
+bounds:2,2,1493,1633
+back_faguang
+bounds:1497,904,731,446
+offsets:8,21,747,468
+rotate:90

@@ -1,0 +1,17 @@
+painting_21072_Back.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+a46
+bounds:524,0,451,464
+offsets:0,19,736,483
+rotate:270
+a54
+bounds:0,197,267,162
+offsets:41,0,322,162
+bgb1
+bounds:0,359,875,591
+bgb2
+bounds:199,641,812,309
+offsets:63,0,875,512

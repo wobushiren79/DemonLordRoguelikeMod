@@ -1,0 +1,14 @@
+Painting_21075_Front.png
+pma: true
+size:512,1024
+filter:Linear,Linear
+scale:0.8
+a_002
+bounds:172,0,718,340
+offsets:0,0,718,373
+rotate:270
+a_0048
+bounds:0,494,103,101
+offsets:1891,130,2666,1203
+lizi__00007
+bounds:0,596,410,410

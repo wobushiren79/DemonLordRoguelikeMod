@@ -1,0 +1,15 @@
+Painting_31118_Front.png
+pma: true
+size:1024,512
+filter:Linear,Linear
+scale:0.37
+front_fx_005a
+bounds:531,226,252,288
+rotate:90
+front_fx_005b
+bounds:2,2,234,288
+rotate:90
+front_fx_006
+bounds:2,238,527,240
+fx_guang
+bounds:291,162,79,74

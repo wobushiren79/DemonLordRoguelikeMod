@@ -1,0 +1,15 @@
+Painting_21088_Front.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+a9
+bounds:0,60,1323,923
+effect/effect_4
+bounds:215,158,214,200
+sun
+bounds:1324,0,983,616
+rotate:90
+t4
+bounds:0,359,283,251
+t5
+bounds:0,158,214,200

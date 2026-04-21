@@ -1,0 +1,17 @@
+Painting_92003_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.41
+back
+bounds:2,49,1953,848
+gzcb1
+bounds:2,5,42,84
+rotate:90
+gzcb3
+bounds:153,4,63,36
+gzsz
+bounds:84,7,70,39
+gzyy4
+bounds:1924,2,125,101
+rotate:90

@@ -1,0 +1,18 @@
+Painting_21074_Front.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+effect/effect_4
+bounds:512,447,214,200
+effect_4
+bounds:512,447,214,200
+effect/m5_00000
+bounds:447,12,128,128
+effect/m7
+bounds:0,0,447,447
+effect_3
+bounds:512,878,83,81
+lizi__00010
+bounds:0,447,512,512
+m1_00000
+bounds:447,140,307,307

@@ -1,0 +1,10 @@
+Painting_21076_Front.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+effect/hds_b_45
+bounds:0,0,640,408
+sun
+bounds:0,408,983,616
+t4
+bounds:640,157,283,251

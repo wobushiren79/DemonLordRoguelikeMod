@@ -1,0 +1,11 @@
+Painting_21083_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.5
+a_0062
+bounds:0,0,1749,748
+offsets:0,153,1749,901
+t3
+bounds:1750,641,107,100
+rotate:90

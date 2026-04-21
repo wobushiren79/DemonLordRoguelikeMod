@@ -1,0 +1,23 @@
+Painting_21083_Front.png
+pma: true
+size:2048,512
+filter:Linear,Linear
+89
+bounds:0,220,100,40
+a_003
+bounds:0,261,227,239
+a_004
+bounds:228,315,106,57
+a_005
+bounds:307,283,32,31
+a_0059
+bounds:0,0,1523,500
+a_006
+bounds:228,272,78,42
+a_007
+bounds:101,229,36,31
+a_008
+bounds:228,373,149,127
+t3
+bounds:1352,106,214,200
+rotate:90

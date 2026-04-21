@@ -1,0 +1,8 @@
+Painting_1049_Front.png
+pma: true
+size:256,64
+filter:Linear,Linear
+effect/guangll2
+bounds:65,0,64,64
+effect/guangll3
+bounds:0,0,64,64

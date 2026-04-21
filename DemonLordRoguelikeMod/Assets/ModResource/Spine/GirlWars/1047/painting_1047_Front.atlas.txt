@@ -1,0 +1,8 @@
+painting_1047_Front.png
+pma: true
+size:1024,512
+filter:Linear,Linear
+effect/guangyun_1
+bounds:0,0,658,370
+effect/m1_00000
+bounds:659,63,307,307

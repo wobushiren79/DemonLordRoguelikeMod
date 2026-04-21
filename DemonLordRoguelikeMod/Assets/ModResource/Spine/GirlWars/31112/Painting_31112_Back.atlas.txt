@@ -1,0 +1,11 @@
+Painting_31112_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.32
+back
+bounds:2,1004,1936,997
+mianju_002
+bounds:1173,789,223,213
+ren_fx_001
+bounds:2,2,1169,1000

@@ -1,0 +1,16 @@
+Painting_21070_Front.png
+pma: true
+size:1024,512
+filter:Linear,Linear
+scale:0.4
+bgb2
+bounds:0,150,871,303
+offsets:0,0,871,395
+effect/guangyun_2
+bounds:466,0,304,304
+t2
+bounds:0,19,33,32
+t3
+bounds:113,108,86,80
+t4
+bounds:0,51,113,100

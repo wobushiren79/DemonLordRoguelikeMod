@@ -1,0 +1,16 @@
+Painting_21104_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.5
+a_006
+bounds:1513,282,414,324
+rotate:90
+a_007
+bounds:1513,6,353,275
+a_0094
+bounds:0,0,1512,696
+m1_00000
+bounds:1838,542,154,154
+nn
+bounds:1838,413,128,128

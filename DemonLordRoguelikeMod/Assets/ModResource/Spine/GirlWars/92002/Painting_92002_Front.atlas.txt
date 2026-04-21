@@ -1,0 +1,18 @@
+Painting_92002_Front.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+scale:0.36
+front_002
+bounds:2,250,321,756
+rotate:90
+front_002_fx
+bounds:286,73,175,396
+rotate:90
+fx
+bounds:2,573,824,440
+fx_a
+bounds:2,2,282,246
+fx_b
+bounds:827,270,743,171
+rotate:90

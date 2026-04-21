@@ -1,0 +1,7 @@
+Painting_31041_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.3
+bg
+bounds:0,0,1653,881

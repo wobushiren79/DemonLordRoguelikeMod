@@ -1,0 +1,8 @@
+Painting_31072_Back.png
+pma: true
+size:1024,2048
+filter:Linear,Linear
+scale:0.3
+bg
+bounds:0,0,1631,789
+rotate:90

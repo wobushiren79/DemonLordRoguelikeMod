@@ -1,0 +1,25 @@
+Painting_92005_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.26
+back_000
+bounds:2,757,2042,1188
+back_001
+bounds:1433,437,389,318
+back_002
+bounds:1327,120,482,719
+rotate:90
+back_003
+bounds:693,342,413,738
+rotate:90
+back_biao_001
+bounds:693,2,811,338
+offsets:0,0,811,345
+back_biao_002
+bounds:2,192,563,689
+rotate:90
+back_huaban_001
+bounds:1433,708,47,47
+back_huaban_002
+bounds:1482,726,35,29

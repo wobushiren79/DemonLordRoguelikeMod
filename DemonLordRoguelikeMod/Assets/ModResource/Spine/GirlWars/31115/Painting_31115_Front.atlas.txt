@@ -1,0 +1,24 @@
+Painting_31115_Front.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.34
+front_001
+bounds:859,891,873,490
+rotate:90
+front_002
+bounds:2,271,618,825
+rotate:90
+front_003
+bounds:829,451,507,438
+front_004
+bounds:828,2,447,484
+rotate:90
+front_005
+bounds:2,891,855,1086
+fx_002
+bounds:859,1818,237,159
+fx_guangquan_00
+bounds:2,247,22,22
+fx_guangquan_001
+bounds:1098,1909,73,68

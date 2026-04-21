@@ -1,0 +1,16 @@
+Painting_21048_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.25
+0000
+bounds:0,212,957,585
+a_005
+bounds:1568,235,420,562
+offsets:441,0,861,562
+a_007
+bounds:822,0,479,293
+beijing_15
+bounds:958,294,669,503
+t3
+bounds:0,161,54,50

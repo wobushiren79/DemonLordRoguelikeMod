@@ -1,0 +1,6 @@
+Painting_1024_Front.png
+pma: true
+size:1024,512
+filter:Linear,Linear
+bgb21
+bounds:0,0,840,378

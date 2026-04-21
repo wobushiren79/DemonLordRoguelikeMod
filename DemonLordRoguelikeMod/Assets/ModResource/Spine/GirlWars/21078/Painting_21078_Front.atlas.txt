@@ -1,0 +1,20 @@
+Painting_21078_Front.png
+pma: true
+size:1024,1024
+filter:Linear,Linear
+scale:0.7
+a1
+bounds:0,472,937,433
+a2
+bounds:324,216,580,256
+offsets:0,182,994,438
+rotate:180
+a2_2
+bounds:0,125,347,438
+offsets:647,0,994,438
+rotate:90
+bgb10
+bounds:112,672,233,400
+rotate:90
+effect/effect_1
+bounds:437,0,278,274

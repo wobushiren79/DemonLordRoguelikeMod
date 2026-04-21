@@ -1,0 +1,23 @@
+Painting_31106_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+a_0022
+bounds:362,20,638,115
+a_0076
+bounds:1194,233,619,475
+offsets:2,35,650,510
+rotate:180
+a_0077
+bounds:0,0,713,668
+offsets:0,12,878,680
+a_0079
+bounds:0,669,1489,671
+effect/Elctr_11/Elctr_11_00003
+bounds:446,381,307,287
+offsets:153,37,576,324
+effect/Elctr_11/Elctr_11_00006
+bounds:713,164,281,324
+offsets:121,0,576,324
+q1
+bounds:1490,832,487,508

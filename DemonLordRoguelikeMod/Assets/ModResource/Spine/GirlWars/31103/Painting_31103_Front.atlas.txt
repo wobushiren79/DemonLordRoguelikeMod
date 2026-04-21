@@ -1,0 +1,21 @@
+Painting_31103_Front.png
+pma: true
+size:1024,2048
+filter:Linear,Linear
+scale:0.7
+a_001
+bounds:243,0,510,716
+rotate:90
+a_002
+bounds:0,350,464,610
+rotate:90
+a_003
+bounds:0,1277,559,739
+a_0080
+bounds:0,815,892,726
+guangll2
+bounds:560,1614,45,45
+m1_00000
+bounds:560,1801,215,215
+t3
+bounds:560,1660,150,140

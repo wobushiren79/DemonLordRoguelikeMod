@@ -1,0 +1,20 @@
+Painting_1004_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+bgb
+bounds:0,936,1560,720
+bgb1
+bounds:1467,69,780,360
+rotate:90
+bgb1_2
+bounds:685,69,780,360
+bgb2
+bounds:0,0,249,249
+bgb3
+bounds:0,251,683,683
+bgb4
+bounds:685,431,503,720
+rotate:90
+effect/effect_3
+bounds:251,168,83,81

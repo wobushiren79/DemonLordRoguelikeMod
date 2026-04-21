@@ -1,0 +1,18 @@
+Painting_21029_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.3
+a_00124
+bounds:1199,214,26,25
+a_00125
+bounds:1199,240,86,46
+a_00126
+bounds:1199,287,82,87
+a_00127
+bounds:0,0,1198,755
+a_007
+bounds:1199,375,357,380
+a_008
+bounds:1556,134,621,199
+rotate:90

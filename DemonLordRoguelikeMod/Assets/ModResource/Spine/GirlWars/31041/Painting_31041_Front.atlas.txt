@@ -1,0 +1,22 @@
+Painting_31041_Front.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+23
+bounds:0,269,727,635
+a_0011
+bounds:1570,179,423,566
+rotate:180
+a_002
+bounds:0,54,379,214
+a_003
+bounds:728,359,923,545
+a_005
+bounds:728,612,238,292
+a_006
+bounds:727,0,358,398
+rotate:90
+m1_00000
+bounds:1127,51,307,307
+t3
+bounds:380,68,214,200

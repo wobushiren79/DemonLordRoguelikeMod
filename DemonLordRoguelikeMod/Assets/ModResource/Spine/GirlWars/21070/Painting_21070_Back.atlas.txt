@@ -1,0 +1,18 @@
+Painting_21070_Back.png
+pma: true
+size:2048,512
+filter:Linear,Linear
+scale:0.15
+bgb1
+bounds:0,0,1050,464
+offsets:0,6,1050,470
+bgb3
+bounds:1052,1,9,8
+bgb4
+bounds:1051,306,44,48
+bgb5
+bounds:1051,355,52,50
+offsets:9,0,61,77
+rotate:90
+bgb6
+bounds:1051,409,50,55

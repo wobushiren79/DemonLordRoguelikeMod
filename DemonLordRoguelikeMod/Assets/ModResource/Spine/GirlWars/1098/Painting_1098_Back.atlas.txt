@@ -1,0 +1,7 @@
+Painting_1098_Back.png
+pma: true
+size:2048,512
+filter:Linear,Linear
+scale:0.7
+BG
+bounds:0,0,1176,504

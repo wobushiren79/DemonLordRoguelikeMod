@@ -1,0 +1,17 @@
+Painting_31116_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.37
+back_fx_001
+bounds:2,544,1126,571
+back_fx_004a
+bounds:2,2,540,593
+rotate:90
+back_fx_005
+bounds:2,1117,1958,888
+back_guang
+bounds:597,518,24,24
+back_jian
+bounds:1130,436,679,692
+rotate:90

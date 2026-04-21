@@ -1,0 +1,16 @@
+Painting_31105_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.8
+a_005
+bounds:1447,9,322,203
+rotate:270
+a_0066
+bounds:1695,233,559,162
+rotate:90
+a_0068
+bounds:1447,151,641,325
+rotate:90
+bg
+bounds:0,0,1446,792

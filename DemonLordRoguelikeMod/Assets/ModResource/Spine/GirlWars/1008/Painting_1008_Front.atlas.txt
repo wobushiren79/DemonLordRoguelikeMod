@@ -1,0 +1,7 @@
+Painting_1008_Front.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+bgb2
+bounds:0,0,1679,668
+offsets:0,2,1679,670

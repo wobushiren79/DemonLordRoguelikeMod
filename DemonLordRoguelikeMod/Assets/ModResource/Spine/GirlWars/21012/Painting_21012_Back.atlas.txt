@@ -1,0 +1,23 @@
+Painting_21012_Back.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+scale:0.3
+bei1
+bounds:0,0,875,405
+offsets:0,121,875,526
+bei2
+bounds:875,65,865,292
+rotate:270
+bei3
+bounds:0,404,875,526
+bei4
+bounds:1067,589,341,203
+offsets:62,0,403,203
+rotate:270
+huohua
+bounds:0,247,380,157
+ssss
+bounds:875,51,405,127
+offsets:0,0,450,127
+rotate:90

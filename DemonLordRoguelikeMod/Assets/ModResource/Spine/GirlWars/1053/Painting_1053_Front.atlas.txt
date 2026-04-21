@@ -1,0 +1,9 @@
+Painting_1053_Front.png
+pma: true
+size:2048,1024
+filter:Linear,Linear
+bj4
+bounds:886,0,954,630
+rotate:90
+effect/beijing_15
+bounds:0,209,1070,805

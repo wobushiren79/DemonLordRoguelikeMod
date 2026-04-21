@@ -1,0 +1,19 @@
+Painting_21101_Front.png
+pma: true
+size:1024,512
+filter:Linear,Linear
+scale:0.5
+000
+bounds:3,0,282,249
+00000
+bounds:635,273,125,250
+rotate:90
+a_003
+bounds:0,58,526,340
+a_004
+bounds:527,40,461,358
+a_0080
+bounds:725,300,74,45
+effect/effect_4
+bounds:886,291,107,100
+rotate:90

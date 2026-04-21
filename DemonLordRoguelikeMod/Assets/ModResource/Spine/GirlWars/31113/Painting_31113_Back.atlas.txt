@@ -1,0 +1,13 @@
+Painting_31113_Back.png
+pma: true
+size:2048,2048
+filter:Linear,Linear
+scale:0.37
+back
+bounds:2,720,1866,1281
+back_fx_001
+bounds:1123,250,428,468
+back_fx_002
+bounds:1123,93,155,155
+back_fx_004
+bounds:2,2,1119,716

@@ -1,0 +1,11 @@
+Painting_21039_Front.png
+pma: true
+size:512,1024
+filter:Linear,Linear
+scale:0.8
+lizi__00010
+bounds:0,160,410,410
+t3
+bounds:0,0,171,160
+xin
+bounds:0,570,480,425
