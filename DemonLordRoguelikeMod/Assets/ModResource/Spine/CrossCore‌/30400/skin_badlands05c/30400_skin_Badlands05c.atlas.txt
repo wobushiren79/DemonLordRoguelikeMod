@@ -1,0 +1,13 @@
+
+30400_skin_Badlands05c.png
+size: 704,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_curtain_11_C13
+  rotate: false
+  xy: 2, 2
+  size: 696, 786
+  orig: 696, 786
+  offset: 0, 0
+  index: -1
