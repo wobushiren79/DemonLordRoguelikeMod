@@ -1,0 +1,515 @@
+1210_Chess_s01.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.9
+ATKCH_0
+bounds:416,335,43,42
+ATKCH_1
+bounds:507,133,71,69
+rotate:270
+ATKCH_2
+bounds:147,140,71,70
+BackHair (L)
+bounds:863,639,66,123
+offsets:0,0,67,123
+rotate:90
+BackHair (R)
+bounds:85,35,105,141
+rotate:270
+Body
+bounds:689,771,38,63
+Boob (L)
+bounds:134,504,21,22
+offsets:0,0,22,22
+Boob (R)
+bounds:279,978,20,28
+offsets:0,0,21,28
+Cat Body
+bounds:115,550,33,32
+Cat Ear (L)
+bounds:2,545,11,12
+Cat Ear (R)
+bounds:308,696,16,13
+Cat Hand (R)
+bounds:30,703,8,7
+Cat Head
+bounds:301,976,32,30
+offsets:0,0,32,31
+Cat Leg (L)
+bounds:172,993,28,13
+Cat_Hand (L)
+bounds:2,725,11,7
+Cat_Tail
+bounds:468,429,19,31
+Catmo
+bounds:2,802,10,7
+Circle_shiny_00001
+bounds:895,700,65,64
+offsets:9,18,90,90
+Circle_shiny_00002
+bounds:214,27,67,68
+offsets:8,17,90,90
+Circle_shiny_00003
+bounds:350,161,90,90
+Circle_shiny_00004
+bounds:865,218,89,86
+offsets:0,4,90,90
+Circle_shiny_00005
+bounds:707,317,90,90
+Circle_shiny_00006
+bounds:934,156,88,88
+offsets:0,2,90,90
+rotate:90
+Circle_shiny_00007
+bounds:212,159,87,90
+offsets:0,0,90,90
+Circle_shiny_00008
+bounds:798,176,87,89
+offsets:0,1,90,90
+rotate:90
+Circle_shiny_00009
+bounds:25,168,88,90
+offsets:0,0,90,90
+rotate:270
+Circle_shiny_00010
+bounds:861,119,90,90
+Circle_shiny_00011
+bounds:338,52,81,72
+offsets:0,15,90,90
+DuckBody
+bounds:147,730,55,47
+offsets:0,0,55,48
+DuckFoot (L)
+bounds:212,461,14,11
+DuckFoot (R)
+bounds:362,884,11,16
+DuckHand (L)
+bounds:149,559,10,15
+DuckHand (R)
+bounds:100,557,11,15
+DuckHead
+bounds:2,968,37,38
+Duck_mo
+bounds:70,734,9,8
+Duck_mo_open
+bounds:185,980,12,12
+offsets:0,0,12,13
+ExpFX01
+bounds:569,316,103,102
+offsets:6,6,115,115
+ExpFX02
+bounds:730,144,77,83
+offsets:19,17,115,115
+rotate:270
+ExpFX03
+bounds:913,346,109,109
+offsets:2,4,115,115
+rotate:180
+ExpFX04
+bounds:193,323,106,102
+offsets:7,7,115,115
+rotate:180
+ExpFX05
+bounds:743,468,112,113
+offsets:2,2,115,115
+ExpFX06
+bounds:105,396,111,113
+offsets:3,2,115,115
+rotate:270
+ExpFX13
+bounds:360,374,111,111
+offsets:3,1,115,115
+rotate:270
+Eye_Close
+bounds:2,837,11,8
+Eye_Open
+bounds:409,970,14,9
+Eyebrow
+bounds:15,726,10,5
+Face
+bounds:226,925,28,35
+Feet (L)
+bounds:280,647,14,19
+Feet (L)  copy
+bounds:30,683,15,18
+Feet (R)
+bounds:2,947,19,22
+offsets:0,0,19,23
+FrontHair
+bounds:219,426,29,30
+Hand (L)_Backup
+bounds:90,450,16,14
+Hand (R)
+bounds:39,800,17,14
+Hand (R)_backup
+bounds:172,811,18,16
+Hand4
+bounds:389,743,13,16
+Hand7
+bounds:556,928,17,12
+HandV
+bounds:235,457,23,17
+Hand_(L)
+bounds:117,529,11,14
+HatBack (L)
+bounds:433,583,37,39
+offsets:0,0,37,40
+HatBadge (L)
+bounds:2,625,13,11
+offsets:0,0,14,11
+HatBadge (R)
+bounds:504,492,26,24
+HatDown (R)
+bounds:682,980,26,26
+offsets:0,0,26,32
+HatFront (R)
+bounds:359,272,46,34
+offsets:0,0,48,34
+Head Ear (R)
+bounds:911,842,67,47
+offsets:0,0,68,47
+Heart Pin
+bounds:60,997,14,9
+HeartA
+bounds:363,472,17,16
+HeartB
+bounds:537,720,17,17
+HugRabbit
+bounds:403,553,32,43
+Leg_(L)
+bounds:362,712,26,47
+Leg_(L)  copy
+bounds:2,208,21,49
+Leg_(R)
+bounds:341,463,20,50
+offsets:0,0,21,50
+Lolipop
+bounds:336,522,25,27
+Lolipop2
+bounds:336,385,23,25
+Lolipop3
+bounds:66,328,23,25
+Lolipop4
+bounds:178,378,23,25
+LowerArm (L)
+bounds:389,760,32,21
+LowerArm (R)
+bounds:2,333,38,26
+offsets:0,0,39,26
+LowerArm (R)_backup
+bounds:2,803,37,31
+offsets:0,0,37,32
+LowerArm_(L)_Backup
+bounds:273,530,26,29
+LvMax_skill3_c (1)
+bounds:575,165,83,89
+offsets:10,4,108,93
+rotate:180
+LvMax_skill3_c (2)
+bounds:99,203,92,85
+offsets:8,4,108,93
+rotate:180
+LvMax_skill3_c (3)
+bounds:429,179,97,82
+offsets:4,8,108,93
+rotate:180
+LvMax_skill3_c (4)
+bounds:323,927,86,79
+offsets:9,10,108,93
+LvMax_skill3_c (5)
+bounds:142,25,77,71
+offsets:15,9,108,93
+Lvmax_skill4 (1)
+bounds:198,954,83,52
+offsets:26,10,137,158
+Lvmax_skill4 (10)
+bounds:265,554,137,158
+rotate:180
+Lvmax_skill4 (11)
+bounds:2,571,137,158
+rotate:180
+Lvmax_skill4 (2)
+bounds:282,41,83,62
+offsets:29,11,137,158
+Lvmax_skill4 (3)
+bounds:2,24,79,74
+offsets:29,14,137,158
+Lvmax_skill4 (4)
+bounds:278,225,85,104
+offsets:27,11,137,158
+rotate:270
+Lvmax_skill4 (5)
+bounds:407,241,94,135
+offsets:22,8,137,158
+rotate:270
+Lvmax_skill4 (6)
+bounds:812,278,105,148
+offsets:15,5,137,158
+rotate:270
+Lvmax_skill4 (7)
+bounds:250,415,117,138
+offsets:8,6,137,158
+rotate:180
+Lvmax_skill4 (8)
+bounds:349,459,125,154
+offsets:6,3,137,158
+rotate:90
+Lvmax_skill4 (9)
+bounds:113,474,133,158
+offsets:0,0,137,158
+rotate:90
+Mouth_Close
+bounds:39,986,5,3
+Mouth_Open
+bounds:2,972,5,5
+Rabbit Body
+bounds:348,902,28,25
+Rabbit Ear (L)
+bounds:39,992,19,14
+Rabbit Ear (R)
+bounds:110,644,11,18
+Rabbit Hand (L)
+bounds:243,914,7,8
+Rabbit Hand (R)
+bounds:76,999,9,7
+Rabbit Head
+bounds:201,730,18,15
+offsets:0,1,18,16
+Rabbit Leg (B)
+bounds:239,607,12,11
+Rabbit Leg (F)
+bounds:2,361,14,14
+Ribbon
+bounds:255,668,36,24
+Ribbon Cen
+bounds:198,591,16,15
+Shadow
+bounds:531,972,126,34
+SideHair_(L)
+bounds:397,783,10,25
+SideHair_(R)
+bounds:366,676,11,35
+Skill2_0
+bounds:156,779,32,32
+Skill2_1
+bounds:124,608,123,121
+Skill2_2
+bounds:628,235,88,91
+offsets:0,0,88,95
+rotate:90
+Skill2_3
+bounds:703,583,130,130
+offsets:1,0,131,131
+rotate:90
+StarFX_001
+bounds:839,852,67,67
+StarFX_002
+bounds:2,733,67,67
+StarFX_004
+bounds:79,111,67,67
+rotate:270
+StarFX_006
+bounds:297,115,67,67
+rotate:90
+StarFX_008
+bounds:412,111,67,67
+rotate:270
+StarFX_010
+bounds:2,100,67,67
+StarFX_012
+bounds:955,94,67,67
+rotate:270
+StarFX_014
+bounds:606,100,67,67
+StarFX_016
+bounds:803,99,67,67
+rotate:90
+StarFX_018
+bounds:229,92,67,67
+rotate:90
+StarFX_020
+bounds:904,890,67,58
+offsets:0,0,67,60
+StarFX_022
+bounds:906,955,65,51
+StarFX_024
+bounds:2,559,27,20
+offsets:0,0,29,20
+Thigh (L)
+bounds:662,952,23,54
+Thigh (L)  copy
+bounds:2,670,26,53
+Thigh (R)
+bounds:505,757,24,57
+UpperArm (L)
+bounds:226,890,16,32
+UpperArm (L)_Backup
+bounds:528,800,18,31
+offsets:0,0,18,32
+UpperArm (R)
+bounds:104,663,17,39
+UpperArm (R)_backup
+bounds:370,624,22,32
+offsets:0,0,23,32
+char_Rabbit Ear (L)
+bounds:298,377,44,37
+offsets:0,1,44,39
+clip_a_L
+bounds:624,473,24,40
+clip_a_R
+bounds:2,168,26,38
+clip_a_mid
+bounds:481,5,8,117
+offsets:11,11,30,133
+clip_a_mid2
+bounds:547,941,30,29
+offsets:0,1,30,133
+clip_a_star1
+bounds:251,952,13,12
+offsets:0,1,14,14
+clip_a_star2
+bounds:138,722,12,13
+offsets:0,1,14,14
+clip_b_L
+bounds:741,712,25,38
+clip_c_L
+bounds:741,712,25,38
+clip_b_R
+bounds:294,189,24,38
+clip_c_R
+bounds:294,189,24,38
+clip_b_mid
+bounds:70,111,7,59
+offsets:12,8,30,70
+clip_b_mid2
+bounds:2,441,29,30
+offsets:0,0,30,70
+clip_b_star1
+bounds:185,772,12,12
+offsets:0,1,14,14
+clip_c_star1
+bounds:185,772,12,12
+offsets:0,1,14,14
+clip_b_star2
+bounds:73,720,10,12
+offsets:1,2,14,14
+clip_c_star2
+bounds:73,720,10,12
+offsets:1,2,14,14
+clip_c_mid
+bounds:729,761,7,63
+offsets:12,5,30,70
+clip_c_mid2
+bounds:2,638,29,30
+offsets:0,0,30,70
+effect_linght0
+bounds:531,738,165,220
+rotate:180
+effect_linght1
+bounds:298,25,160,19
+efx_skin/A1
+bounds:543,237,82,89
+offsets:112,108,277,462
+efx_skin/A2
+bounds:635,399,91,148
+offsets:105,45,277,462
+rotate:90
+efx_skin/A3
+bounds:734,696,156,181
+offsets:73,49,277,462
+rotate:270
+efx_skin/A4
+bounds:672,823,170,183
+offsets:64,54,277,462
+rotate:180
+efx_skin/A5
+bounds:375,727,189,279
+offsets:58,33,277,462
+efx_skin/A6
+bounds:191,694,206,283
+offsets:51,34,277,462
+rotate:180
+efx_skin/A7
+bounds:2,701,228,305
+offsets:43,39,277,462
+efx_skin/B0
+bounds:110,2,46,48
+offsets:53,51,153,183
+rotate:270
+efx_skin/B1
+bounds:894,796,72,70
+offsets:40,42,153,183
+efx_skin/B2
+bounds:718,226,89,89
+offsets:33,31,153,183
+efx_skin/B3
+bounds:98,291,99,101
+offsets:27,26,153,183
+efx_skin/B4
+bounds:8,350,110,108
+offsets:22,21,153,183
+efx_skin/B5
+bounds:2,457,113,116
+offsets:21,20,153,183
+rotate:90
+efx_skin/B6
+bounds:622,490,122,122
+offsets:16,16,153,183
+rotate:90
+efx_skin/B7
+bounds:497,501,124,127
+offsets:14,13,153,183
+rotate:90
+efx_skin/B8
+bounds:827,554,128,125
+offsets:11,12,153,183
+rotate:270
+efx_skin/C1
+bounds:546,613,156,124
+offsets:0,0,159,124
+efx_skin/C2
+bounds:849,465,156,80
+offsets:0,0,159,80
+rotate:180
+efx_skin/C3
+bounds:499,415,135,91
+offsets:5,2,159,93
+rotate:180
+efx_skin/C4
+bounds:799,383,118,91
+offsets:2,0,122,95
+efx_skin/C5
+bounds:297,306,118,89
+offsets:2,3,120,92
+rotate:180
+efx_skin/C6
+bounds:2,248,107,79
+offsets:0,0,111,79
+efx_skin/D1
+bounds:697,711,47,50
+offsets:5,0,60,86
+efx_skin/D2
+bounds:249,609,60,41
+offsets:0,21,60,86
+rotate:90
+efx_skin/D3
+bounds:397,980,60,26
+offsets:0,49,60,86
+efx_skin/D4
+bounds:138,574,59,25
+offsets:0,61,60,86
+efx_skin/TX_xuli_0001
+bounds:377,588,168,174
+offsets:6,0,180,174
+light
+bounds:451,624,15,21
+skill3b_1
+bounds:839,938,66,68
+skill3b_2
+bounds:656,157,72,76
+skill3b_3
+bounds:189,237,81,84
+skill3b_4
+bounds:466,326,94,99
+rotate:90
