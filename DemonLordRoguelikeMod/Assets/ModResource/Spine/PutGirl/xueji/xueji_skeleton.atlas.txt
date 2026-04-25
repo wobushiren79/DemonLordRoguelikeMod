@@ -1,0 +1,336 @@
+xueji_skeleton.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+b01
+bounds:991,26,20,21
+b02
+bounds:860,137,44,49
+rotate:90
+b03
+bounds:967,156,25,31
+deng
+bounds:225,798,115,400
+rotate:90
+ice01
+bounds:721,280,117,67
+rotate:90
+ice02
+bounds:721,191,87,82
+rotate:90
+ice03
+bounds:805,232,52,72
+wuqi_01 #r45
+bounds:805,182,51,48
+wuqi_02
+bounds:864,352,69,68
+wuqi_03 #r25
+bounds:978,50,25,23
+wuqi_04 #r60
+bounds:1005,114,17,16
+wuqi_05 #r30
+bounds:1005,71,18,16
+rotate:90
+wuqi_06 #r15
+bounds:972,743,50,54
+xj_body #r10
+bounds:374,5,104,168
+rotate:90
+xj_bozi01 #r65
+bounds:990,132,22,27
+rotate:90
+xj_erhuan
+bounds:1009,378,13,35
+xj_faDai01 #r30
+bounds:858,183,39,58
+rotate:90
+xj_faDai02 #r45
+bounds:669,2,46,49
+rotate:90
+xj_faDai03 #r35
+bounds:859,224,48,60
+rotate:90
+xj_faEr01 #r40
+bounds:598,2,46,69
+rotate:90
+xj_faEr02 #r65
+bounds:779,2,51,53
+rotate:90
+xj_faH01 #r75
+bounds:763,407,42,141
+xj_faH02 #r301
+bounds:412,179,182,202
+xj_faL01
+bounds:634,792,20,18
+xj_faL02 #r70
+bounds:989,268,33,47
+xj_faL03 #r80
+bounds:934,317,29,74
+rotate:90
+xj_faL04 #r15
+bounds:801,705,20,15
+rotate:90
+xj_faQ01 #r65
+bounds:745,55,78,58
+rotate:90
+xj_faQ02 #r65
+bounds:899,40,21,39
+rotate:90
+xj_faQ03 #r10
+bounds:125,2,35,65
+rotate:90
+xj_faQ04
+bounds:921,210,15,61
+rotate:90
+xj_faQ05 #r50
+bounds:720,2,51,57
+rotate:90
+xj_faQ06 #r55
+bounds:928,258,59,57
+xj_faQ07 #r55
+bounds:166,39,74,87
+rotate:90
+xj_faQ08 #r80
+bounds:921,227,59,29
+xj_faQ09 #r45
+bounds:989,240,26,31
+rotate:90
+xj_faQ10 #r55
+bounds:861,2,28,28
+xj_faQ11 #r80
+bounds:805,90,51,50
+xj_faR01 #r25
+bounds:790,290,13,14
+xj_faR02
+bounds:807,407,14,10
+rotate:90
+xj_faR03 #r45
+bounds:923,3,18,22
+rotate:90
+xj_faR04 #r65
+bounds:627,869,27,44
+xj_face #r25
+bounds:935,348,65,72
+rotate:90
+xj_fahua #r60
+bounds:906,96,39,42
+rotate:90
+xj_footL01 #r5
+bounds:225,696,100,407
+rotate:90
+xj_footR01 #r75
+bounds:166,115,88,160
+xj_footR02 #r30
+bounds:256,116,92,148
+rotate:90
+xj_footR02a #r10
+bounds:858,96,46,39
+xj_footR02b #r20
+bounds:899,23,15,31
+rotate:90
+xj_footR02c #r15
+bounds:984,929,14,30
+rotate:90
+xj_footR03 #r25
+bounds:910,543,67,108
+rotate:90
+xj_handL01 #r55
+bounds:818,541,70,90
+rotate:90
+xj_handL02
+bounds:918,189,19,66
+rotate:90
+xj_handL03 #r50
+bounds:861,32,36,41
+xj_handL03a #r35
+bounds:1005,49,20,16
+rotate:90
+xj_handL03b #r40
+bounds:978,75,25,24
+xj_handL03c #r45
+bounds:950,73,26,26
+xj_handL03d #r15
+bounds:1009,354,22,13
+rotate:90
+xj_handR01a
+bounds:2,3,10,26
+rotate:90
+xj_handR01b #r55
+bounds:981,101,22,29
+xj_handR01c #r75
+bounds:125,42,16,31
+rotate:90
+xj_handR01d #r55
+bounds:986,189,21,25
+rotate:90
+xj_handR01e #r20
+bounds:192,2,35,29
+rotate:90
+xj_handR01f
+bounds:1013,194,9,16
+xj_handR02 #r40
+bounds:994,157,23,30
+xj_handR03 #r80
+bounds:828,338,34,83
+xj_handyL01 #r80
+bounds:2,263,159,387
+xj_handyL02 #r80
+bounds:656,929,93,326
+rotate:90
+xj_handyR01 #r25
+bounds:2,652,221,370
+xj_handyR02 #r20
+bounds:2,15,121,246
+xj_handyR03
+bounds:712,135,54,85
+rotate:90
+xj_mm01 #r25
+bounds:672,50,14,7
+xj_mm02
+bounds:225,652,24,5
+xj_mmL01 #r70
+bounds:949,49,26,22
+xj_mmL02
+bounds:1005,91,21,16
+rotate:90
+xj_mmR01
+bounds:957,132,31,22
+xj_mmR02
+bounds:30,3,23,10
+xj_pR01
+bounds:223,7,30,31
+rotate:90
+xj_pR02
+bounds:950,101,29,29
+xj_pR03 #r10
+bounds:225,659,35,32
+rotate:90
+xj_pR04 #r40
+bounds:828,306,30,28
+rotate:90
+xj_pR05 #r40
+bounds:627,812,27,23
+xj_pR06
+bounds:858,75,19,46
+rotate:90
+xj_pR07 #r70
+bounds:911,137,23,44
+rotate:90
+xj_pR08
+bounds:949,741,21,48
+xj_pR09 #r50
+bounds:967,22,25,22
+rotate:90
+xj_pR10
+bounds:562,383,9,27
+rotate:90
+xj_pR11 #r80
+bounds:586,149,8,28
+xj_pR12 #r70
+bounds:984,212,30,26
+xj_pR13 #r5
+bounds:949,727,12,38
+rotate:90
+xj_pR14 #r55
+bounds:906,63,31,41
+rotate:90
+xj_pR15 #r20
+bounds:984,945,38,77
+xj_pR16 #r40
+bounds:598,50,72,83
+xj_pR17 #r30
+bounds:805,59,49,29
+xj_pR18 #r65
+bounds:918,162,47,25
+xj_pR19 #r80
+bounds:879,422,117,62
+rotate:90
+xj_pR20 #r45
+bounds:799,142,38,59
+rotate:90
+xj_qun01 #r40
+bounds:225,915,107,429
+rotate:90
+xj_qun02 #r30
+bounds:596,191,123,201
+xj_qun03 #r55
+bounds:163,277,94,373
+xj_qun04 #r70
+bounds:801,727,62,146
+rotate:90
+xj_qun05 #r25
+bounds:259,395,164,299
+xj_qun06 #r70
+bounds:425,383,135,311
+xj_qun07 #r10
+bounds:562,394,125,300
+xj_si01 #r5
+bounds:125,60,39,201
+xj_si02 #r70
+bounds:634,696,93,165
+rotate:90
+xj_si3 #r10
+bounds:689,399,72,149
+xj_weiba01 #r45
+bounds:923,612,99,113
+xj_weiba02 #r35
+bounds:834,791,136,136
+xj_weiba03 #r55
+bounds:259,210,151,183
+xj_weiba04 #r5
+bounds:406,111,178,66
+xj_weiba05 #r65
+bounds:656,791,176,136
+xj_weiba06 #r50
+bounds:689,550,144,127
+rotate:90
+xj_xiong01 #r25
+bounds:859,274,67,58
+xj_xiong02
+bounds:972,857,50,70
+xj_yaodaiL01 #r25
+bounds:834,7,50,25
+rotate:90
+xj_yaodaiL02
+bounds:672,59,71,74
+xj_yaodaiL03 #r65
+bounds:818,613,103,112
+xj_yaodaiR01
+bounds:864,334,68,16
+xj_yaodaiR02 #r85
+bounds:943,462,79,79
+xj_yaodaiR03 #r70
+bounds:256,2,116,112
+xj_yaohua
+bounds:972,799,56,50
+rotate:90
+xj_yaosheng01 #r5
+bounds:790,306,36,99
+xj_yaosheng02 #r5
+bounds:943,445,15,79
+rotate:90
+xj_yaosheng03 #r85
+bounds:891,4,30,17
+xj_yaosheng04 #r10
+bounds:943,415,28,77
+rotate:90
+xj_yaosheng05 #r20
+bounds:596,135,54,114
+rotate:90
+xj_yaosheng05a #r50
+bounds:627,837,27,30
+xj_yifu01 #r70
+bounds:807,423,116,70
+rotate:90
+xj_yifu02 #r20
+bounds:544,12,97,52
+rotate:90
+xj_yifu03 #r70
+bounds:940,23,24,25
+rotate:90
+xj_zui01
+bounds:799,182,7,4
+rotate:90
+xj_zui02 #r15
+bounds:921,259,13,5
+rotate:90

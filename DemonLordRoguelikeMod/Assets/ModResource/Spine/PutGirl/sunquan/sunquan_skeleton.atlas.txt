@@ -1,0 +1,208 @@
+sunquan_skeleton.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+00000_00000
+bounds:927,268,500,40
+rotate:90
+Sunquan_baiqun01
+bounds:969,838,67,51
+rotate:90
+Sunquan_baiqun02
+bounds:943,100,77,94
+Sunquan_baiqun03
+bounds:2,273,133,201
+Sunquan_baiqun04
+bounds:2,5,309,261
+Sunquan_baiqun06
+bounds:554,770,413,252
+Sunquan_bikai
+bounds:842,6,63,57
+Sunquan_bizui
+bounds:244,268,20,11
+Sunquan_gong
+bounds:2,768,550,254
+Sunquan_houbi02
+bounds:799,3,60,41
+rotate:90
+Sunquan_houbi03
+bounds:96,533,54,39
+rotate:90
+Sunquan_houbi04
+bounds:137,705,171,61
+Sunquan_houbi05
+bounds:927,196,95,70
+Sunquan_houbi06
+bounds:137,301,168,120
+Sunquan_houpiao
+bounds:630,212,99,66
+Sunquan_houqun
+bounds:554,427,341,371
+rotate:90
+Sunquan_houtui01
+bounds:630,2,208,102
+rotate:90
+Sunquan_houtui02
+bounds:313,205,269,233
+rotate:90
+Sunquan_lliuhai01
+bounds:137,270,45,29
+Sunquan_lliuhai04
+bounds:969,960,53,62
+Sunquan_lliuhai07
+bounds:969,364,44,99
+Sunquan_lliuhai08
+bounds:969,766,22,49
+rotate:90
+Sunquan_maozi
+bounds:2,476,92,111
+Sunquan_mawei01
+bounds:313,476,238,290
+Sunquan_mawei03
+bounds:313,10,146,193
+Sunquan_mawei04
+bounds:137,423,211,169
+rotate:90
+Sunquan_mawei05
+bounds:137,636,170,67
+Sunquan_mawei06
+bounds:548,280,145,187
+rotate:90
+Sunquan_mawei08
+bounds:737,212,213,188
+rotate:90
+Sunquan_mawei09
+bounds:461,7,60,102
+Sunquan_piaodai01
+bounds:734,3,63,60
+Sunquan_piaodai02
+bounds:548,13,253,80
+rotate:90
+Sunquan_piaodai03
+bounds:969,485,181,47
+rotate:90
+Sunquan_piaodai04
+bounds:461,111,85,25
+Sunquan_piaodai05
+bounds:969,790,51,46
+Sunquan_shenti
+bounds:2,589,131,177
+Sunquan_shouzhi01
+bounds:523,68,21,41
+Sunquan_shouzhi02
+bounds:907,6,34,57
+Sunquan_shouzhi03
+bounds:96,484,47,35
+rotate:90
+Sunquan_tui02
+bounds:734,65,185,145
+Sunquan_weixiaobiyan
+bounds:184,272,58,27
+Sunquan_xu01
+bounds:461,138,85,65
+Sunquan_xu02
+bounds:943,6,71,92
+Sunquan_xu03
+bounds:969,668,48,96
+Sunquan_yidai01
+bounds:244,281,57,18
+Sunquan_yidai02
+bounds:969,465,45,18
+Sunquan_yidai03
+bounds:523,49,21,17
+Sunquan_yiling
+bounds:969,907,51,53
+rotate:90
+Sunquan_zhangzui
+bounds:523,35,19,12
+Sunquan_zhengyan
+bounds:969,291,71,43
+rotate:90
+Sunquan_zui
+bounds:266,270,19,9
+
+sunquan_skeleton2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Sunquan_baiqun05
+bounds:760,19,145,180
+Sunquan_biyan
+bounds:706,803,62,36
+Sunquan_gongaaa
+bounds:429,801,275,127
+Sunquan_houbi01
+bounds:269,14,181,182
+rotate:90
+Sunquan_lian
+bounds:910,922,96,86
+Sunquan_lliuhai02
+bounds:706,841,87,66
+rotate:90
+Sunquan_lliuhai03
+bounds:910,774,38,69
+Sunquan_lliuhai05
+bounds:950,864,35,56
+Sunquan_lliuhai06
+bounds:910,845,38,75
+Sunquan_mawei02
+bounds:2,490,214,518
+Sunquan_mawei07
+bounds:453,12,166,183
+Sunquan_mawei10
+bounds:218,731,209,277
+Sunquan_shoubi01
+bounds:621,16,183,137
+rotate:90
+Sunquan_tui01
+bounds:2,147,211,341
+Sunquan_xuan01
+bounds:429,930,347,78
+arrow fire/arrow fire_00000
+bounds:218,464,130,265
+arrow fire/arrow fire_00004
+bounds:215,197,130,265
+arrow fire/arrow fire_00008
+bounds:350,464,130,265
+arrow fire/arrow fire_00012
+bounds:347,197,130,265
+arrow fire/arrow fire_00016
+bounds:2,15,130,265
+rotate:90
+arrow fire/arrow fire_00020
+bounds:482,468,130,265
+arrow fire/arrow fire_00024
+bounds:614,468,130,265
+arrow fire/arrow fire_00028
+bounds:479,197,130,265
+arrow fire/arrow fire_00032
+bounds:611,201,130,265
+arrow fire/arrow fire_00036
+bounds:743,201,130,265
+arrow fire/arrow fire_00040
+bounds:778,743,130,265
+arrow fire/arrow fire_00044
+bounds:746,476,130,265
+arrow fire/arrow fire_00048
+bounds:878,476,130,265
+arrow fire/arrow fire_00052
+bounds:875,209,130,265
+yuanshao_jian02
+bounds:429,735,269,64
+
+sunquan_skeleton3.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+arrow fire/arrow fire_00056
+bounds:2,536,130,265
+arrow fire/arrow fire_00060
+bounds:2,269,130,265
+arrow fire/arrow fire_00064
+bounds:134,536,130,265
+arrow fire/arrow fire_00068
+bounds:2,2,130,265
+arrow fire/arrow fire_00072
+bounds:134,269,130,265
+arrow fire/arrow fire_00076
+bounds:266,536,130,265

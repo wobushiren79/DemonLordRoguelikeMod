@@ -1,0 +1,411 @@
+fengchenxiuji_skeleton.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+fcxj bi
+bounds:664,234,8,9
+fcxj dao2
+bounds:943,640,79,174
+fcxj dao3
+bounds:562,597,45,363
+rotate:90
+fcxj dress10
+bounds:2,537,89,213
+rotate:90
+fcxj dress11
+bounds:680,3,255,210
+fcxj dress13
+bounds:176,2,105,210
+fcxj dress15
+bounds:2,6,172,226
+fcxj dress3
+bounds:287,433,245,193
+fcxj dress5
+bounds:927,463,175,95
+rotate:90
+fcxj dudou3
+bounds:108,278,131,153
+fcxj fashi11
+bounds:477,4,24,100
+fcxj fashi2
+bounds:176,214,61,18
+fcxj fashi3
+bounds:574,235,72,17
+fcxj fashi6
+bounds:574,82,103,22
+fcxj fashi7
+bounds:562,254,22,116
+rotate:90
+fcxj fashi9
+bounds:535,537,25,114
+fcxj l rearm2
+bounds:574,4,76,50
+rotate:90
+fcxj l rearm3
+bounds:503,6,69,98
+fcxj l shouzhi6
+bounds:108,433,44,43
+rotate:90
+fcxj l xieshi1
+bounds:239,214,18,20
+rotate:90
+fcxj l xieshi2
+bounds:283,106,29,64
+fcxj mouth2
+bounds:664,245,12,7
+fcxj mouth3
+bounds:562,234,18,10
+rotate:90
+fcxj pifeng1
+bounds:283,2,102,192
+rotate:90
+fcxj pifeng3
+bounds:2,806,559,216
+fcxj qiuqiu1
+bounds:287,214,24,27
+rotate:90
+fcxj qiuqiu2
+bounds:650,5,23,25
+fcxj r arm2
+bounds:680,215,244,61
+fcxj r leg1
+bounds:241,278,73,153
+fcxj r shouzhi4
+bounds:926,215,53,17
+fcxj r thign
+bounds:2,278,104,257
+fcxj r xie3
+bounds:926,234,76,95
+rotate:90
+fcxj r xieshi1
+bounds:261,214,17,18
+fcxj r xieshi6
+bounds:266,541,45,19
+rotate:90
+fcxj r xiuzi2
+bounds:563,644,378,170
+fcxj r yanbai
+bounds:626,3,27,22
+rotate:90
+fcxj r yanzhu1
+bounds:648,235,17,14
+rotate:90
+fcxj shuizi1
+bounds:283,172,31,40
+fcxj toufa10
+bounds:2,628,176,531
+rotate:90
+fcxj toufa12
+bounds:563,816,206,459
+rotate:90
+fcxj toufa2
+bounds:535,653,25,151
+fcxj toufa7
+bounds:108,479,56,175
+rotate:90
+fcxj tx 1
+bounds:926,312,149,95
+rotate:90
+fcxj tx 6
+bounds:316,106,325,244
+rotate:90
+fcxj tx 7
+bounds:562,278,362,317
+fcxj xiong
+bounds:937,2,54,79
+rotate:90
+fcxj yao
+bounds:937,58,155,85
+rotate:90
+fcxj yaoshi10
+bounds:234,434,43,49
+rotate:90
+fcxj yaoshi11
+bounds:626,32,48,51
+rotate:90
+fcxj yaoshi7
+bounds:217,588,38,68
+rotate:90
+fcxj yaoshi9
+bounds:2,234,150,42
+fcxj yiling2
+bounds:534,456,79,25
+rotate:90
+fcxj yinyang1
+bounds:287,240,36,27
+rotate:90
+fcxj yinying2
+bounds:534,433,23,21
+fcxj zhuangshi10
+bounds:154,234,131,42
+fcxj zhuangshi11
+bounds:562,106,116,126
+fcxj zhuangshi2
+bounds:217,537,49,47
+rotate:90
+fcxj zhuangshi8
+bounds:153,434,43,79
+rotate:90
+meimao2
+bounds:981,220,41,12
+
+fengchenxiuji_skeleton2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+fcxj bady2
+bounds:187,494,159,174
+fcxj body
+bounds:187,374,73,151
+rotate:90
+fcxj bozi
+bounds:560,189,58,63
+rotate:90
+fcxj dao1
+bounds:900,865,82,157
+fcxj dao4
+bounds:2,331,336,40
+rotate:90
+fcxj daoren
+bounds:243,91,111,21
+fcxj dress1
+bounds:200,670,140,218
+rotate:90
+fcxj dress12
+bounds:413,460,45,187
+rotate:90
+fcxj dress14
+bounds:413,507,77,203
+rotate:90
+fcxj dress2
+bounds:912,667,94,196
+fcxj dress4
+bounds:638,570,208,111
+fcxj dress6
+bounds:815,444,180,91
+fcxj dress7
+bounds:602,395,186,90
+fcxj dress8
+bounds:105,484,216,80
+rotate:90
+fcxj dress9
+bounds:420,838,237,184
+fcxj dudou1
+bounds:848,537,143,128
+fcxj dudou2
+bounds:973,331,111,33
+rotate:90
+fcxj erduo
+bounds:722,104,24,33
+fcxj fashi1
+bounds:691,184,48,15
+fcxj fashi10
+bounds:410,2,22,110
+rotate:90
+fcxj fashi12
+bounds:243,114,22,93
+rotate:90
+fcxj fashi13
+bounds:531,301,22,84
+fcxj fashi14
+bounds:873,334,74,20
+fcxj fashi4
+bounds:790,335,81,19
+fcxj fashi5
+bounds:534,204,95,24
+rotate:90
+fcxj fashi8
+bounds:993,544,20,121
+fcxj head
+bounds:702,683,158,208
+rotate:90
+fcxj l arm1
+bounds:410,26,47,111
+fcxj l biyan1
+bounds:543,66,47,20
+fcxj l foot
+bounds:618,487,81,195
+rotate:90
+fcxj l hand2
+bounds:675,256,63,64
+rotate:90
+fcxj l rearm1
+bounds:48,56,144,77
+rotate:90
+fcxj l rearm4
+bounds:560,249,61,74
+fcxj l shangyanpi
+bounds:522,2,48,24
+fcxj l shouzhi7
+bounds:625,184,64,22
+fcxj l thign
+bounds:88,702,110,320
+fcxj l xiayanpi
+bounds:177,203,19,22
+rotate:90
+fcxj l xie1
+bounds:333,2,37,87
+fcxj l xie2
+bounds:501,64,40,110
+fcxj l xieshi3
+bounds:984,889,38,55
+fcxj l xieshi4
+bounds:698,201,53,53
+fcxj l xieshi6
+bounds:173,2,24,60
+fcxj l yanbai
+bounds:984,865,30,22
+fcxj l yanzhu1
+bounds:465,272,20,14
+rotate:90
+fcxj l yanzhu2
+bounds:949,330,22,24
+fcxj larm3
+bounds:348,504,63,164
+fcxj lxieshi5
+bounds:154,224,17,45
+rotate:90
+fcxj meimao1
+bounds:153,413,32,19
+fcxj mouth1
+bounds:187,681,19,11
+rotate:90
+fcxj pifeng2
+bounds:248,3,83,86
+fcxj r arm1
+bounds:338,125,125,64
+rotate:90
+fcxj r biyan1
+bounds:997,448,38,25
+rotate:90
+fcxj r foot
+bounds:790,356,86,181
+rotate:90
+fcxj r hand
+bounds:535,400,65,58
+fcxj r leg2
+bounds:2,669,84,353
+fcxj r shangyanpi
+bounds:153,377,34,25
+rotate:90
+fcxj r shouzhi1
+bounds:553,31,38,33
+fcxj r shouzhi2
+bounds:984,946,76,38
+rotate:90
+fcxj r shouzhi3
+bounds:753,331,62,35
+rotate:90
+fcxj r shouzhi5
+bounds:690,93,40,30
+rotate:90
+fcxj r xiayanpi
+bounds:848,667,25,14
+fcxj r xie1
+bounds:404,139,53,117
+fcxj r xie2
+bounds:555,325,35,73
+fcxj r xie4
+bounds:592,327,66,84
+rotate:90
+fcxj r xie5
+bounds:44,334,78,107
+rotate:90
+fcxj r xieshi2
+bounds:501,28,34,50
+rotate:90
+fcxj r xieshi3
+bounds:997,488,25,54
+fcxj r xieshi4
+bounds:611,137,45,50
+rotate:90
+fcxj r xieshi5
+bounds:638,684,17,48
+rotate:90
+fcxj r xiuzi1
+bounds:2,2,327,44
+rotate:90
+fcxj r xiuzi3
+bounds:420,703,280,133
+fcxj r yanzhu2
+bounds:154,202,20,21
+rotate:90
+fcxj shuizi2
+bounds:707,139,33,43
+fcxj toufa1
+bounds:44,414,59,253
+fcxj toufa13
+bounds:154,243,87,129
+fcxj toufa3
+bounds:459,140,20,116
+fcxj toufa4
+bounds:48,3,51,123
+rotate:90
+fcxj toufa5
+bounds:372,10,36,113
+fcxj toufa6
+bounds:201,111,40,130
+fcxj toufa8
+bounds:187,449,43,155
+rotate:90
+fcxj toufa9
+bounds:127,64,72,136
+fcxj tx 3
+bounds:659,843,239,179
+fcxj tx 4
+bounds:420,586,216,115
+fcxj tx 5
+bounds:465,294,91,64
+rotate:90
+fcxj xiabai1
+bounds:481,176,116,51
+rotate:90
+fcxj xiabai2
+bounds:243,138,112,93
+rotate:90
+fcxj xiabai3
+bounds:243,252,120,92
+rotate:90
+fcxj xionghua1
+bounds:48,202,130,104
+rotate:90
+fcxj yaoshi1
+bounds:648,95,40,38
+fcxj yaoshi12
+bounds:663,135,42,47
+fcxj yaoshi2
+bounds:201,59,50,40
+rotate:90
+fcxj yaoshi3
+bounds:598,92,48,43
+fcxj yaoshi4
+bounds:404,426,129,32
+fcxj yaoshi5
+bounds:459,27,40,111
+fcxj yaoshi6
+bounds:372,258,36,91
+rotate:90
+fcxj yaoshi8
+bounds:404,387,127,37
+fcxj yiling1
+bounds:105,434,80,48
+fcxj zhuangshi1
+bounds:372,296,91,89
+fcxj zhuangshi3
+bounds:199,2,47,55
+fcxj zhuangshi4
+bounds:543,88,53,47
+fcxj zhuangshi5
+bounds:623,256,69,50
+rotate:90
+fcxj zhuangshi6
+bounds:543,137,66,50
+fcxj zhuangshi7
+bounds:625,208,71,46
+fcxj zhuangshi9
+bounds:337,252,33,120
+guang1
+bounds:200,812,218,210
+xingxing
+bounds:678,321,72,73
+rotate:90
