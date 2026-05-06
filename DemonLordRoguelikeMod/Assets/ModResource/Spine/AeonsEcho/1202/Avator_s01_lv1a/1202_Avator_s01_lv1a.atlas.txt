@@ -1,0 +1,360 @@
+1202_Avator_s01_lv1a.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Arm R
+bounds:388,1658,309,133
+offsets:1,0,310,133
+ArmUp_L
+bounds:1392,531,338,431
+offsets:0,1,340,432
+ArmUp_R
+bounds:993,1123,185,230
+offsets:6,0,213,230
+ArmUp_R_ClothB
+bounds:1321,960,293,534
+offsets:3,0,301,534
+rotate:180
+BackHair
+bounds:921,157,348,300
+Braids
+bounds:1149,426,319,398
+offsets:0,0,333,398
+rotate:270
+Chest _R_Hl
+bounds:993,1012,75,119
+offsets:0,0,75,120
+Chest_L
+bounds:966,1345,339,420
+offsets:0,20,339,440
+Chest_L_Hl
+bounds:954,917,93,105
+offsets:0,0,108,109
+Chest_R
+bounds:2,451,403,530
+offsets:0,22,403,552
+rotate:90
+Clavicle_R
+bounds:2,38,205,213
+offsets:3,1,210,216
+rotate:270
+ClothA
+bounds:1109,293,625,664
+rotate:90
+ClothB
+bounds:717,439,566,632
+rotate:180
+ClothB_sha
+bounds:1621,1257,165,272
+offsets:3,16,169,311
+ClothB_sha_1a_#
+bounds:705,998,286,584
+offsets:4,8,314,616
+DownMouth_Idle
+bounds:188,1219,76,77
+offsets:6,4,90,86
+Ear R
+bounds:49,1178,80,117
+Eye L_Tap
+bounds:262,1716,76,75
+offsets:2,1,82,81
+Eyeball L
+bounds:340,1706,45,43
+offsets:0,1,46,45
+Eyeball L hl
+bounds:16,1773,10,8
+Eyeball R
+bounds:909,1582,60,63
+offsets:1,2,64,68
+Eyeball hl R
+bounds:16,1783,22,8
+Eyebrow L
+bounds:80,1161,42,59
+offsets:1,1,47,60
+Eyebrow L_Tap
+bounds:129,1215,47,52
+offsets:2,2,50,56
+Eyebrow R
+bounds:2,39,144,41
+offsets:1,0,145,42
+Eyelash L_Tap
+bounds:2,1374,44,28
+offsets:1,1,46,30
+Eyelash R
+bounds:544,1551,59,28
+Eyewhite L
+bounds:206,828,63,56
+offsets:2,2,67,60
+Eyewhite R
+bounds:620,1503,81,76
+offsets:9,0,93,76
+Eyewhite sha L
+bounds:193,1742,66,49
+offsets:4,1,72,53
+Eyewhite sha R
+bounds:911,750,85,65
+offsets:9,2,94,68
+Face
+bounds:531,461,358,447
+offsets:5,0,363,448
+rotate:90
+Face shy
+bounds:1103,46,268,177
+offsets:13,11,287,197
+Finger A R
+bounds:877,1666,117,86
+Finger B R
+bounds:324,421,128,91
+offsets:12,0,140,93
+Finger B R sha
+bounds:516,751,80,58
+offsets:0,1,80,82
+Finger C R
+bounds:1036,1070,136,94
+offsets:4,0,140,95
+Finger C R sha
+bounds:2,839,70,60
+offsets:3,1,74,62
+Finger D R
+bounds:623,1720,136,71
+offsets:0,1,136,72
+Finger D R sha
+bounds:158,1762,53,29
+offsets:1,1,56,32
+Finger D R shaB
+bounds:538,1642,31,32
+Glasses
+bounds:740,18,317,167
+offsets:4,1,321,168
+GlassesB
+bounds:226,1733,27,19
+offsets:0,0,28,19
+HairBang L A
+bounds:986,744,23,174
+offsets:26,9,52,183
+HairBang L B
+bounds:796,98,126,342
+HairBang R
+bounds:2,589,337,204
+rotate:270
+HairMiddle
+bounds:1463,1322,174,191
+HairSide L
+bounds:339,1580,211,537
+rotate:90
+HairSide L back
+bounds:434,103,198,426
+rotate:90
+HairSide R In
+bounds:2,130,298,258
+offsets:0,0,315,258
+HairSideL Out
+bounds:1257,198,239,521
+rotate:270
+HairSideL Out+
+bounds:1387,910,20,150
+offsets:0,4,20,154
+HairSideL sha
+bounds:2,1129,59,249
+offsets:4,7,78,257
+HairSide_L_sha
+bounds:1175,1273,75,78
+offsets:1,1,77,80
+Lower Mo_Tap
+bounds:2,886,88,86
+offsets:12,17,103,105
+LowerClothB
+bounds:2,228,666,280
+LowerEyelid L
+bounds:2,64,83,62
+offsets:0,0,84,62
+LowerEyelid R
+bounds:842,1689,108,102
+offsets:7,6,120,111
+Milk Body
+bounds:1192,827,198,158
+offsets:1,3,200,163
+rotate:180
+Milk Bottle
+bounds:522,163,258,305
+rotate:90
+Milk Top
+bounds:841,792,141,38
+offsets:10,1,152,40
+Milk_on_Body_TapA
+bounds:2,1639,15,27
+offsets:1,0,16,28
+Milk_on_Body_TapB
+bounds:1064,391,117,166
+offsets:2,1,143,169
+Milk_on_Body_TapC
+bounds:2,1772,12,19
+Milk_on_Body_TapD
+bounds:2,768,38,80
+offsets:1,7,42,87
+Milk_on_Body_TapE
+bounds:668,1027,34,143
+offsets:9,0,45,151
+Milk_on_Body_TapF
+bounds:1165,1108,32,135
+offsets:1,1,35,161
+Milk_on_mouth_Tap
+bounds:315,1246,48,76
+offsets:0,8,49,84
+MouthIn_Idle
+bounds:340,1749,51,42
+offsets:2,4,55,46
+Neck
+bounds:2,1269,223,308
+offsets:3,0,226,308
+Nipple_L
+bounds:215,48,157,80
+offsets:15,12,186,101
+Nipple_L_1a_#
+bounds:1305,1490,159,130
+offsets:71,4,230,142
+Nipple_R
+bounds:771,832,181,164
+offsets:12,6,201,181
+Nipple_R_1a_#
+bounds:161,291,180,180
+offsets:28,32,229,264
+Nose
+bounds:501,1633,37,45
+offsets:3,1,48,50
+Palm Back
+bounds:993,1346,54,78
+Palm R
+bounds:215,1236,115,144
+offsets:5,7,120,151
+Pillow
+bounds:1378,98,198,413
+rotate:270
+Sleeve R
+bounds:1242,1480,311,482
+offsets:0,0,446,485
+rotate:270
+Sleeve R back
+bounds:1550,1018,219,253
+offsets:0,13,223,266
+Sleeve R inside
+bounds:1123,977,322,476
+offsets:0,0,322,483
+rotate:180
+Straw
+bounds:318,309,232,232
+offsets:1,0,233,233
+rotate:270
+Teeth_Tap
+bounds:566,1626,57,36
+offsets:0,0,57,38
+ThighL
+bounds:2,1106,702,685
+offsets:7,19,709,704
+Thigh_R
+bounds:2,811,768,424
+offsets:0,0,814,424
+rotate:180
+Tongue_Tap
+bounds:2,1559,42,63
+offsets:0,0,42,64
+UpMouth_Idle
+bounds:57,379,83,71
+offsets:3,7,90,84
+UpperEyelid L
+bounds:606,1051,85,81
+offsets:0,9,88,93
+UpperEyelid R
+bounds:774,1583,138,91
+offsets:0,2,138,94
+UpperMouth_Tap
+bounds:1239,1413,84,73
+offsets:4,4,91,82
+milkA
+bounds:220,1372,39,26
+milkB
+bounds:2,1755,22,15
+
+1202_Avator_s01_lv1a_2.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+props/ArmDownR
+bounds:2,140,216,540
+offsets:0,3,216,543
+rotate:270
+props/ArmUp_R_ClothA
+bounds:1493,1720,313,521
+rotate:90
+props/ArmUp_R_ClothB_inside
+bounds:735,174,282,500
+offsets:6,10,288,514
+rotate:270
+props/Arm_R_Sha_Tap
+bounds:1749,1336,489,260
+offsets:1,0,490,262
+rotate:270
+props/BodyCloth_In
+bounds:852,683,308,167
+offsets:0,1,308,168
+props/BodyLow
+bounds:2,1202,471,716
+offsets:14,3,519,741
+rotate:90
+props/BodyLow_1a_#
+bounds:1186,629,465,722
+offsets:0,0,490,741
+rotate:270
+props/BodyUp
+bounds:508,678,670,721
+offsets:0,9,670,822
+rotate:270
+props/Bottle Back
+bounds:720,1367,255,302
+props/Calf_L
+bounds:2,172,732,389
+offsets:0,0,734,389
+props/Calf_R
+bounds:394,908,107,147
+props/ClothB_Back
+bounds:2,48,154,158
+offsets:1,0,155,158
+props/ClothBelt
+bounds:277,792,333,408
+offsets:0,2,333,410
+props/Foot_R
+bounds:1220,142,228,140
+props/LegSofa
+bounds:1552,996,483,190
+props/LowerClothA
+bounds:320,429,477,625
+offsets:0,18,477,649
+rotate:270
+props/LowerClothB_Back
+bounds:942,457,667,296
+offsets:0,2,667,298
+rotate:180
+props/RibbonA
+bounds:873,1443,168,223
+offsets:0,0,168,226
+props/RibbonB
+bounds:517,43,223,239
+offsets:0,0,223,243
+rotate:90
+props/RibbonUp
+bounds:706,358,114,185
+offsets:0,1,114,188
+rotate:90
+props/SofaCloth
+bounds:1587,204,405,455
+props/UnderWear
+bounds:2,563,273,637
+offsets:1,1,275,638
+props/bottle_milkA
+bounds:2,1706,282,87
+props/bottle_milkB
+bounds:720,1285,216,82
+offsets:0,0,217,82
+props/sofa
+bounds:2,1092,1821,943
+offsets:0,313,1882,1882

@@ -24,9 +24,9 @@ BodyUp_Lv1
 bounds:983,999,355,279
 offsets:10,0,365,279
 rotate:180
-Boob(L)_Lv1 AB
+Boob(L)_Lv1
 bounds:1417,765,217,263
-Boob(R)_Lv1 AB
+Boob(R)_Lv1
 bounds:1636,768,209,258
 BreastPartsA(Tap)
 bounds:193,993,98,82
